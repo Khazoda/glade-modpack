@@ -26,6 +26,16 @@ hash = "a3a4764437d80679d689091a1353277ba29fe8cb609ef2ed5dc6df5572eb1485"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "c2597298dd5d160ca9161a12bcb5e933118cb66718b27c0945938eedb19dd90d"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "d3716e8b83ff2044733b4e58ea266cb3f2957f472d08d015abe6a54e425202e4"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "0b1a53f585b616faa04cb2bccdb05e67c0fbc1887b209c191d4fb7c91d13cac4"
 metafile = true
