@@ -16,6 +16,11 @@ hash = "66ad317ec27c82ab1ec3e21df1600a3745569a533a604c9e44e4c5f54926b23f"
 metafile = true
 
 [[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "a3a4764437d80679d689091a1353277ba29fe8cb609ef2ed5dc6df5572eb1485"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "d3716e8b83ff2044733b4e58ea266cb3f2957f472d08d015abe6a54e425202e4"
 metafile = true
