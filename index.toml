@@ -6,6 +6,11 @@ hash = "f1d91ca97fc333082f8802e5c0eac82b106d5434a995374bc7e20847f02811ee"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "600154aab18728230f542bb4c3277ed72a2eb45649b0c4a07ca453ab736efc24"
+metafile = true
+
+[[files]]
 file = "mods/bronze.pw.toml"
 hash = "4e6acbd016a1116350986f5c4c3349c403a639867b0303a76355183cc9aeac1d"
 metafile = true
