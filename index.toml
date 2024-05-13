@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/basic-weapons.pw.toml"
+hash = "f1d91ca97fc333082f8802e5c0eac82b106d5434a995374bc7e20847f02811ee"
+metafile = true
+
+[[files]]
+file = "mods/bronze.pw.toml"
+hash = "4e6acbd016a1116350986f5c4c3349c403a639867b0303a76355183cc9aeac1d"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "66ad317ec27c82ab1ec3e21df1600a3745569a533a604c9e44e4c5f54926b23f"
 metafile = true
