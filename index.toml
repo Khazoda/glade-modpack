@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "desktop.ini"
+hash = "c83fc09097d1e20406376b3313bc156aa7855890a8400ee520fe3833504d8b4b"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "689af17262c93b93d9879d3587d038a2c9dd2b2d48c420876baa3f79b664dc9a"
 metafile = true
@@ -64,3 +68,7 @@ metafile = true
 file = "mods/sodium.pw.toml"
 hash = "0b1a53f585b616faa04cb2bccdb05e67c0fbc1887b209c191d4fb7c91d13cac4"
 metafile = true
+
+[[files]]
+file = "resourcepacks/-[Craftable Painting Variants ResourcePack v2]-.zip"
+hash = "ac7f8b6e190a1b5b668621dbb19fed2670e56495c98d895ab15a66dd273d0fd3"
