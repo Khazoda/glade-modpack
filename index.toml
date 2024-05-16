@@ -55,11 +55,6 @@ hash = "8f124e6ece89008ddcd6d6cf3208d4851b21d69c3a802af6d196b416d2938002"
 metafile = true
 
 [[files]]
-file = "mods/held-item-info.pw.toml"
-hash = "e1f029d8ace0de73370edec1adf1b0a50dd6f469af9aea78a52201584c0f333f"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "c2597298dd5d160ca9161a12bcb5e933118cb66718b27c0945938eedb19dd90d"
 metafile = true
