@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/bronze.pw.toml"
-hash = "80e4d8abe1fe4e3dcdcb0d1e49db3a435a204840c9d8a392b9968befd4acc8c1"
+hash = "a944d1cc37a8d3668a7e5fbeefc21d5e7e720ba9042f7f21af8b932487611dc9"
 metafile = true
 
 [[files]]
