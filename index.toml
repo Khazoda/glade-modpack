@@ -1,8 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "689af17262c93b93d9879d3587d038a2c9dd2b2d48c420876baa3f79b664dc9a"
+metafile = true
+
+[[files]]
 file = "mods/basic-weapons.pw.toml"
 hash = "f1d91ca97fc333082f8802e5c0eac82b106d5434a995374bc7e20847f02811ee"
+metafile = true
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+hash = "2a180ac45ca51b80b389e5973d845807c639c9c3e20cfe5660df541f1677e556"
 metafile = true
 
 [[files]]
