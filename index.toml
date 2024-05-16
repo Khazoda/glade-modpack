@@ -5,6 +5,11 @@ file = "desktop.ini"
 hash = "c83fc09097d1e20406376b3313bc156aa7855890a8400ee520fe3833504d8b4b"
 
 [[files]]
+file = "mods/ambient-environment.pw.toml"
+hash = "0273b31933c3071d5b44d73d79e162ae4f9f902d39306e1dcb7160e0929c529d"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "689af17262c93b93d9879d3587d038a2c9dd2b2d48c420876baa3f79b664dc9a"
 metafile = true
@@ -35,8 +40,23 @@ hash = "66ad317ec27c82ab1ec3e21df1600a3745569a533a604c9e44e4c5f54926b23f"
 metafile = true
 
 [[files]]
+file = "mods/explosive-enhancement.pw.toml"
+hash = "afe4a2446679827ede0d3a0a3ebc5004bffd98142642a65b8e72ee6163334bd5"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "a3a4764437d80679d689091a1353277ba29fe8cb609ef2ed5dc6df5572eb1485"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "8f124e6ece89008ddcd6d6cf3208d4851b21d69c3a802af6d196b416d2938002"
+metafile = true
+
+[[files]]
+file = "mods/held-item-info.pw.toml"
+hash = "e1f029d8ace0de73370edec1adf1b0a50dd6f469af9aea78a52201584c0f333f"
 metafile = true
 
 [[files]]
@@ -65,6 +85,11 @@ hash = "b6c8fe81a75bc2c3292ef642e62985c2d9e270ad26f7aa044ff33b906425e8a8"
 metafile = true
 
 [[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "42b14250cb57eefaab462c132396105ea178ca35afcbc8250d8c457df535ab05"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "174b7b4038141e84a8a08c29d742fe4608574955991b6147b0a5fdac4c6529ff"
 metafile = true
@@ -77,4 +102,9 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "0b1a53f585b616faa04cb2bccdb05e67c0fbc1887b209c191d4fb7c91d13cac4"
+metafile = true
+
+[[files]]
+file = "mods/tiny-item-animations.pw.toml"
+hash = "85637a09fe2f619c54117e29e9f562aa8e91d5942733df5f6ac19c966348d1cd"
 metafile = true
