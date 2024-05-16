@@ -41,6 +41,11 @@ hash = "6c8c93e74e46a0cac65179d027e9aac4eaebc44847604b0ff86644f3030116e8"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "b6c8fe81a75bc2c3292ef642e62985c2d9e270ad26f7aa044ff33b906425e8a8"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "0b1a53f585b616faa04cb2bccdb05e67c0fbc1887b209c191d4fb7c91d13cac4"
 metafile = true
