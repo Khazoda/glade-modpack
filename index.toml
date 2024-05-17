@@ -40,6 +40,16 @@ hash = "66ad317ec27c82ab1ec3e21df1600a3745569a533a604c9e44e4c5f54926b23f"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "033fc4edb3128901ba49baf1a50cd5fa2bdbc56ff839916709211e08f33ca1b3"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "25fafc003b64544898a0bb0db1e0ed37647a05c5448ca1d4dc181ad03fdadfb7"
+metafile = true
+
+[[files]]
 file = "mods/explosive-enhancement.pw.toml"
 hash = "afe4a2446679827ede0d3a0a3ebc5004bffd98142642a65b8e72ee6163334bd5"
 metafile = true
