@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/emi.css"
+hash = "ae7d13db76f77e33e633ce940617ebb03694cfd6b23449a7f97d08d6f812d12b"
+
+[[files]]
 file = "desktop.ini"
 hash = "c83fc09097d1e20406376b3313bc156aa7855890a8400ee520fe3833504d8b4b"
 
