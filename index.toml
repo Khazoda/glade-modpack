@@ -20,12 +20,12 @@ metafile = true
 
 [[files]]
 file = "mods/basic-weapons.pw.toml"
-hash = "f1d91ca97fc333082f8802e5c0eac82b106d5434a995374bc7e20847f02811ee"
+hash = "6d8c859b0f08b9b1415ddef6188c955b2daaaa351cdeb5bf52aa2209be83054a"
 metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "2a180ac45ca51b80b389e5973d845807c639c9c3e20cfe5660df541f1677e556"
+hash = "925f2d260a347d171fab3c9adb73fda37409cf1fb763bf00f342736ad1a29698"
 metafile = true
 
 [[files]]
