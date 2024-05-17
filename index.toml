@@ -118,3 +118,11 @@ metafile = true
 file = "mods/universal-graves.pw.toml"
 hash = "e0dd34137a7967f5c051f2c61b1de6e16e8a54af1a4e824eb83b7a113a13201b"
 metafile = true
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1.9.zip"
+hash = "24e434f4332ef645a4c985163cdcf08eef43698f538d78da56b1814d632b1ae1"
+
+[[files]]
+file = "resourcepacks/cubic-sun-moon-vb1-7-4a.zip"
+hash = "78b8165cdd611d053ec89de39254c81e0f2960905b3120d11ca86f9c6a4f43d8"
