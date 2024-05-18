@@ -129,9 +129,37 @@ hash = "e0dd34137a7967f5c051f2c61b1de6e16e8a54af1a4e824eb83b7a113a13201b"
 metafile = true
 
 [[files]]
+file = "resourcepacks/Better_Cats_V0.09.zip"
+hash = "c647eb3397fc861178c49edde7c1f4edae957ca573c5ad25cd1e9a5f7fdf2437"
+
+[[files]]
+file = "resourcepacks/Better_Dogs_V0.41.zip"
+hash = "27f19f08cd13a42786722dc18b0a14aaf83411b9a3e4efa51f3f92caa3bb3523"
+
+[[files]]
 file = "resourcepacks/FreshAnimations_v1.9.zip"
 hash = "24e434f4332ef645a4c985163cdcf08eef43698f538d78da56b1814d632b1ae1"
 
 [[files]]
+file = "resourcepacks/Os' Amethyst Indicator.zip"
+hash = "a0ac4c37a5e354eb6e869b688bb8a974ce3bc12239b3e2f6a67b8abf91b6bb85"
+
+[[files]]
+file = "resourcepacks/Os' Colorful Cobblestone.zip"
+hash = "7a97d6f8f5ce1e29448d7b7f76da98c01f453ffeba7b3cf903f59577bc349113"
+
+[[files]]
+file = "resourcepacks/Serified Font v1.1 pf1-33.zip"
+hash = "1736e804acd693a0a5e9115de877bf15cbd69cce27198ca5e6c35cedd1a9c078"
+
+[[files]]
+file = "resourcepacks/Stay_True_1.20.4.zip"
+hash = "fc3f30655fe0673f003451cf3b02ec5fab10d29036013e0b9dac24d1542ff2a0"
+
+[[files]]
 file = "resourcepacks/cubic-sun-moon-vb1-7-4a.zip"
 hash = "78b8165cdd611d053ec89de39254c81e0f2960905b3120d11ca86f9c6a4f43d8"
+
+[[files]]
+file = "resourcepacks/xali's Enhanced Jungle Wood v1.2.zip"
+hash = "826eb98eaf57a91847ecbfe525f89350dd08c29eac069663f1bbea435b50ae56"
