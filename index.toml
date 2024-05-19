@@ -134,6 +134,11 @@ hash = "e0dd34137a7967f5c051f2c61b1de6e16e8a54af1a4e824eb83b7a113a13201b"
 metafile = true
 
 [[files]]
+file = "mods/vistas.pw.toml"
+hash = "63f05815bde2490a582bb338e0fe3cd4b1d2241bb7f81fe5db993e8298705f84"
+metafile = true
+
+[[files]]
 file = "options.txt"
 hash = "642c1b559a4fe5285281346a7fe4013006065768d50edcc1408f73e1de7713c7"
 

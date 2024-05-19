@@ -1,0 +1,13 @@
+name = "Vistas"
+filename = "vistas-2.6.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/itzZXRxq/versions/jjB2mL5v/vistas-2.6.1.jar"
+hash-format = "sha1"
+hash = "ad08bdaca30924f384ba45b68f2cdaa804bfcb71"
+
+[update]
+[update.modrinth]
+mod-id = "itzZXRxq"
+version = "jjB2mL5v"
