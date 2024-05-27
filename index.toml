@@ -19,6 +19,11 @@ hash = "689af17262c93b93d9879d3587d038a2c9dd2b2d48c420876baa3f79b664dc9a"
 metafile = true
 
 [[files]]
+file = "mods/assorted-accolades.pw.toml"
+hash = "6e677e6764dead741cc8673cb57dcd81cec7b68d5b74b8ee72caef49af9068d9"
+metafile = true
+
+[[files]]
 file = "mods/basic-weapons.pw.toml"
 hash = "cfcf19293bc306460b92deb25f6b84c89506032ba0e1b05a0f49fcf5b1a64502"
 metafile = true
