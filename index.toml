@@ -5,6 +5,10 @@ file = "config/emi.css"
 hash = "ae7d13db76f77e33e633ce940617ebb03694cfd6b23449a7f97d08d6f812d12b"
 
 [[files]]
+file = "config/vistas.json"
+hash = "b486e1eab6b2356915e3c0862d16e1c539229ee6ac66e27172d7cc5b42d8de5a"
+
+[[files]]
 file = "desktop.ini"
 hash = "c83fc09097d1e20406376b3313bc156aa7855890a8400ee520fe3833504d8b4b"
 
@@ -145,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "642c1b559a4fe5285281346a7fe4013006065768d50edcc1408f73e1de7713c7"
+hash = "3f149088d7bd65f7a4f791506ea1639519df17f0af61aeaa6f860af7bd2ce481"
 
 [[files]]
 file = "resourcepacks/Better_Cats_V0.09.zip"
@@ -158,6 +162,10 @@ hash = "7997c352411bcdd04a9d89317ecc115832ef85f93d38530d24d79f22eba1d76a"
 [[files]]
 file = "resourcepacks/FreshAnimations_v1.9.zip"
 hash = "24e434f4332ef645a4c985163cdcf08eef43698f538d78da56b1814d632b1ae1"
+
+[[files]]
+file = "resourcepacks/JunePlus Resources.zip"
+hash = "cc80b2743d8bda5dd7f46f3cf9e40fc716fddbc3f141dea9aea48015c591562f"
 
 [[files]]
 file = "resourcepacks/Os' Amethyst Indicator.zip"
