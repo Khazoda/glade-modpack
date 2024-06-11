@@ -1,12 +1,12 @@
 name = "June +"
 author = "Khazoda"
-version = "1.0.12"
+version = "1.0.13"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d86ccfc317d7ee685091dec1b8c1ba605d7e63af330b271362994557d916c3b1"
+hash = "b2d6f7c1831e37f904e9e66a6abf9afa9e9d8b08dcb5efbdd852607f9c4394ba"
 
 [versions]
 fabric = "0.15.11"
