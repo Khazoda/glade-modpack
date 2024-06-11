@@ -138,11 +138,6 @@ hash = "0b1a53f585b616faa04cb2bccdb05e67c0fbc1887b209c191d4fb7c91d13cac4"
 metafile = true
 
 [[files]]
-file = "mods/tiny-item-animations.pw.toml"
-hash = "85637a09fe2f619c54117e29e9f562aa8e91d5942733df5f6ac19c966348d1cd"
-metafile = true
-
-[[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "e0dd34137a7967f5c051f2c61b1de6e16e8a54af1a4e824eb83b7a113a13201b"
 metafile = true
