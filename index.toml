@@ -74,17 +74,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a3a4764437d80679d689091a1353277ba29fe8cb609ef2ed5dc6df5572eb1485"
+hash = "7bfd3f90f0f45c957ba2f7a695726cad48ab0c36eae9ac1a4feace483087f232"
 metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "8f124e6ece89008ddcd6d6cf3208d4851b21d69c3a802af6d196b416d2938002"
+hash = "8923bbd5e6612b44106508cfad0081e3d890cfe0a927b5f10e0b5be59c63d722"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
+hash = "fc8ae39ef4edbdb8e23ec91a10d1ef42c0fc569b5c8d633d7c584bfd55daa8bc"
 metafile = true
 
 [[files]]
@@ -99,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "d3716e8b83ff2044733b4e58ea266cb3f2957f472d08d015abe6a54e425202e4"
+hash = "ce0282aa9a31909cba4c187bbf1ea0df1c0cd6077d21f89130116f6051a8d6ca"
 metafile = true
 
 [[files]]
@@ -115,6 +115,11 @@ metafile = true
 [[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "42b14250cb57eefaab462c132396105ea178ca35afcbc8250d8c457df535ab05"
+metafile = true
+
+[[files]]
+file = "mods/plushables-lite.pw.toml"
+hash = "ec69ac029e59db93346b2d91f5302bc400a0cd46999559838479879f3ed6144f"
 metafile = true
 
 [[files]]
@@ -186,3 +191,11 @@ hash = "78b8165cdd611d053ec89de39254c81e0f2960905b3120d11ca86f9c6a4f43d8"
 [[files]]
 file = "resourcepacks/xali's Enhanced Jungle Wood v1.2.zip"
 hash = "826eb98eaf57a91847ecbfe525f89350dd08c29eac069663f1bbea435b50ae56"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.2.1.zip"
+hash = "fb5045a8ae0551721ddc5c8f3928057cd6415ccc3ca7df947cafb55564547dd0"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.2.1.zip.txt"
+hash = "15a28ca60ab3d34d71d85e2510297bc7951bc9952f8e6d3acfc4fcfd1f804b66"
