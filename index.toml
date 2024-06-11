@@ -1,6 +1,3582 @@
 hash-format = "sha256"
 
 [[files]]
+file = "JunePlus Resource Pack Master File/assets/dorianpb/cem/cat.jem"
+hash = "9e7ae66b837272a23b49b3eeb7a083d78457732f11d06ca814a219cd658e07c1"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/blockstates/cobblestone.json"
+hash = "cf6c0cb7561662cc336e05d2f25c62c4697fe9c8fab7a6bd7045d5fb0fdaa956"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/blockstates/cobblestone_slab.json"
+hash = "3cc75ffc74d869d3b4be69c2a9ebad33d06f3053e0ee39d884fbb9e6e530ef29"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/blockstates/cobblestone_stairs.json"
+hash = "02f55684bc003909b146733e13589c3237949f8770b8defbf1b849a9bc7e8543"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/blockstates/cobblestone_wall.json"
+hash = "d7e3316f3634ad19ff8d22a9dc36ac8250e2cb99bfdadd24c1ce8bed11f2a62a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/blockstates/jungle_door.json"
+hash = "18ce37a5a98db85c371088a2d287a4c9e3413159f38b6588474415443a7bef2d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/blockstates/jungle_slab.json"
+hash = "740dbaeac55d8c30d1bdfdd8ec6d9cc179b35582fe62ba89a3a592cfdf4906e8"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/blockstates/jungle_trapdoor.json"
+hash = "de194a12c18e1c246107b7d26e3489835422faeff9a7f120940c67f33eb17411"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/cem/cat.jem"
+hash = "6b4904bb71a76e3089dd79034ab89dc22847f18dceefb4c85e584bf3eaa9ee92"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/emissive.properties"
+hash = "7120af4667e64edf8bcb0d64ab849d7e19e1ed6d341daadd8d5c58542239aca1"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/all_black.properties"
+hash = "545e5d09b97a0be5cca8ad695c61aef0c7c7c2b0325343735fbf2a271d0c11dd"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/all_black10.png"
+hash = "2f255006701297ad0705dda7a4f1fa4c1ef5af5f1fd50d70078231252d874d48"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/all_black11.png"
+hash = "51aec299f0b080ce0ca5a46403497b804e1ae5bc57fa99724c40e549718a7714"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/all_black12.png"
+hash = "60762c9e92326f030225ec206eb7515f635253d1802eb6e67c72331aa6ff9db4"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/all_black13.png"
+hash = "1b113b1924ab97f42c55689ad4633d2c08b20b9290a4b827e2f4be7a7e426258"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/all_black14.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/all_black15.png"
+hash = "87534b7d424691bbf43542925938b2e336c0388dacd0339dfc52582000d4afc6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/all_black16.png"
+hash = "4411e5b6378cc2e4636c048180169d1bad70915ac2f36b90e3f8a950aa02cde9"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/all_black17.png"
+hash = "4a23bc7de208fb58f204d02e0aa7916ad14e69e671fab23f9480eefcfec4a488"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/all_black18.png"
+hash = "2834d0bba218a326c2f5c562a42d1ff0057324c8f30668bf78ac7d24260a247f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/all_black19.png"
+hash = "a224e3fee253b33ce7a352e18aa6eb02779e6dc10d60ff6f9e840b7e5a154915"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/all_black2.png"
+hash = "cef283f404081936563a2444498228b81dfbc7660ca8f16f41e60cb469653888"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/all_black20.png"
+hash = "4eb628c043fd0f77beab32e5a49a4ae8f1740d2cbf690eb4d29c53328e193885"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/all_black21.png"
+hash = "7f11c77ba9d9dc4f2dfa43c838b4f02186de051923f699475b0a857895911e0d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/all_black22.png"
+hash = "70f22e56cf86f7680029be6d06e6903ad5a29116bfb27ce0231f54670b0d4f26"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/all_black23.png"
+hash = "21d546b04c244737a515334fe925c64bf08b6ec68e7238ad4bacacbc67492bda"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/all_black24.png"
+hash = "1082d63271d781de4ea2df98a36589768fa93c83f24448c7cb889cca8c2bad2c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/all_black25.png"
+hash = "4cc443544c89d47c398bc687fbd305cdebf9a8c5f95a3a7a82f9cfd259374ed6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/all_black3.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/all_black4.png"
+hash = "8e33fdb876ae6b6f70362aabc3bd4c7087debb6f5d71a9c540e868180d9a450a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/all_black5.png"
+hash = "080a3f1e96d96530e36f5fbf6b3c10ecefb0a02822c95dccb102015e560933b3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/all_black6.png"
+hash = "1c319c7c8bcd3a811b78532b8c2d868b9f0111188fe84ffece2344025505ef6c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/all_black7.png"
+hash = "14c36073f3c2764bcd02b8dfe2d37a5de0476d95d9e7567c7ef66f8d34d61017"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/all_black8.png"
+hash = "bc131dd71ce4fe7a916ac205bf2d65d9838fd1744d80a88f03f43600ca6d252a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/all_black9.png"
+hash = "952157d6d5d7b58803125e28cf57b4333e1624c2aaedbdeef80dcfb32aabd85d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/black.properties"
+hash = "545e5d09b97a0be5cca8ad695c61aef0c7c7c2b0325343735fbf2a271d0c11dd"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/black10.png"
+hash = "2f255006701297ad0705dda7a4f1fa4c1ef5af5f1fd50d70078231252d874d48"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/black11.png"
+hash = "51aec299f0b080ce0ca5a46403497b804e1ae5bc57fa99724c40e549718a7714"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/black12.png"
+hash = "60762c9e92326f030225ec206eb7515f635253d1802eb6e67c72331aa6ff9db4"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/black13.png"
+hash = "1b113b1924ab97f42c55689ad4633d2c08b20b9290a4b827e2f4be7a7e426258"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/black14.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/black15.png"
+hash = "87534b7d424691bbf43542925938b2e336c0388dacd0339dfc52582000d4afc6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/black16.png"
+hash = "4411e5b6378cc2e4636c048180169d1bad70915ac2f36b90e3f8a950aa02cde9"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/black17.png"
+hash = "4a23bc7de208fb58f204d02e0aa7916ad14e69e671fab23f9480eefcfec4a488"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/black18.png"
+hash = "2834d0bba218a326c2f5c562a42d1ff0057324c8f30668bf78ac7d24260a247f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/black19.png"
+hash = "a224e3fee253b33ce7a352e18aa6eb02779e6dc10d60ff6f9e840b7e5a154915"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/black2.png"
+hash = "cef283f404081936563a2444498228b81dfbc7660ca8f16f41e60cb469653888"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/black20.png"
+hash = "4eb628c043fd0f77beab32e5a49a4ae8f1740d2cbf690eb4d29c53328e193885"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/black21.png"
+hash = "7f11c77ba9d9dc4f2dfa43c838b4f02186de051923f699475b0a857895911e0d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/black22.png"
+hash = "70f22e56cf86f7680029be6d06e6903ad5a29116bfb27ce0231f54670b0d4f26"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/black23.png"
+hash = "21d546b04c244737a515334fe925c64bf08b6ec68e7238ad4bacacbc67492bda"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/black24.png"
+hash = "1082d63271d781de4ea2df98a36589768fa93c83f24448c7cb889cca8c2bad2c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/black25.png"
+hash = "4cc443544c89d47c398bc687fbd305cdebf9a8c5f95a3a7a82f9cfd259374ed6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/black3.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/black4.png"
+hash = "8e33fdb876ae6b6f70362aabc3bd4c7087debb6f5d71a9c540e868180d9a450a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/black5.png"
+hash = "080a3f1e96d96530e36f5fbf6b3c10ecefb0a02822c95dccb102015e560933b3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/black6.png"
+hash = "1c319c7c8bcd3a811b78532b8c2d868b9f0111188fe84ffece2344025505ef6c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/black7.png"
+hash = "14c36073f3c2764bcd02b8dfe2d37a5de0476d95d9e7567c7ef66f8d34d61017"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/black8.png"
+hash = "bc131dd71ce4fe7a916ac205bf2d65d9838fd1744d80a88f03f43600ca6d252a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/black9.png"
+hash = "952157d6d5d7b58803125e28cf57b4333e1624c2aaedbdeef80dcfb32aabd85d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/british_shorthair.properties"
+hash = "545e5d09b97a0be5cca8ad695c61aef0c7c7c2b0325343735fbf2a271d0c11dd"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/british_shorthair10.png"
+hash = "2f255006701297ad0705dda7a4f1fa4c1ef5af5f1fd50d70078231252d874d48"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/british_shorthair11.png"
+hash = "51aec299f0b080ce0ca5a46403497b804e1ae5bc57fa99724c40e549718a7714"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/british_shorthair12.png"
+hash = "60762c9e92326f030225ec206eb7515f635253d1802eb6e67c72331aa6ff9db4"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/british_shorthair13.png"
+hash = "1b113b1924ab97f42c55689ad4633d2c08b20b9290a4b827e2f4be7a7e426258"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/british_shorthair14.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/british_shorthair15.png"
+hash = "87534b7d424691bbf43542925938b2e336c0388dacd0339dfc52582000d4afc6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/british_shorthair16.png"
+hash = "4411e5b6378cc2e4636c048180169d1bad70915ac2f36b90e3f8a950aa02cde9"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/british_shorthair17.png"
+hash = "4a23bc7de208fb58f204d02e0aa7916ad14e69e671fab23f9480eefcfec4a488"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/british_shorthair18.png"
+hash = "2834d0bba218a326c2f5c562a42d1ff0057324c8f30668bf78ac7d24260a247f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/british_shorthair19.png"
+hash = "a224e3fee253b33ce7a352e18aa6eb02779e6dc10d60ff6f9e840b7e5a154915"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/british_shorthair2.png"
+hash = "cef283f404081936563a2444498228b81dfbc7660ca8f16f41e60cb469653888"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/british_shorthair20.png"
+hash = "4eb628c043fd0f77beab32e5a49a4ae8f1740d2cbf690eb4d29c53328e193885"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/british_shorthair21.png"
+hash = "7f11c77ba9d9dc4f2dfa43c838b4f02186de051923f699475b0a857895911e0d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/british_shorthair22.png"
+hash = "70f22e56cf86f7680029be6d06e6903ad5a29116bfb27ce0231f54670b0d4f26"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/british_shorthair23.png"
+hash = "21d546b04c244737a515334fe925c64bf08b6ec68e7238ad4bacacbc67492bda"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/british_shorthair24.png"
+hash = "1082d63271d781de4ea2df98a36589768fa93c83f24448c7cb889cca8c2bad2c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/british_shorthair25.png"
+hash = "4cc443544c89d47c398bc687fbd305cdebf9a8c5f95a3a7a82f9cfd259374ed6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/british_shorthair3.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/british_shorthair4.png"
+hash = "8e33fdb876ae6b6f70362aabc3bd4c7087debb6f5d71a9c540e868180d9a450a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/british_shorthair5.png"
+hash = "080a3f1e96d96530e36f5fbf6b3c10ecefb0a02822c95dccb102015e560933b3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/british_shorthair6.png"
+hash = "1c319c7c8bcd3a811b78532b8c2d868b9f0111188fe84ffece2344025505ef6c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/british_shorthair7.png"
+hash = "14c36073f3c2764bcd02b8dfe2d37a5de0476d95d9e7567c7ef66f8d34d61017"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/british_shorthair8.png"
+hash = "bc131dd71ce4fe7a916ac205bf2d65d9838fd1744d80a88f03f43600ca6d252a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/british_shorthair9.png"
+hash = "952157d6d5d7b58803125e28cf57b4333e1624c2aaedbdeef80dcfb32aabd85d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/calico.properties"
+hash = "545e5d09b97a0be5cca8ad695c61aef0c7c7c2b0325343735fbf2a271d0c11dd"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/calico10.png"
+hash = "2f255006701297ad0705dda7a4f1fa4c1ef5af5f1fd50d70078231252d874d48"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/calico11.png"
+hash = "51aec299f0b080ce0ca5a46403497b804e1ae5bc57fa99724c40e549718a7714"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/calico12.png"
+hash = "60762c9e92326f030225ec206eb7515f635253d1802eb6e67c72331aa6ff9db4"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/calico13.png"
+hash = "1b113b1924ab97f42c55689ad4633d2c08b20b9290a4b827e2f4be7a7e426258"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/calico14.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/calico15.png"
+hash = "87534b7d424691bbf43542925938b2e336c0388dacd0339dfc52582000d4afc6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/calico16.png"
+hash = "4411e5b6378cc2e4636c048180169d1bad70915ac2f36b90e3f8a950aa02cde9"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/calico17.png"
+hash = "4a23bc7de208fb58f204d02e0aa7916ad14e69e671fab23f9480eefcfec4a488"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/calico18.png"
+hash = "2834d0bba218a326c2f5c562a42d1ff0057324c8f30668bf78ac7d24260a247f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/calico19.png"
+hash = "a224e3fee253b33ce7a352e18aa6eb02779e6dc10d60ff6f9e840b7e5a154915"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/calico2.png"
+hash = "cef283f404081936563a2444498228b81dfbc7660ca8f16f41e60cb469653888"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/calico20.png"
+hash = "4eb628c043fd0f77beab32e5a49a4ae8f1740d2cbf690eb4d29c53328e193885"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/calico21.png"
+hash = "7f11c77ba9d9dc4f2dfa43c838b4f02186de051923f699475b0a857895911e0d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/calico22.png"
+hash = "70f22e56cf86f7680029be6d06e6903ad5a29116bfb27ce0231f54670b0d4f26"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/calico23.png"
+hash = "21d546b04c244737a515334fe925c64bf08b6ec68e7238ad4bacacbc67492bda"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/calico24.png"
+hash = "1082d63271d781de4ea2df98a36589768fa93c83f24448c7cb889cca8c2bad2c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/calico25.png"
+hash = "4cc443544c89d47c398bc687fbd305cdebf9a8c5f95a3a7a82f9cfd259374ed6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/calico3.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/calico4.png"
+hash = "8e33fdb876ae6b6f70362aabc3bd4c7087debb6f5d71a9c540e868180d9a450a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/calico5.png"
+hash = "080a3f1e96d96530e36f5fbf6b3c10ecefb0a02822c95dccb102015e560933b3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/calico6.png"
+hash = "1c319c7c8bcd3a811b78532b8c2d868b9f0111188fe84ffece2344025505ef6c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/calico7.png"
+hash = "14c36073f3c2764bcd02b8dfe2d37a5de0476d95d9e7567c7ef66f8d34d61017"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/calico8.png"
+hash = "bc131dd71ce4fe7a916ac205bf2d65d9838fd1744d80a88f03f43600ca6d252a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/calico9.png"
+hash = "952157d6d5d7b58803125e28cf57b4333e1624c2aaedbdeef80dcfb32aabd85d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/jellie.properties"
+hash = "545e5d09b97a0be5cca8ad695c61aef0c7c7c2b0325343735fbf2a271d0c11dd"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/jellie10.png"
+hash = "2f255006701297ad0705dda7a4f1fa4c1ef5af5f1fd50d70078231252d874d48"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/jellie11.png"
+hash = "51aec299f0b080ce0ca5a46403497b804e1ae5bc57fa99724c40e549718a7714"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/jellie12.png"
+hash = "60762c9e92326f030225ec206eb7515f635253d1802eb6e67c72331aa6ff9db4"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/jellie13.png"
+hash = "1b113b1924ab97f42c55689ad4633d2c08b20b9290a4b827e2f4be7a7e426258"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/jellie14.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/jellie15.png"
+hash = "87534b7d424691bbf43542925938b2e336c0388dacd0339dfc52582000d4afc6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/jellie16.png"
+hash = "4411e5b6378cc2e4636c048180169d1bad70915ac2f36b90e3f8a950aa02cde9"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/jellie17.png"
+hash = "4a23bc7de208fb58f204d02e0aa7916ad14e69e671fab23f9480eefcfec4a488"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/jellie18.png"
+hash = "2834d0bba218a326c2f5c562a42d1ff0057324c8f30668bf78ac7d24260a247f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/jellie19.png"
+hash = "a224e3fee253b33ce7a352e18aa6eb02779e6dc10d60ff6f9e840b7e5a154915"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/jellie2.png"
+hash = "cef283f404081936563a2444498228b81dfbc7660ca8f16f41e60cb469653888"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/jellie20.png"
+hash = "4eb628c043fd0f77beab32e5a49a4ae8f1740d2cbf690eb4d29c53328e193885"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/jellie21.png"
+hash = "7f11c77ba9d9dc4f2dfa43c838b4f02186de051923f699475b0a857895911e0d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/jellie22.png"
+hash = "70f22e56cf86f7680029be6d06e6903ad5a29116bfb27ce0231f54670b0d4f26"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/jellie23.png"
+hash = "21d546b04c244737a515334fe925c64bf08b6ec68e7238ad4bacacbc67492bda"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/jellie24.png"
+hash = "1082d63271d781de4ea2df98a36589768fa93c83f24448c7cb889cca8c2bad2c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/jellie25.png"
+hash = "4cc443544c89d47c398bc687fbd305cdebf9a8c5f95a3a7a82f9cfd259374ed6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/jellie3.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/jellie4.png"
+hash = "8e33fdb876ae6b6f70362aabc3bd4c7087debb6f5d71a9c540e868180d9a450a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/jellie5.png"
+hash = "080a3f1e96d96530e36f5fbf6b3c10ecefb0a02822c95dccb102015e560933b3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/jellie6.png"
+hash = "1c319c7c8bcd3a811b78532b8c2d868b9f0111188fe84ffece2344025505ef6c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/jellie7.png"
+hash = "14c36073f3c2764bcd02b8dfe2d37a5de0476d95d9e7567c7ef66f8d34d61017"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/jellie8.png"
+hash = "bc131dd71ce4fe7a916ac205bf2d65d9838fd1744d80a88f03f43600ca6d252a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/jellie9.png"
+hash = "952157d6d5d7b58803125e28cf57b4333e1624c2aaedbdeef80dcfb32aabd85d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/persian.properties"
+hash = "545e5d09b97a0be5cca8ad695c61aef0c7c7c2b0325343735fbf2a271d0c11dd"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/persian10.png"
+hash = "2f255006701297ad0705dda7a4f1fa4c1ef5af5f1fd50d70078231252d874d48"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/persian11.png"
+hash = "51aec299f0b080ce0ca5a46403497b804e1ae5bc57fa99724c40e549718a7714"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/persian12.png"
+hash = "60762c9e92326f030225ec206eb7515f635253d1802eb6e67c72331aa6ff9db4"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/persian13.png"
+hash = "1b113b1924ab97f42c55689ad4633d2c08b20b9290a4b827e2f4be7a7e426258"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/persian14.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/persian15.png"
+hash = "87534b7d424691bbf43542925938b2e336c0388dacd0339dfc52582000d4afc6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/persian16.png"
+hash = "4411e5b6378cc2e4636c048180169d1bad70915ac2f36b90e3f8a950aa02cde9"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/persian17.png"
+hash = "4a23bc7de208fb58f204d02e0aa7916ad14e69e671fab23f9480eefcfec4a488"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/persian18.png"
+hash = "2834d0bba218a326c2f5c562a42d1ff0057324c8f30668bf78ac7d24260a247f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/persian19.png"
+hash = "a224e3fee253b33ce7a352e18aa6eb02779e6dc10d60ff6f9e840b7e5a154915"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/persian2.png"
+hash = "cef283f404081936563a2444498228b81dfbc7660ca8f16f41e60cb469653888"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/persian20.png"
+hash = "4eb628c043fd0f77beab32e5a49a4ae8f1740d2cbf690eb4d29c53328e193885"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/persian21.png"
+hash = "7f11c77ba9d9dc4f2dfa43c838b4f02186de051923f699475b0a857895911e0d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/persian22.png"
+hash = "70f22e56cf86f7680029be6d06e6903ad5a29116bfb27ce0231f54670b0d4f26"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/persian23.png"
+hash = "21d546b04c244737a515334fe925c64bf08b6ec68e7238ad4bacacbc67492bda"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/persian24.png"
+hash = "1082d63271d781de4ea2df98a36589768fa93c83f24448c7cb889cca8c2bad2c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/persian25.png"
+hash = "4cc443544c89d47c398bc687fbd305cdebf9a8c5f95a3a7a82f9cfd259374ed6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/persian3.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/persian4.png"
+hash = "8e33fdb876ae6b6f70362aabc3bd4c7087debb6f5d71a9c540e868180d9a450a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/persian5.png"
+hash = "080a3f1e96d96530e36f5fbf6b3c10ecefb0a02822c95dccb102015e560933b3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/persian6.png"
+hash = "1c319c7c8bcd3a811b78532b8c2d868b9f0111188fe84ffece2344025505ef6c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/persian7.png"
+hash = "14c36073f3c2764bcd02b8dfe2d37a5de0476d95d9e7567c7ef66f8d34d61017"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/persian8.png"
+hash = "bc131dd71ce4fe7a916ac205bf2d65d9838fd1744d80a88f03f43600ca6d252a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/persian9.png"
+hash = "952157d6d5d7b58803125e28cf57b4333e1624c2aaedbdeef80dcfb32aabd85d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/ragdoll.properties"
+hash = "545e5d09b97a0be5cca8ad695c61aef0c7c7c2b0325343735fbf2a271d0c11dd"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/ragdoll10.png"
+hash = "2f255006701297ad0705dda7a4f1fa4c1ef5af5f1fd50d70078231252d874d48"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/ragdoll11.png"
+hash = "51aec299f0b080ce0ca5a46403497b804e1ae5bc57fa99724c40e549718a7714"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/ragdoll12.png"
+hash = "60762c9e92326f030225ec206eb7515f635253d1802eb6e67c72331aa6ff9db4"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/ragdoll13.png"
+hash = "1b113b1924ab97f42c55689ad4633d2c08b20b9290a4b827e2f4be7a7e426258"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/ragdoll14.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/ragdoll15.png"
+hash = "87534b7d424691bbf43542925938b2e336c0388dacd0339dfc52582000d4afc6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/ragdoll16.png"
+hash = "4411e5b6378cc2e4636c048180169d1bad70915ac2f36b90e3f8a950aa02cde9"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/ragdoll17.png"
+hash = "4a23bc7de208fb58f204d02e0aa7916ad14e69e671fab23f9480eefcfec4a488"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/ragdoll18.png"
+hash = "2834d0bba218a326c2f5c562a42d1ff0057324c8f30668bf78ac7d24260a247f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/ragdoll19.png"
+hash = "a224e3fee253b33ce7a352e18aa6eb02779e6dc10d60ff6f9e840b7e5a154915"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/ragdoll2.png"
+hash = "cef283f404081936563a2444498228b81dfbc7660ca8f16f41e60cb469653888"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/ragdoll20.png"
+hash = "4eb628c043fd0f77beab32e5a49a4ae8f1740d2cbf690eb4d29c53328e193885"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/ragdoll21.png"
+hash = "7f11c77ba9d9dc4f2dfa43c838b4f02186de051923f699475b0a857895911e0d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/ragdoll22.png"
+hash = "70f22e56cf86f7680029be6d06e6903ad5a29116bfb27ce0231f54670b0d4f26"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/ragdoll23.png"
+hash = "21d546b04c244737a515334fe925c64bf08b6ec68e7238ad4bacacbc67492bda"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/ragdoll24.png"
+hash = "1082d63271d781de4ea2df98a36589768fa93c83f24448c7cb889cca8c2bad2c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/ragdoll25.png"
+hash = "4cc443544c89d47c398bc687fbd305cdebf9a8c5f95a3a7a82f9cfd259374ed6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/ragdoll3.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/ragdoll4.png"
+hash = "8e33fdb876ae6b6f70362aabc3bd4c7087debb6f5d71a9c540e868180d9a450a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/ragdoll5.png"
+hash = "080a3f1e96d96530e36f5fbf6b3c10ecefb0a02822c95dccb102015e560933b3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/ragdoll6.png"
+hash = "1c319c7c8bcd3a811b78532b8c2d868b9f0111188fe84ffece2344025505ef6c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/ragdoll7.png"
+hash = "14c36073f3c2764bcd02b8dfe2d37a5de0476d95d9e7567c7ef66f8d34d61017"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/ragdoll8.png"
+hash = "bc131dd71ce4fe7a916ac205bf2d65d9838fd1744d80a88f03f43600ca6d252a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/ragdoll9.png"
+hash = "952157d6d5d7b58803125e28cf57b4333e1624c2aaedbdeef80dcfb32aabd85d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/red.properties"
+hash = "545e5d09b97a0be5cca8ad695c61aef0c7c7c2b0325343735fbf2a271d0c11dd"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/red10.png"
+hash = "2f255006701297ad0705dda7a4f1fa4c1ef5af5f1fd50d70078231252d874d48"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/red11.png"
+hash = "51aec299f0b080ce0ca5a46403497b804e1ae5bc57fa99724c40e549718a7714"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/red12.png"
+hash = "60762c9e92326f030225ec206eb7515f635253d1802eb6e67c72331aa6ff9db4"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/red13.png"
+hash = "1b113b1924ab97f42c55689ad4633d2c08b20b9290a4b827e2f4be7a7e426258"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/red14.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/red15.png"
+hash = "87534b7d424691bbf43542925938b2e336c0388dacd0339dfc52582000d4afc6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/red16.png"
+hash = "4411e5b6378cc2e4636c048180169d1bad70915ac2f36b90e3f8a950aa02cde9"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/red17.png"
+hash = "4a23bc7de208fb58f204d02e0aa7916ad14e69e671fab23f9480eefcfec4a488"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/red18.png"
+hash = "2834d0bba218a326c2f5c562a42d1ff0057324c8f30668bf78ac7d24260a247f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/red19.png"
+hash = "a224e3fee253b33ce7a352e18aa6eb02779e6dc10d60ff6f9e840b7e5a154915"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/red2.png"
+hash = "cef283f404081936563a2444498228b81dfbc7660ca8f16f41e60cb469653888"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/red20.png"
+hash = "4eb628c043fd0f77beab32e5a49a4ae8f1740d2cbf690eb4d29c53328e193885"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/red21.png"
+hash = "7f11c77ba9d9dc4f2dfa43c838b4f02186de051923f699475b0a857895911e0d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/red22.png"
+hash = "70f22e56cf86f7680029be6d06e6903ad5a29116bfb27ce0231f54670b0d4f26"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/red23.png"
+hash = "21d546b04c244737a515334fe925c64bf08b6ec68e7238ad4bacacbc67492bda"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/red24.png"
+hash = "1082d63271d781de4ea2df98a36589768fa93c83f24448c7cb889cca8c2bad2c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/red25.png"
+hash = "4cc443544c89d47c398bc687fbd305cdebf9a8c5f95a3a7a82f9cfd259374ed6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/red3.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/red4.png"
+hash = "8e33fdb876ae6b6f70362aabc3bd4c7087debb6f5d71a9c540e868180d9a450a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/red5.png"
+hash = "080a3f1e96d96530e36f5fbf6b3c10ecefb0a02822c95dccb102015e560933b3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/red6.png"
+hash = "1c319c7c8bcd3a811b78532b8c2d868b9f0111188fe84ffece2344025505ef6c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/red7.png"
+hash = "14c36073f3c2764bcd02b8dfe2d37a5de0476d95d9e7567c7ef66f8d34d61017"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/red8.png"
+hash = "bc131dd71ce4fe7a916ac205bf2d65d9838fd1744d80a88f03f43600ca6d252a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/red9.png"
+hash = "952157d6d5d7b58803125e28cf57b4333e1624c2aaedbdeef80dcfb32aabd85d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/siamese.properties"
+hash = "545e5d09b97a0be5cca8ad695c61aef0c7c7c2b0325343735fbf2a271d0c11dd"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/siamese10.png"
+hash = "2f255006701297ad0705dda7a4f1fa4c1ef5af5f1fd50d70078231252d874d48"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/siamese11.png"
+hash = "51aec299f0b080ce0ca5a46403497b804e1ae5bc57fa99724c40e549718a7714"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/siamese12.png"
+hash = "60762c9e92326f030225ec206eb7515f635253d1802eb6e67c72331aa6ff9db4"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/siamese13.png"
+hash = "1b113b1924ab97f42c55689ad4633d2c08b20b9290a4b827e2f4be7a7e426258"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/siamese14.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/siamese15.png"
+hash = "87534b7d424691bbf43542925938b2e336c0388dacd0339dfc52582000d4afc6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/siamese16.png"
+hash = "4411e5b6378cc2e4636c048180169d1bad70915ac2f36b90e3f8a950aa02cde9"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/siamese17.png"
+hash = "4a23bc7de208fb58f204d02e0aa7916ad14e69e671fab23f9480eefcfec4a488"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/siamese18.png"
+hash = "2834d0bba218a326c2f5c562a42d1ff0057324c8f30668bf78ac7d24260a247f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/siamese19.png"
+hash = "a224e3fee253b33ce7a352e18aa6eb02779e6dc10d60ff6f9e840b7e5a154915"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/siamese2.png"
+hash = "cef283f404081936563a2444498228b81dfbc7660ca8f16f41e60cb469653888"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/siamese20.png"
+hash = "4eb628c043fd0f77beab32e5a49a4ae8f1740d2cbf690eb4d29c53328e193885"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/siamese21.png"
+hash = "7f11c77ba9d9dc4f2dfa43c838b4f02186de051923f699475b0a857895911e0d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/siamese22.png"
+hash = "70f22e56cf86f7680029be6d06e6903ad5a29116bfb27ce0231f54670b0d4f26"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/siamese23.png"
+hash = "21d546b04c244737a515334fe925c64bf08b6ec68e7238ad4bacacbc67492bda"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/siamese24.png"
+hash = "1082d63271d781de4ea2df98a36589768fa93c83f24448c7cb889cca8c2bad2c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/siamese25.png"
+hash = "4cc443544c89d47c398bc687fbd305cdebf9a8c5f95a3a7a82f9cfd259374ed6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/siamese3.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/siamese4.png"
+hash = "8e33fdb876ae6b6f70362aabc3bd4c7087debb6f5d71a9c540e868180d9a450a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/siamese5.png"
+hash = "080a3f1e96d96530e36f5fbf6b3c10ecefb0a02822c95dccb102015e560933b3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/siamese6.png"
+hash = "1c319c7c8bcd3a811b78532b8c2d868b9f0111188fe84ffece2344025505ef6c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/siamese7.png"
+hash = "14c36073f3c2764bcd02b8dfe2d37a5de0476d95d9e7567c7ef66f8d34d61017"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/siamese8.png"
+hash = "bc131dd71ce4fe7a916ac205bf2d65d9838fd1744d80a88f03f43600ca6d252a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/siamese9.png"
+hash = "952157d6d5d7b58803125e28cf57b4333e1624c2aaedbdeef80dcfb32aabd85d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/tabby.properties"
+hash = "545e5d09b97a0be5cca8ad695c61aef0c7c7c2b0325343735fbf2a271d0c11dd"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/tabby10.png"
+hash = "2f255006701297ad0705dda7a4f1fa4c1ef5af5f1fd50d70078231252d874d48"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/tabby11.png"
+hash = "51aec299f0b080ce0ca5a46403497b804e1ae5bc57fa99724c40e549718a7714"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/tabby12.png"
+hash = "60762c9e92326f030225ec206eb7515f635253d1802eb6e67c72331aa6ff9db4"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/tabby13.png"
+hash = "1b113b1924ab97f42c55689ad4633d2c08b20b9290a4b827e2f4be7a7e426258"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/tabby14.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/tabby15.png"
+hash = "87534b7d424691bbf43542925938b2e336c0388dacd0339dfc52582000d4afc6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/tabby16.png"
+hash = "4411e5b6378cc2e4636c048180169d1bad70915ac2f36b90e3f8a950aa02cde9"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/tabby17.png"
+hash = "4a23bc7de208fb58f204d02e0aa7916ad14e69e671fab23f9480eefcfec4a488"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/tabby18.png"
+hash = "2834d0bba218a326c2f5c562a42d1ff0057324c8f30668bf78ac7d24260a247f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/tabby19.png"
+hash = "a224e3fee253b33ce7a352e18aa6eb02779e6dc10d60ff6f9e840b7e5a154915"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/tabby2.png"
+hash = "cef283f404081936563a2444498228b81dfbc7660ca8f16f41e60cb469653888"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/tabby20.png"
+hash = "4eb628c043fd0f77beab32e5a49a4ae8f1740d2cbf690eb4d29c53328e193885"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/tabby21.png"
+hash = "7f11c77ba9d9dc4f2dfa43c838b4f02186de051923f699475b0a857895911e0d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/tabby22.png"
+hash = "70f22e56cf86f7680029be6d06e6903ad5a29116bfb27ce0231f54670b0d4f26"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/tabby23.png"
+hash = "21d546b04c244737a515334fe925c64bf08b6ec68e7238ad4bacacbc67492bda"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/tabby24.png"
+hash = "1082d63271d781de4ea2df98a36589768fa93c83f24448c7cb889cca8c2bad2c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/tabby25.png"
+hash = "4cc443544c89d47c398bc687fbd305cdebf9a8c5f95a3a7a82f9cfd259374ed6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/tabby3.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/tabby4.png"
+hash = "8e33fdb876ae6b6f70362aabc3bd4c7087debb6f5d71a9c540e868180d9a450a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/tabby5.png"
+hash = "080a3f1e96d96530e36f5fbf6b3c10ecefb0a02822c95dccb102015e560933b3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/tabby6.png"
+hash = "1c319c7c8bcd3a811b78532b8c2d868b9f0111188fe84ffece2344025505ef6c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/tabby7.png"
+hash = "14c36073f3c2764bcd02b8dfe2d37a5de0476d95d9e7567c7ef66f8d34d61017"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/tabby8.png"
+hash = "bc131dd71ce4fe7a916ac205bf2d65d9838fd1744d80a88f03f43600ca6d252a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/tabby9.png"
+hash = "952157d6d5d7b58803125e28cf57b4333e1624c2aaedbdeef80dcfb32aabd85d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/white.properties"
+hash = "545e5d09b97a0be5cca8ad695c61aef0c7c7c2b0325343735fbf2a271d0c11dd"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/white10.png"
+hash = "2f255006701297ad0705dda7a4f1fa4c1ef5af5f1fd50d70078231252d874d48"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/white11.png"
+hash = "51aec299f0b080ce0ca5a46403497b804e1ae5bc57fa99724c40e549718a7714"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/white12.png"
+hash = "60762c9e92326f030225ec206eb7515f635253d1802eb6e67c72331aa6ff9db4"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/white13.png"
+hash = "1b113b1924ab97f42c55689ad4633d2c08b20b9290a4b827e2f4be7a7e426258"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/white14.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/white15.png"
+hash = "87534b7d424691bbf43542925938b2e336c0388dacd0339dfc52582000d4afc6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/white16.png"
+hash = "4411e5b6378cc2e4636c048180169d1bad70915ac2f36b90e3f8a950aa02cde9"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/white17.png"
+hash = "4a23bc7de208fb58f204d02e0aa7916ad14e69e671fab23f9480eefcfec4a488"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/white18.png"
+hash = "2834d0bba218a326c2f5c562a42d1ff0057324c8f30668bf78ac7d24260a247f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/white19.png"
+hash = "a224e3fee253b33ce7a352e18aa6eb02779e6dc10d60ff6f9e840b7e5a154915"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/white2.png"
+hash = "cef283f404081936563a2444498228b81dfbc7660ca8f16f41e60cb469653888"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/white20.png"
+hash = "4eb628c043fd0f77beab32e5a49a4ae8f1740d2cbf690eb4d29c53328e193885"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/white21.png"
+hash = "7f11c77ba9d9dc4f2dfa43c838b4f02186de051923f699475b0a857895911e0d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/white22.png"
+hash = "70f22e56cf86f7680029be6d06e6903ad5a29116bfb27ce0231f54670b0d4f26"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/white23.png"
+hash = "21d546b04c244737a515334fe925c64bf08b6ec68e7238ad4bacacbc67492bda"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/white24.png"
+hash = "1082d63271d781de4ea2df98a36589768fa93c83f24448c7cb889cca8c2bad2c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/white25.png"
+hash = "4cc443544c89d47c398bc687fbd305cdebf9a8c5f95a3a7a82f9cfd259374ed6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/white3.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/white4.png"
+hash = "8e33fdb876ae6b6f70362aabc3bd4c7087debb6f5d71a9c540e868180d9a450a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/white5.png"
+hash = "080a3f1e96d96530e36f5fbf6b3c10ecefb0a02822c95dccb102015e560933b3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/white6.png"
+hash = "1c319c7c8bcd3a811b78532b8c2d868b9f0111188fe84ffece2344025505ef6c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/white7.png"
+hash = "14c36073f3c2764bcd02b8dfe2d37a5de0476d95d9e7567c7ef66f8d34d61017"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/white8.png"
+hash = "bc131dd71ce4fe7a916ac205bf2d65d9838fd1744d80a88f03f43600ca6d252a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/mcpatcher/mob/cat/white9.png"
+hash = "952157d6d5d7b58803125e28cf57b4333e1624c2aaedbdeef80dcfb32aabd85d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/block/0.json"
+hash = "7ccc74cdb355c8cbba28715c00ff509dc3ea80b68b0752ecc3b78dbea4bd7ae1"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/block/1.json"
+hash = "5a64caa4f2943bb5b361f2b7c21796faf9c04b5f093fbecff672d91e7b1f12c8"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/block/2.json"
+hash = "410ee5a0ef754f077037cb91f048355069d46ddb7c8688ed1801911864e4ee98"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/block/3.json"
+hash = "4aab07dc37782369f025b71bf0ef08c54c2a88cf0bd792ab3a7ea1f089e99b57"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/block/4.json"
+hash = "eb8f8b98204a101edf38092ba19270f8c0713b7e7c58f85dc22062c0ee4f3792"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/block/5.json"
+hash = "6b7d566f4a676a12d75626753133a5f2a3da29d90746725bc14a45abc59dc2fe"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/block/6.json"
+hash = "e8fdddb42a0dc774098cd22c6b6146367c281a3120012bea309434cce901e76d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/block/7.json"
+hash = "951bfd1905cef0c03e530409a31f26d37410c4ffe9a878fb7425439c66a35bc3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/block/8.json"
+hash = "425270da090e274ffe8bd79571dbe26ae75e642d28b0d825012a377ca7541df5"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/slab/0.json"
+hash = "375ffd445f710b39dd5b81690868acacbbfccd45b122a6a29220c64cd42724c1"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/slab/1.json"
+hash = "0b456605c5403fa9d82a1fb1dfcf5798b8f84bcf8c5fb6e477bf8a20d6cdf2b3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/slab/2.json"
+hash = "a1a8585866427be3a745985359ba236c0ff879dbf5bf04451a91999bdb54b76e"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/slab/3.json"
+hash = "9191e482acc0794590dbeaf1c58be3eca8b26b7aa0ad6ef30e152c4649e1691e"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/slab/4.json"
+hash = "a107f4c1f91e371ce6b5737393216957d8df5a60615f2560e874e5a9a0ada5f5"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/slab/5.json"
+hash = "ae762fc63553857eb93b672bacc5e30e96be4e6e0551850320578c2465163b0f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/slab/6.json"
+hash = "9011f048a53fcd318d7ae34763bd6b0f3aeed66e350c267959260be4e9d599fa"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/slab/7.json"
+hash = "6e4b9c496cd91c2a4d9421ab0dc1564c590f1c3addab083cad64c6991a854ec6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/slab/8.json"
+hash = "60b4466e3419f73be3ed1a8ce8aaf974e2bd886f4126d3c109d299bec64158e3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/slab_top/0.json"
+hash = "6b01d16f1294f7cca7117635b56c086bfc537317818e98e5e561a805ec11c62a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/slab_top/1.json"
+hash = "7a0d999b0cc3aef95b330da3f6d249cc2b27abb6b8e9c68439ebdc139a340173"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/slab_top/2.json"
+hash = "b6d639ff55a2192585c7d225073f7c22c3991ef9427edf684c6fe1c952ef5a0e"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/slab_top/3.json"
+hash = "47b14b922d07c353cfde8d73c61b7c66bfe330c11efb8237fbcb2f6e46942457"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/slab_top/4.json"
+hash = "6c0d3f54f59ad535ff6cf1895edcd80349f9446bb1b055130513c6ac7f230d5d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/slab_top/5.json"
+hash = "d95ff0d5b2be62245e936cbf462100c73dee2464c4fbc8024916d227388203cd"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/slab_top/6.json"
+hash = "f1a4e908b94f3b5456dee5cbb0cb1ccb1941586cfc9c465c9fc119840130ea4a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/slab_top/7.json"
+hash = "da7c93d2feeb2d1b28cef1258639edbf3d5dc5a1523835569a6a2775c4b3191d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/slab_top/8.json"
+hash = "cd5b7e2624a9bee80240c949a356cfce2860de38c4801f8492fd97bb79a125da"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/stairs/0.json"
+hash = "0bffa9a495f3c9dfb0cf3ea4313d247309835f6f3b3ed643333ff595f3178c39"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/stairs/1.json"
+hash = "2aec76cddc31d04d8293bf91722fe80cf649da6972b3ccb42f665fe1bfd112ab"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/stairs/2.json"
+hash = "ec04dd31705eb34d358775dd689eddf85c3dae1445ef0cfa666e199b3e96361e"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/stairs/3.json"
+hash = "038a25821451b9f5cd35698af33cfc94bf18982d86b55ce31ded14317b7c4a61"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/stairs/4.json"
+hash = "c2e2591030107217ece956ee316ddbb060b573a495985b61ed18dab18a729af4"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/stairs/5.json"
+hash = "96c0167ab1e55dae72452bde31a1e4468538214e60fddca65572182a3f5b6da5"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/stairs/6.json"
+hash = "6bd35dc978dd3afa5b48c7c7c7fe21d9d0a6ce4b4ae662da2f4044a08fb82d24"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/stairs/7.json"
+hash = "831c93d1653deca892bdcd485fab41099b8fec030a4d14d0a48ba627cee3092d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/stairs/8.json"
+hash = "ed2be9bdb09aeae4b6235042468f084b00c7b6f4a32dcf2b66834f49fce5d1c4"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/stairs_inner/0.json"
+hash = "7484ffd744945a7c850ed64357dff18fdaf45ad21109b68d3347806fb4b8cd61"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/stairs_inner/1.json"
+hash = "0eeb6a97190771dec222acd985fa563f83197dfb8bb4c8ebeb7649fcd860bf20"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/stairs_inner/2.json"
+hash = "9909bedda8f803750190ed71c306155b3a84d3b6d56e60ff51331d0c5e00fbf7"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/stairs_inner/3.json"
+hash = "33144d6164928312d8a24f2e5f248ae77de0c5940f6370d0290bb4ced7716958"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/stairs_inner/4.json"
+hash = "47babbab850d8fcb17b8df57632ddd841154729e197ed7533aa8d5ad063db603"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/stairs_inner/5.json"
+hash = "265ae7d14652db800df9cb52e583856cab6fc990fb04492c0e4f6f4fe9021269"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/stairs_inner/6.json"
+hash = "2e61042da77a6146353c47fc0d88722f4bdfea6b4cec1165068def387b7b8966"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/stairs_inner/7.json"
+hash = "9e454d44f487d82aa8178a8d6314375cdf16146928d2ba6d7f70a13af86842b1"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/stairs_inner/8.json"
+hash = "cdd6de2ead4da39cf4ddb60879368ff945df999704a2f590f8284f206cbacc00"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/stairs_outer/0.json"
+hash = "dd48eece45bfd1d486a2e24abdc1bc2befbd19dc2dd447a173e6c6b259f71eb4"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/stairs_outer/1.json"
+hash = "97754ab4415b0698af285c1af8187e779d277e19628de4e8a73bd87ad29c0deb"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/stairs_outer/2.json"
+hash = "dedba54e11c846ccd615e34af35e2f95c5ecf90c2c228001be735d8817a4ec23"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/stairs_outer/3.json"
+hash = "ca9ba5f71313b3ce0d53373d666457c28e32197dac8324902cc9ce666b9b8757"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/stairs_outer/4.json"
+hash = "1c8becaa4fcea71e32b64b6e9fd0c32e31093fc3006309032e5b5dca37f69dba"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/stairs_outer/5.json"
+hash = "d73910116d83b586064bb417427afc17c43aba41fedcafbc76f9b44841330ed7"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/stairs_outer/6.json"
+hash = "7aea5767edd594ee9969da1fb20fea2f610603a7b55cfb5e71e97eb8e6664f05"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/stairs_outer/7.json"
+hash = "0d1e52481725741ad7c442f6791ecb151b5774a47111655bff432e364c0212da"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone/stairs_outer/8.json"
+hash = "51137a6053b662101519aa9bc192049eca8d606692d605382311447d7687b057"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone_wall_post.json"
+hash = "cbfd248f24094139d0207318816902db514568c762b98026dd34a73a9eb83af3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone_wall_post1.json"
+hash = "5e8eb70d25d5854c859ce1065760a0c192e52e423e295e076b0b2602f55abe3c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone_wall_post2.json"
+hash = "6767ee9ae708f3fb167d5025de3ddafacbb56b8a38a1897385f9c94dc10f4909"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone_wall_post3.json"
+hash = "d1752b299380d38f7d69405e7e10924297f1513da2a65abbce55de8e79e85cdb"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone_wall_post4.json"
+hash = "e83b40c8cb3716d2179df66a72ea3a38ead2206cafa69e4f11d959d044278d1e"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone_wall_post5.json"
+hash = "835f97e1333c87020f82beb64d9a9dc059f41006824bcfbc61b92829683ebf62"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone_wall_post6.json"
+hash = "e49b200a385cd8e6afd4612d3f822e1c3fa9c2f2be4b11140ee175b3bf3846e7"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone_wall_post7.json"
+hash = "2739d9ac880dc8f3878fa3a7f80e188cd828b9498ef9519bb503a54352ba5506"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone_wall_side.json"
+hash = "f31c84b95c4da53404bccb9a54de585df6fd1089ef5e90ad4eaee1b2a3129775"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone_wall_side1.json"
+hash = "da448e8820d03c5194c87106c2a7bfb78976f4a27ca4d435839ba747a5c4c1fc"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone_wall_side2.json"
+hash = "51b56398d0a3c37018fa927efa84cb3f849b50864ba0b7a2288ea41f4aa903a1"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone_wall_side3.json"
+hash = "aaefe16b7a11bc008cf6946f4aebd6f61cbde31a575d497f493c1491f92157c9"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone_wall_side4.json"
+hash = "fe55d4ad7ebbd7e3d5c5d2771affc77decc0d07e6234ad21f6faae60155660b8"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone_wall_side5.json"
+hash = "a15feb0c40d89808ef1c2bb3d133bd3cc3c2d7802ee2a063aa660fbadd937678"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone_wall_side6.json"
+hash = "dca239a31cd2d9069c8595f75359c174e5e2d9d285a30fb63010fed5d450d13c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone_wall_side7.json"
+hash = "73ff141a5e6bea68e0e1aad0ffb709f3831202291164a03aab428d9f07892eba"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone_wall_side_tall.json"
+hash = "4b9b2251d754697ec81dfa44186568bf145e4d8d52ba0ebb0e7f00d757a01e3c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone_wall_side_tall1.json"
+hash = "95f0483b1c6fd75a780e8519537da9ec27dc30261d420204ac7fe240bdf2463d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone_wall_side_tall2.json"
+hash = "2c2fc366fa2bfadc304a30766ae92ddba7e52601865e3e35d478de3d92840822"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone_wall_side_tall3.json"
+hash = "561b8cd70ddeefe4aa60610f6a27b09ec17f5714ff9a355f43b7418ee46787bd"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone_wall_side_tall4.json"
+hash = "451daa42d518b05f4bb421cde52aa90cb148af39892fffed729ea0a322aa4467"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone_wall_side_tall5.json"
+hash = "95dfd7633afa4f1322c060e6cead61544ccbceb0f0ab2725a7e9859c9284bdf4"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone_wall_side_tall6.json"
+hash = "e8866257d025f024c62359585d3bc74365c2e7f177ea6cc831d409418fd8cffd"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/cobblestone_wall_side_tall7.json"
+hash = "64c61c65c56156a5a607a399a21b98b1b73a050c347d68cdea2511a92cdd26f8"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/door/door_bottom.json"
+hash = "28236acff6e486a7fe6b564454d0bfb67dae9e3bb885fc05ca1927efb7b95260"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/door/door_bottom_rh.json"
+hash = "d33d92671b4e200b01cd0782acfb3dc52941d56df722c54197cc4bbdbbbce4b9"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/door/door_top.json"
+hash = "bac2981452c87a2ca1f2d7adaed3d9274149ea76d50c9ae9f443421bca040724"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/door/door_top_rh.json"
+hash = "f25b57e661fed0728a1e38a4aaad760d217b02c9acfc3e75d7290f90c62aa43e"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/door/jungle_door.json"
+hash = "684274916a462cce946c5ed894949820f495f1d5204ffea6f8b41e9872ece6f5"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/door/jungle_door_bottom.json"
+hash = "261866501e58c69be5f1f779f9217c491d5a524970a197dc92680db5091d56a5"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/door/jungle_door_bottom_hinge.json"
+hash = "d3f62235252dc8351609bd2bfdf81f2e4ccf70a225b3b46164e70e86a0824710"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/door/jungle_door_top.json"
+hash = "bc0b0e72ea7d2a1f217108d2b4cc733cb14657a9704d520281d7a53f865e9240"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/door/jungle_door_top_hinge.json"
+hash = "66b938e3f4ff61e08b2e802fe08f9fbfdd0e4f623e97ac909f2266f9d84d372a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/jungle_framed_planks.json"
+hash = "44534a5542b1f9ed15614203cf6f0d654eb75937b47c1d068369a6326dab3c8a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/trapdoor/jungle_trapdoor_bottom.json"
+hash = "f960b6c409c4d81ee488e043901f055b973ad5528172e7e82bd3d3346a524d45"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/trapdoor/jungle_trapdoor_open.json"
+hash = "f9944d906ba412ca76e9e47229db93a611ca3ffc617819cca320b530aa33591d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/trapdoor/jungle_trapdoor_top.json"
+hash = "0e54f9355af781d58ec9a2f77164b32644003f2b6b48ec68c27ce7a104ddae8b"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/trapdoor/template_orientable_trapdoor_bottom.json"
+hash = "457df58ced700fec73fb611a95ae299eee3d9cb0cf5ff6efe55189eb8b14c990"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/trapdoor/template_orientable_trapdoor_open.json"
+hash = "99a7ff9ea29362a1f6fc90ee464d0e640bd677a278031c9965cb7459b40ab442"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/trapdoor/template_orientable_trapdoor_top.json"
+hash = "b0a17f9250736660ba55806d91869a3d5cbc4ffa148e215e07f6d29d63967c3b"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/trapdoor/template_trapdoor_bottom.json"
+hash = "45fb16f5aa41e71c4591ec61fbfe7d6408980d5974b360fd1aa1ae05d60e09d5"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/trapdoor/template_trapdoor_open.json"
+hash = "d8399ef4dae624c9e995de2b8428850f634a61dd508609454172550a0f9e7c03"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/models/block/trapdoor/template_trapdoor_top.json"
+hash = "5bc4297f438e296ac2f1bb928c5878d9ad4b8d8f5afa32c5f229ae7fbb1e8f73"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/allay.jem"
+hash = "1dfc38b4cb4e5821b5c0f73f7e4611e180916d2a6aed55f0a371f8c03aea18b0"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/axolotl.jem"
+hash = "bc52249aa5e56a66f9b9c2273f1cce69cafc1d3fd2517630cf424445c66d1610"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/bee.jem"
+hash = "98fccccce49d2e0bae941066e1e897b347f327e5938d5ce55c9584b81b690a7a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/bee.properties"
+hash = "9e6586aa800e815c740d549d8689fa662574508111fd1bf559cead052a07a74f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/blaze.jem"
+hash = "8e81be752c3f38e76e0e3be9c6dfaee6e442bb6beec018d7302248f7b1018bfe"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/cat.jem"
+hash = "6b4904bb71a76e3089dd79034ab89dc22847f18dceefb4c85e584bf3eaa9ee92"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/cat_collar.jem"
+hash = "ee7bbb147b89b496ebc5de6897292a707b07063e0ba2f7a35f63b3e1c1d9ae2a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/cave_spider.jem"
+hash = "a6a5ffa72a84cbe594ccef6a9f61097db8be108b8476917d1eefc17aef40ebd3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/chicken.jem"
+hash = "0a1c036167ed9beb4af27d338c0378f5a4f5f5bef34c5292d1fb95d5703b6dcf"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/chicken.properties"
+hash = "f3cc664ee32432dd3d1edecefc16d7804aa87300ea262fa867a7816ff9ae8077"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/cod.jem"
+hash = "1e57e269808da780bb62c5215a183f92c8956edba336855fe4a11d218bdcc419"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/cow.jem"
+hash = "7847512c26ae0f26516752288f7a291653848c80f6ecd7b94f8cb10e585f0176"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/cow.properties"
+hash = "7aca1606f076f42f60f36405121b1748c40e2a58b7147a11f61fe2435e3057d8"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/creeper.jem"
+hash = "cfa6fb12d30c3000b2ec1163b4f0a0e1008c686bf41eb69909b21d2836159b94"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/creeper_charge.jem"
+hash = "8774bb3cadf071a19973b952a75d91d4bb237d83582df6912a536677fed66bd5"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/dolphin.jem"
+hash = "9c25c86e3931fc7332eaaf41ed2a6716850a227c78ccdf3a06c7d647945cd70e"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/donkey.jem"
+hash = "e92e158244c9d8f45f3ea56294b8efed680d887551e73ef1cd4f9ae61753382d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/drowned.jem"
+hash = "53074ffe94b86b278bc22116a3e5ca7cee9e9e98a7e529066a81553d01547dbe"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/drowned_outer.jem"
+hash = "e3776ccee8b1ab96772c268cf6ca72eb0d9dcf2b3ba803882f2d5538135a0281"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/elder_guardian.jem"
+hash = "56ae3ad15a64fdc7b2e6f3add9a2f5aa2fa09a4d3431a6a7da16924dd246ebd9"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/enderman.jem"
+hash = "a50c7b1fae601acd3dfabfc16c359c5db4a43d10196662740e48f80721714eb2"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/endermite.jem"
+hash = "d7bfa21e7fba07042db817e0f5edec895fd1514b0b2f75b5a70e65305cf6183e"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/evoker.jem"
+hash = "10aa4503a05e36f8b8cdf92feb8a62fe9ef065fff8f0cf2e8046aad45494267e"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/fox.jem"
+hash = "e2d407dafde9aba20337ea17b600c39895f09da584e2ea79be9fec22d528d326"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/frog.jem"
+hash = "c4fd5a37cfb77e48c749ed97f2802adb6110e789a264a83b595c6ae15c92acc7"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/ghast.jem"
+hash = "3a3c87e4b6faf8cffc556a25cc7a4e9f1bcf2dfa2689ed43031c4f7aab82551b"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/giant.jem"
+hash = "8b84c50801c20d8804ec924145975094ba413df0341548f701bce43a950a7941"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/goat.jem"
+hash = "291d36dd85517df3432fffdf10d02cdff45544ed02f14194aae55bcadf2ecedd"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/guardian.jem"
+hash = "72abfb94044db48efa452eb19535841fc296e7d65bc16a87758adf589f2c0b7e"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/head_creeper.jem"
+hash = "3e010edc95ba42ecb8a9c800b1810cc3bcc34cc0bc66241aa91a6c817803173c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/head_piglin.jem"
+hash = "19998156c12e01bc2ec28647663326549363fc8b06d50c4698deea29b702c2a2"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/hoglin.jem"
+hash = "d36c197db946684fbbe5ef658604b0cd9d8adbaac39dbb6222db16826efe6916"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/horse.jem"
+hash = "63104e779bbe7cef163096d45825f8d6db591b52f1a3ccd75bd62faef331c63e"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/horse_armor.jem"
+hash = "298836aa460ebf2b15217aac502d7c00cf7d8521a3901dc446194a8471faaf3f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/husk.jem"
+hash = "9e889713263d7e5708f50a405adbd2425f644e434d100fd8bd42675abd9c9db8"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/illusioner.jem"
+hash = "b16dc23d57bc180828828720e9521d29e62ee6fd4d270e84164d35a59ad99c18"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/iron_golem.jem"
+hash = "ffa91b13fcc71bd44ab6a157ffcd53cfd4c3f3b9d667047319faeda2f4b6fe03"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/llama.jem"
+hash = "0bfb437bae24a0fc431d74dcb3bbc91dfdcb5380a81dea95550751cd6c035060"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/llama_decor.jem"
+hash = "3f1a0684ca807b21bc731071fdf18eaac51733aa15f11cdb5e1145ff05ecfae1"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/magma_cube.jem"
+hash = "53e7301f23398112db43677591c7356c1ad3e8b8bfee63ac8a3be8baf7af01a6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/mooshroom.jem"
+hash = "146d31f70981120cd0fb0980365a3959567588a0020364df44dfbfc38c245804"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/mooshroom.properties"
+hash = "10e0f91338016c09e2f347be8e84f51dffeedeb8ca9d6c7974eabbd191395253"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/mule.jem"
+hash = "4a27d2aabb1e802237ed249adfc5030ff2dff8465054a09132c5c7cc95bed6a5"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/ocelot.jem"
+hash = "1f79cd3e2f14c6c548df57a39dfe6241cb15a91409abfd5e7472f05e36b41042"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/parrot.jem"
+hash = "694c17574693824275fb49efdbc09247b038de183570590d650a40f9a6282dd3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/phantom.jem"
+hash = "18eaa54975fb98fb6e66fe66c28cf18ddf02659e7c3ed6871f404bd22eb13c2f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/pig.jem"
+hash = "8f0ca3e7a57ea108e33e9a72fee5f6f7837258ebbefedc1bc951fd165c72ae9c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/pig.properties"
+hash = "5d218c3c28596d316c2c141606c7f7bdd1a1b305b052621f85ea8c66dbd7b1a4"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/pig_saddle.jem"
+hash = "1af415d62bc81f8c82ea6a12f4f6ec74b2f75da3dec62d09b3adf88021a1a264"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/pig_saddle.properties"
+hash = "5d218c3c28596d316c2c141606c7f7bdd1a1b305b052621f85ea8c66dbd7b1a4"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/piglin.jem"
+hash = "2060488e3cbe6a6396ab27b81ecc8fc563b71f7791d5ef578530e217bbdba008"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/piglin_brute.jem"
+hash = "a0c34e3d53f551ee022b78e1814fafd9de972c18a77f06da28153bd285cbb049"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/pillager.jem"
+hash = "486aa65cec6e494588edcc93c2f3840e096564b497aa1e21649cfe505061f375"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/puffer_fish_big.jem"
+hash = "1a84d59b277e1d2d5cadd0e958a9d85607eb321474d6637d55f033484162ba40"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/puffer_fish_medium.jem"
+hash = "839de480ff421e97442db494ece6192b76fa9a8854f8a975d7453defefbc687f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/puffer_fish_small.jem"
+hash = "1ad3ca361f7444b4e0aed2f47f179db6205fed4fc8be66b8b74351756ece956b"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/ravager.jem"
+hash = "9b3dac6a916d2c02a31bef592b09766a04b32db795203d10b9a9600fe74c877f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/salmon.jem"
+hash = "4d713465143bc8b28b7e41a3ad6e01b702750f02f14b7c56b90b180bae6976af"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/sheep.jem"
+hash = "be630f408aa71b4e5242d4355042bd1f611c6d3e08cf3c00fcc29b72e56643c2"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/sheep_wool.jem"
+hash = "ddc774c40d3ccd95ff2cd3a7598385f028b6bafa1845767d6ecd346efc0a96a1"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/shulker.jem"
+hash = "a8c1f2a0b788e781b324f28dffcfcabf6a1746f74b85fd599214e4b813be8ab6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/silverfish.jem"
+hash = "02f230a8602d33f26a84790b7da0b2f7865089f1b482d9af42368860a52a8a87"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/skeleton.jem"
+hash = "17e375ad87bd7afaa5a4f7d2d2ba870f6f9da895e8378f3b6512e72757af0eaa"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/skeleton_horse.jem"
+hash = "bcf16a0bd8ced7a501ed4ea3c86c518106647717962570485f9aa126a8dbb990"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/slime.jem"
+hash = "d292895392ffc6bbd1aae853690a241836ae6a0cd128256f7afc0c6820e3c13c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/slime_outer.jem"
+hash = "9efea3844a75cfa89892db3a370db2df0f9d2dd9480574d54f351f8a782fb798"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/sniffer.jem"
+hash = "9d0492804b3841067a20e74681257045acc146561238bccddb46d04198944139"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/spider.jem"
+hash = "28216e91f5f2640925c10f474d471c589569b82046a6e5157c38ed2c56b157c7"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/stray.jem"
+hash = "442bd01967d35d0404892194506971b8d011c9b795380014f9d9f5ff91744c64"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/stray_outer.jem"
+hash = "46a16da2cc9dc0b2aad3de0cc3c910a82ac38f2a38698b2f8cb62fe39361c798"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/strider.jem"
+hash = "2c22d8f4163a64bfe5b13754e31e061839eb7e6508aa20e86e093887dfe0c257"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/strider_saddle.jem"
+hash = "fe16085dbef65b222ed6d02f035bb8b844ed1b483a3dec26c767f459d211cb27"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/tadpole.jem"
+hash = "3cc6090f98cfd7c937e63d265bd520e0ccd745a8f2bb1d81f7cdfc807b37cd0a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/trader_llama.jem"
+hash = "0bfb437bae24a0fc431d74dcb3bbc91dfdcb5380a81dea95550751cd6c035060"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/trader_llama_decor.jem"
+hash = "3f1a0684ca807b21bc731071fdf18eaac51733aa15f11cdb5e1145ff05ecfae1"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/tropical_fish_a.jem"
+hash = "543cc3c0d0480e7ca5b33dd30a3e476839e1aafc32fca70359c7e27364d6196f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/tropical_fish_b.jem"
+hash = "0d5cc47130b77af2241ec65ef8b258e4ada1c15144a2739e4d5902198ef90a72"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/tropical_fish_pattern_a.jem"
+hash = "2282b6f3f1e5ab179a218785e94cddb335b62cce807d8da278ef250dcfb660e3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/tropical_fish_pattern_b.jem"
+hash = "2b130d327fb00a2e77068bc4e4e2f951e1a2ddd35b05d0cfdd2970fe15f2a52f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/turtle.jem"
+hash = "67d4e5304c8beef079d2b2c062d6d85ac27a158b3661eb69fe4175c7d16f7919"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/vex.jem"
+hash = "b4ea83809dd81061bcc2ab5c41b1f9bfd9201c3b602b2991e68de7d52a30072d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/villager.jem"
+hash = "a01ce66f91c73ecc638205da622876f0eddb99d2521bc6312521165c90e4d381"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/villager.properties"
+hash = "54e095b78fae60919805b831fa739dda5e4fd399844e011faf91c4156a95dc65"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/villager2.jem"
+hash = "f7679c417a93b4698299f61c00f50f3a53944cef70e0f6a2496d2e1f58561bca"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/vindicator.jem"
+hash = "33a0ecfa1e03a58eccf455694fcb729b399dbe9f40a0159389f58360ecf35dfc"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/wandering_trader.jem"
+hash = "ffd690929374ec9135bf32fa533c62bd52d5ed2624b6ab845e490183ee5cb6b6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/witch.jem"
+hash = "ba6d5560703fc2d285a9f0fd05c22842cc302c8036f0617ba4b264a484360a15"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/wither_skeleton.jem"
+hash = "4586bb8be972ea4d0fd8c226889c467716668e69f8b5a6672a98e9efb456dea7"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/wolf.jem"
+hash = "365626883517be30180b9c10eb979294b7982e7ac0bd8474b85079b0f2972fd3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/wolf_armor.jem"
+hash = "392c96270e1d12022dd3ac5a5a7680f02e05f175628d51a04fefb679b35338f1"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/wolf_collar.jem"
+hash = "235897792e117cf27556ee10d854dc10ab6b9fa52b6b506fd61f675949e60f02"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/zoglin.jem"
+hash = "dc0b0be9c6aa6300307a5bb91a98c3407592063d15694c0832a455dc728475ed"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/zombie.jem"
+hash = "d31c52aaa1d16f7908e14479fe9cb35b76e4b7bdca3da17ea69e048e27027066"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/zombie_horse.jem"
+hash = "060f203410098c6736be09e13f612e1bcc69f31ce473771114291a03c33df133"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/zombie_villager.jem"
+hash = "fbc23edd93eee24749ea1357bc4e5dcc8b9a23b6f23073b3d97c0594a1290a64"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/cem/zombified_piglin.jem"
+hash = "9fb5b39c1d73f77c167ebfa323fc91049e93a0e3fee5c6a57ae8a32e29c662bf"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/emissive.properties"
+hash = "7120af4667e64edf8bcb0d64ab849d7e19e1ed6d341daadd8d5c58542239aca1"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/all_black.properties"
+hash = "545e5d09b97a0be5cca8ad695c61aef0c7c7c2b0325343735fbf2a271d0c11dd"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/all_black10.png"
+hash = "2f255006701297ad0705dda7a4f1fa4c1ef5af5f1fd50d70078231252d874d48"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/all_black11.png"
+hash = "51aec299f0b080ce0ca5a46403497b804e1ae5bc57fa99724c40e549718a7714"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/all_black12.png"
+hash = "60762c9e92326f030225ec206eb7515f635253d1802eb6e67c72331aa6ff9db4"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/all_black13.png"
+hash = "1b113b1924ab97f42c55689ad4633d2c08b20b9290a4b827e2f4be7a7e426258"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/all_black14.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/all_black15.png"
+hash = "87534b7d424691bbf43542925938b2e336c0388dacd0339dfc52582000d4afc6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/all_black16.png"
+hash = "4411e5b6378cc2e4636c048180169d1bad70915ac2f36b90e3f8a950aa02cde9"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/all_black17.png"
+hash = "4a23bc7de208fb58f204d02e0aa7916ad14e69e671fab23f9480eefcfec4a488"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/all_black18.png"
+hash = "2834d0bba218a326c2f5c562a42d1ff0057324c8f30668bf78ac7d24260a247f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/all_black19.png"
+hash = "a224e3fee253b33ce7a352e18aa6eb02779e6dc10d60ff6f9e840b7e5a154915"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/all_black2.png"
+hash = "cef283f404081936563a2444498228b81dfbc7660ca8f16f41e60cb469653888"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/all_black20.png"
+hash = "4eb628c043fd0f77beab32e5a49a4ae8f1740d2cbf690eb4d29c53328e193885"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/all_black21.png"
+hash = "7f11c77ba9d9dc4f2dfa43c838b4f02186de051923f699475b0a857895911e0d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/all_black22.png"
+hash = "70f22e56cf86f7680029be6d06e6903ad5a29116bfb27ce0231f54670b0d4f26"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/all_black23.png"
+hash = "21d546b04c244737a515334fe925c64bf08b6ec68e7238ad4bacacbc67492bda"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/all_black24.png"
+hash = "1082d63271d781de4ea2df98a36589768fa93c83f24448c7cb889cca8c2bad2c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/all_black25.png"
+hash = "4cc443544c89d47c398bc687fbd305cdebf9a8c5f95a3a7a82f9cfd259374ed6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/all_black3.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/all_black4.png"
+hash = "8e33fdb876ae6b6f70362aabc3bd4c7087debb6f5d71a9c540e868180d9a450a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/all_black5.png"
+hash = "080a3f1e96d96530e36f5fbf6b3c10ecefb0a02822c95dccb102015e560933b3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/all_black6.png"
+hash = "1c319c7c8bcd3a811b78532b8c2d868b9f0111188fe84ffece2344025505ef6c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/all_black7.png"
+hash = "14c36073f3c2764bcd02b8dfe2d37a5de0476d95d9e7567c7ef66f8d34d61017"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/all_black8.png"
+hash = "bc131dd71ce4fe7a916ac205bf2d65d9838fd1744d80a88f03f43600ca6d252a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/all_black9.png"
+hash = "952157d6d5d7b58803125e28cf57b4333e1624c2aaedbdeef80dcfb32aabd85d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/black.properties"
+hash = "545e5d09b97a0be5cca8ad695c61aef0c7c7c2b0325343735fbf2a271d0c11dd"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/black10.png"
+hash = "2f255006701297ad0705dda7a4f1fa4c1ef5af5f1fd50d70078231252d874d48"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/black11.png"
+hash = "51aec299f0b080ce0ca5a46403497b804e1ae5bc57fa99724c40e549718a7714"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/black12.png"
+hash = "60762c9e92326f030225ec206eb7515f635253d1802eb6e67c72331aa6ff9db4"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/black13.png"
+hash = "1b113b1924ab97f42c55689ad4633d2c08b20b9290a4b827e2f4be7a7e426258"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/black14.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/black15.png"
+hash = "87534b7d424691bbf43542925938b2e336c0388dacd0339dfc52582000d4afc6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/black16.png"
+hash = "4411e5b6378cc2e4636c048180169d1bad70915ac2f36b90e3f8a950aa02cde9"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/black17.png"
+hash = "4a23bc7de208fb58f204d02e0aa7916ad14e69e671fab23f9480eefcfec4a488"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/black18.png"
+hash = "2834d0bba218a326c2f5c562a42d1ff0057324c8f30668bf78ac7d24260a247f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/black19.png"
+hash = "a224e3fee253b33ce7a352e18aa6eb02779e6dc10d60ff6f9e840b7e5a154915"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/black2.png"
+hash = "cef283f404081936563a2444498228b81dfbc7660ca8f16f41e60cb469653888"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/black20.png"
+hash = "4eb628c043fd0f77beab32e5a49a4ae8f1740d2cbf690eb4d29c53328e193885"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/black21.png"
+hash = "7f11c77ba9d9dc4f2dfa43c838b4f02186de051923f699475b0a857895911e0d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/black22.png"
+hash = "70f22e56cf86f7680029be6d06e6903ad5a29116bfb27ce0231f54670b0d4f26"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/black23.png"
+hash = "21d546b04c244737a515334fe925c64bf08b6ec68e7238ad4bacacbc67492bda"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/black24.png"
+hash = "1082d63271d781de4ea2df98a36589768fa93c83f24448c7cb889cca8c2bad2c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/black25.png"
+hash = "4cc443544c89d47c398bc687fbd305cdebf9a8c5f95a3a7a82f9cfd259374ed6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/black3.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/black4.png"
+hash = "8e33fdb876ae6b6f70362aabc3bd4c7087debb6f5d71a9c540e868180d9a450a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/black5.png"
+hash = "080a3f1e96d96530e36f5fbf6b3c10ecefb0a02822c95dccb102015e560933b3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/black6.png"
+hash = "1c319c7c8bcd3a811b78532b8c2d868b9f0111188fe84ffece2344025505ef6c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/black7.png"
+hash = "14c36073f3c2764bcd02b8dfe2d37a5de0476d95d9e7567c7ef66f8d34d61017"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/black8.png"
+hash = "bc131dd71ce4fe7a916ac205bf2d65d9838fd1744d80a88f03f43600ca6d252a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/black9.png"
+hash = "952157d6d5d7b58803125e28cf57b4333e1624c2aaedbdeef80dcfb32aabd85d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/british_shorthair.properties"
+hash = "545e5d09b97a0be5cca8ad695c61aef0c7c7c2b0325343735fbf2a271d0c11dd"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/british_shorthair10.png"
+hash = "2f255006701297ad0705dda7a4f1fa4c1ef5af5f1fd50d70078231252d874d48"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/british_shorthair11.png"
+hash = "51aec299f0b080ce0ca5a46403497b804e1ae5bc57fa99724c40e549718a7714"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/british_shorthair12.png"
+hash = "60762c9e92326f030225ec206eb7515f635253d1802eb6e67c72331aa6ff9db4"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/british_shorthair13.png"
+hash = "1b113b1924ab97f42c55689ad4633d2c08b20b9290a4b827e2f4be7a7e426258"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/british_shorthair14.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/british_shorthair15.png"
+hash = "87534b7d424691bbf43542925938b2e336c0388dacd0339dfc52582000d4afc6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/british_shorthair16.png"
+hash = "4411e5b6378cc2e4636c048180169d1bad70915ac2f36b90e3f8a950aa02cde9"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/british_shorthair17.png"
+hash = "4a23bc7de208fb58f204d02e0aa7916ad14e69e671fab23f9480eefcfec4a488"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/british_shorthair18.png"
+hash = "2834d0bba218a326c2f5c562a42d1ff0057324c8f30668bf78ac7d24260a247f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/british_shorthair19.png"
+hash = "a224e3fee253b33ce7a352e18aa6eb02779e6dc10d60ff6f9e840b7e5a154915"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/british_shorthair2.png"
+hash = "cef283f404081936563a2444498228b81dfbc7660ca8f16f41e60cb469653888"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/british_shorthair20.png"
+hash = "4eb628c043fd0f77beab32e5a49a4ae8f1740d2cbf690eb4d29c53328e193885"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/british_shorthair21.png"
+hash = "7f11c77ba9d9dc4f2dfa43c838b4f02186de051923f699475b0a857895911e0d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/british_shorthair22.png"
+hash = "70f22e56cf86f7680029be6d06e6903ad5a29116bfb27ce0231f54670b0d4f26"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/british_shorthair23.png"
+hash = "21d546b04c244737a515334fe925c64bf08b6ec68e7238ad4bacacbc67492bda"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/british_shorthair24.png"
+hash = "1082d63271d781de4ea2df98a36589768fa93c83f24448c7cb889cca8c2bad2c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/british_shorthair25.png"
+hash = "4cc443544c89d47c398bc687fbd305cdebf9a8c5f95a3a7a82f9cfd259374ed6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/british_shorthair3.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/british_shorthair4.png"
+hash = "8e33fdb876ae6b6f70362aabc3bd4c7087debb6f5d71a9c540e868180d9a450a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/british_shorthair5.png"
+hash = "080a3f1e96d96530e36f5fbf6b3c10ecefb0a02822c95dccb102015e560933b3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/british_shorthair6.png"
+hash = "1c319c7c8bcd3a811b78532b8c2d868b9f0111188fe84ffece2344025505ef6c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/british_shorthair7.png"
+hash = "14c36073f3c2764bcd02b8dfe2d37a5de0476d95d9e7567c7ef66f8d34d61017"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/british_shorthair8.png"
+hash = "bc131dd71ce4fe7a916ac205bf2d65d9838fd1744d80a88f03f43600ca6d252a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/british_shorthair9.png"
+hash = "952157d6d5d7b58803125e28cf57b4333e1624c2aaedbdeef80dcfb32aabd85d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/calico.properties"
+hash = "545e5d09b97a0be5cca8ad695c61aef0c7c7c2b0325343735fbf2a271d0c11dd"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/calico10.png"
+hash = "2f255006701297ad0705dda7a4f1fa4c1ef5af5f1fd50d70078231252d874d48"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/calico11.png"
+hash = "51aec299f0b080ce0ca5a46403497b804e1ae5bc57fa99724c40e549718a7714"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/calico12.png"
+hash = "60762c9e92326f030225ec206eb7515f635253d1802eb6e67c72331aa6ff9db4"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/calico13.png"
+hash = "1b113b1924ab97f42c55689ad4633d2c08b20b9290a4b827e2f4be7a7e426258"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/calico14.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/calico15.png"
+hash = "87534b7d424691bbf43542925938b2e336c0388dacd0339dfc52582000d4afc6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/calico16.png"
+hash = "4411e5b6378cc2e4636c048180169d1bad70915ac2f36b90e3f8a950aa02cde9"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/calico17.png"
+hash = "4a23bc7de208fb58f204d02e0aa7916ad14e69e671fab23f9480eefcfec4a488"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/calico18.png"
+hash = "2834d0bba218a326c2f5c562a42d1ff0057324c8f30668bf78ac7d24260a247f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/calico19.png"
+hash = "a224e3fee253b33ce7a352e18aa6eb02779e6dc10d60ff6f9e840b7e5a154915"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/calico2.png"
+hash = "cef283f404081936563a2444498228b81dfbc7660ca8f16f41e60cb469653888"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/calico20.png"
+hash = "4eb628c043fd0f77beab32e5a49a4ae8f1740d2cbf690eb4d29c53328e193885"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/calico21.png"
+hash = "7f11c77ba9d9dc4f2dfa43c838b4f02186de051923f699475b0a857895911e0d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/calico22.png"
+hash = "70f22e56cf86f7680029be6d06e6903ad5a29116bfb27ce0231f54670b0d4f26"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/calico23.png"
+hash = "21d546b04c244737a515334fe925c64bf08b6ec68e7238ad4bacacbc67492bda"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/calico24.png"
+hash = "1082d63271d781de4ea2df98a36589768fa93c83f24448c7cb889cca8c2bad2c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/calico25.png"
+hash = "4cc443544c89d47c398bc687fbd305cdebf9a8c5f95a3a7a82f9cfd259374ed6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/calico3.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/calico4.png"
+hash = "8e33fdb876ae6b6f70362aabc3bd4c7087debb6f5d71a9c540e868180d9a450a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/calico5.png"
+hash = "080a3f1e96d96530e36f5fbf6b3c10ecefb0a02822c95dccb102015e560933b3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/calico6.png"
+hash = "1c319c7c8bcd3a811b78532b8c2d868b9f0111188fe84ffece2344025505ef6c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/calico7.png"
+hash = "14c36073f3c2764bcd02b8dfe2d37a5de0476d95d9e7567c7ef66f8d34d61017"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/calico8.png"
+hash = "bc131dd71ce4fe7a916ac205bf2d65d9838fd1744d80a88f03f43600ca6d252a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/calico9.png"
+hash = "952157d6d5d7b58803125e28cf57b4333e1624c2aaedbdeef80dcfb32aabd85d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/jellie.properties"
+hash = "545e5d09b97a0be5cca8ad695c61aef0c7c7c2b0325343735fbf2a271d0c11dd"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/jellie10.png"
+hash = "2f255006701297ad0705dda7a4f1fa4c1ef5af5f1fd50d70078231252d874d48"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/jellie11.png"
+hash = "51aec299f0b080ce0ca5a46403497b804e1ae5bc57fa99724c40e549718a7714"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/jellie12.png"
+hash = "60762c9e92326f030225ec206eb7515f635253d1802eb6e67c72331aa6ff9db4"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/jellie13.png"
+hash = "1b113b1924ab97f42c55689ad4633d2c08b20b9290a4b827e2f4be7a7e426258"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/jellie14.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/jellie15.png"
+hash = "87534b7d424691bbf43542925938b2e336c0388dacd0339dfc52582000d4afc6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/jellie16.png"
+hash = "4411e5b6378cc2e4636c048180169d1bad70915ac2f36b90e3f8a950aa02cde9"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/jellie17.png"
+hash = "4a23bc7de208fb58f204d02e0aa7916ad14e69e671fab23f9480eefcfec4a488"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/jellie18.png"
+hash = "2834d0bba218a326c2f5c562a42d1ff0057324c8f30668bf78ac7d24260a247f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/jellie19.png"
+hash = "a224e3fee253b33ce7a352e18aa6eb02779e6dc10d60ff6f9e840b7e5a154915"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/jellie2.png"
+hash = "cef283f404081936563a2444498228b81dfbc7660ca8f16f41e60cb469653888"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/jellie20.png"
+hash = "4eb628c043fd0f77beab32e5a49a4ae8f1740d2cbf690eb4d29c53328e193885"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/jellie21.png"
+hash = "7f11c77ba9d9dc4f2dfa43c838b4f02186de051923f699475b0a857895911e0d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/jellie22.png"
+hash = "70f22e56cf86f7680029be6d06e6903ad5a29116bfb27ce0231f54670b0d4f26"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/jellie23.png"
+hash = "21d546b04c244737a515334fe925c64bf08b6ec68e7238ad4bacacbc67492bda"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/jellie24.png"
+hash = "1082d63271d781de4ea2df98a36589768fa93c83f24448c7cb889cca8c2bad2c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/jellie25.png"
+hash = "4cc443544c89d47c398bc687fbd305cdebf9a8c5f95a3a7a82f9cfd259374ed6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/jellie3.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/jellie4.png"
+hash = "8e33fdb876ae6b6f70362aabc3bd4c7087debb6f5d71a9c540e868180d9a450a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/jellie5.png"
+hash = "080a3f1e96d96530e36f5fbf6b3c10ecefb0a02822c95dccb102015e560933b3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/jellie6.png"
+hash = "1c319c7c8bcd3a811b78532b8c2d868b9f0111188fe84ffece2344025505ef6c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/jellie7.png"
+hash = "14c36073f3c2764bcd02b8dfe2d37a5de0476d95d9e7567c7ef66f8d34d61017"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/jellie8.png"
+hash = "bc131dd71ce4fe7a916ac205bf2d65d9838fd1744d80a88f03f43600ca6d252a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/jellie9.png"
+hash = "952157d6d5d7b58803125e28cf57b4333e1624c2aaedbdeef80dcfb32aabd85d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/persian.properties"
+hash = "545e5d09b97a0be5cca8ad695c61aef0c7c7c2b0325343735fbf2a271d0c11dd"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/persian10.png"
+hash = "2f255006701297ad0705dda7a4f1fa4c1ef5af5f1fd50d70078231252d874d48"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/persian11.png"
+hash = "51aec299f0b080ce0ca5a46403497b804e1ae5bc57fa99724c40e549718a7714"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/persian12.png"
+hash = "60762c9e92326f030225ec206eb7515f635253d1802eb6e67c72331aa6ff9db4"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/persian13.png"
+hash = "1b113b1924ab97f42c55689ad4633d2c08b20b9290a4b827e2f4be7a7e426258"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/persian14.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/persian15.png"
+hash = "87534b7d424691bbf43542925938b2e336c0388dacd0339dfc52582000d4afc6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/persian16.png"
+hash = "4411e5b6378cc2e4636c048180169d1bad70915ac2f36b90e3f8a950aa02cde9"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/persian17.png"
+hash = "4a23bc7de208fb58f204d02e0aa7916ad14e69e671fab23f9480eefcfec4a488"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/persian18.png"
+hash = "2834d0bba218a326c2f5c562a42d1ff0057324c8f30668bf78ac7d24260a247f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/persian19.png"
+hash = "a224e3fee253b33ce7a352e18aa6eb02779e6dc10d60ff6f9e840b7e5a154915"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/persian2.png"
+hash = "cef283f404081936563a2444498228b81dfbc7660ca8f16f41e60cb469653888"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/persian20.png"
+hash = "4eb628c043fd0f77beab32e5a49a4ae8f1740d2cbf690eb4d29c53328e193885"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/persian21.png"
+hash = "7f11c77ba9d9dc4f2dfa43c838b4f02186de051923f699475b0a857895911e0d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/persian22.png"
+hash = "70f22e56cf86f7680029be6d06e6903ad5a29116bfb27ce0231f54670b0d4f26"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/persian23.png"
+hash = "21d546b04c244737a515334fe925c64bf08b6ec68e7238ad4bacacbc67492bda"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/persian24.png"
+hash = "1082d63271d781de4ea2df98a36589768fa93c83f24448c7cb889cca8c2bad2c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/persian25.png"
+hash = "4cc443544c89d47c398bc687fbd305cdebf9a8c5f95a3a7a82f9cfd259374ed6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/persian3.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/persian4.png"
+hash = "8e33fdb876ae6b6f70362aabc3bd4c7087debb6f5d71a9c540e868180d9a450a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/persian5.png"
+hash = "080a3f1e96d96530e36f5fbf6b3c10ecefb0a02822c95dccb102015e560933b3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/persian6.png"
+hash = "1c319c7c8bcd3a811b78532b8c2d868b9f0111188fe84ffece2344025505ef6c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/persian7.png"
+hash = "14c36073f3c2764bcd02b8dfe2d37a5de0476d95d9e7567c7ef66f8d34d61017"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/persian8.png"
+hash = "bc131dd71ce4fe7a916ac205bf2d65d9838fd1744d80a88f03f43600ca6d252a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/persian9.png"
+hash = "952157d6d5d7b58803125e28cf57b4333e1624c2aaedbdeef80dcfb32aabd85d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/ragdoll.properties"
+hash = "545e5d09b97a0be5cca8ad695c61aef0c7c7c2b0325343735fbf2a271d0c11dd"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/ragdoll10.png"
+hash = "2f255006701297ad0705dda7a4f1fa4c1ef5af5f1fd50d70078231252d874d48"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/ragdoll11.png"
+hash = "51aec299f0b080ce0ca5a46403497b804e1ae5bc57fa99724c40e549718a7714"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/ragdoll12.png"
+hash = "60762c9e92326f030225ec206eb7515f635253d1802eb6e67c72331aa6ff9db4"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/ragdoll13.png"
+hash = "1b113b1924ab97f42c55689ad4633d2c08b20b9290a4b827e2f4be7a7e426258"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/ragdoll14.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/ragdoll15.png"
+hash = "87534b7d424691bbf43542925938b2e336c0388dacd0339dfc52582000d4afc6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/ragdoll16.png"
+hash = "4411e5b6378cc2e4636c048180169d1bad70915ac2f36b90e3f8a950aa02cde9"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/ragdoll17.png"
+hash = "4a23bc7de208fb58f204d02e0aa7916ad14e69e671fab23f9480eefcfec4a488"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/ragdoll18.png"
+hash = "2834d0bba218a326c2f5c562a42d1ff0057324c8f30668bf78ac7d24260a247f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/ragdoll19.png"
+hash = "a224e3fee253b33ce7a352e18aa6eb02779e6dc10d60ff6f9e840b7e5a154915"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/ragdoll2.png"
+hash = "cef283f404081936563a2444498228b81dfbc7660ca8f16f41e60cb469653888"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/ragdoll20.png"
+hash = "4eb628c043fd0f77beab32e5a49a4ae8f1740d2cbf690eb4d29c53328e193885"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/ragdoll21.png"
+hash = "7f11c77ba9d9dc4f2dfa43c838b4f02186de051923f699475b0a857895911e0d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/ragdoll22.png"
+hash = "70f22e56cf86f7680029be6d06e6903ad5a29116bfb27ce0231f54670b0d4f26"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/ragdoll23.png"
+hash = "21d546b04c244737a515334fe925c64bf08b6ec68e7238ad4bacacbc67492bda"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/ragdoll24.png"
+hash = "1082d63271d781de4ea2df98a36589768fa93c83f24448c7cb889cca8c2bad2c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/ragdoll25.png"
+hash = "4cc443544c89d47c398bc687fbd305cdebf9a8c5f95a3a7a82f9cfd259374ed6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/ragdoll3.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/ragdoll4.png"
+hash = "8e33fdb876ae6b6f70362aabc3bd4c7087debb6f5d71a9c540e868180d9a450a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/ragdoll5.png"
+hash = "080a3f1e96d96530e36f5fbf6b3c10ecefb0a02822c95dccb102015e560933b3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/ragdoll6.png"
+hash = "1c319c7c8bcd3a811b78532b8c2d868b9f0111188fe84ffece2344025505ef6c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/ragdoll7.png"
+hash = "14c36073f3c2764bcd02b8dfe2d37a5de0476d95d9e7567c7ef66f8d34d61017"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/ragdoll8.png"
+hash = "bc131dd71ce4fe7a916ac205bf2d65d9838fd1744d80a88f03f43600ca6d252a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/ragdoll9.png"
+hash = "952157d6d5d7b58803125e28cf57b4333e1624c2aaedbdeef80dcfb32aabd85d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/red.properties"
+hash = "545e5d09b97a0be5cca8ad695c61aef0c7c7c2b0325343735fbf2a271d0c11dd"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/red10.png"
+hash = "2f255006701297ad0705dda7a4f1fa4c1ef5af5f1fd50d70078231252d874d48"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/red11.png"
+hash = "51aec299f0b080ce0ca5a46403497b804e1ae5bc57fa99724c40e549718a7714"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/red12.png"
+hash = "60762c9e92326f030225ec206eb7515f635253d1802eb6e67c72331aa6ff9db4"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/red13.png"
+hash = "1b113b1924ab97f42c55689ad4633d2c08b20b9290a4b827e2f4be7a7e426258"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/red14.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/red15.png"
+hash = "87534b7d424691bbf43542925938b2e336c0388dacd0339dfc52582000d4afc6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/red16.png"
+hash = "4411e5b6378cc2e4636c048180169d1bad70915ac2f36b90e3f8a950aa02cde9"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/red17.png"
+hash = "4a23bc7de208fb58f204d02e0aa7916ad14e69e671fab23f9480eefcfec4a488"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/red18.png"
+hash = "2834d0bba218a326c2f5c562a42d1ff0057324c8f30668bf78ac7d24260a247f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/red19.png"
+hash = "a224e3fee253b33ce7a352e18aa6eb02779e6dc10d60ff6f9e840b7e5a154915"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/red2.png"
+hash = "cef283f404081936563a2444498228b81dfbc7660ca8f16f41e60cb469653888"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/red20.png"
+hash = "4eb628c043fd0f77beab32e5a49a4ae8f1740d2cbf690eb4d29c53328e193885"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/red21.png"
+hash = "7f11c77ba9d9dc4f2dfa43c838b4f02186de051923f699475b0a857895911e0d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/red22.png"
+hash = "70f22e56cf86f7680029be6d06e6903ad5a29116bfb27ce0231f54670b0d4f26"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/red23.png"
+hash = "21d546b04c244737a515334fe925c64bf08b6ec68e7238ad4bacacbc67492bda"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/red24.png"
+hash = "1082d63271d781de4ea2df98a36589768fa93c83f24448c7cb889cca8c2bad2c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/red25.png"
+hash = "4cc443544c89d47c398bc687fbd305cdebf9a8c5f95a3a7a82f9cfd259374ed6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/red3.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/red4.png"
+hash = "8e33fdb876ae6b6f70362aabc3bd4c7087debb6f5d71a9c540e868180d9a450a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/red5.png"
+hash = "080a3f1e96d96530e36f5fbf6b3c10ecefb0a02822c95dccb102015e560933b3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/red6.png"
+hash = "1c319c7c8bcd3a811b78532b8c2d868b9f0111188fe84ffece2344025505ef6c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/red7.png"
+hash = "14c36073f3c2764bcd02b8dfe2d37a5de0476d95d9e7567c7ef66f8d34d61017"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/red8.png"
+hash = "bc131dd71ce4fe7a916ac205bf2d65d9838fd1744d80a88f03f43600ca6d252a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/red9.png"
+hash = "952157d6d5d7b58803125e28cf57b4333e1624c2aaedbdeef80dcfb32aabd85d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/siamese.properties"
+hash = "545e5d09b97a0be5cca8ad695c61aef0c7c7c2b0325343735fbf2a271d0c11dd"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/siamese10.png"
+hash = "2f255006701297ad0705dda7a4f1fa4c1ef5af5f1fd50d70078231252d874d48"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/siamese11.png"
+hash = "51aec299f0b080ce0ca5a46403497b804e1ae5bc57fa99724c40e549718a7714"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/siamese12.png"
+hash = "60762c9e92326f030225ec206eb7515f635253d1802eb6e67c72331aa6ff9db4"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/siamese13.png"
+hash = "1b113b1924ab97f42c55689ad4633d2c08b20b9290a4b827e2f4be7a7e426258"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/siamese14.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/siamese15.png"
+hash = "87534b7d424691bbf43542925938b2e336c0388dacd0339dfc52582000d4afc6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/siamese16.png"
+hash = "4411e5b6378cc2e4636c048180169d1bad70915ac2f36b90e3f8a950aa02cde9"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/siamese17.png"
+hash = "4a23bc7de208fb58f204d02e0aa7916ad14e69e671fab23f9480eefcfec4a488"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/siamese18.png"
+hash = "2834d0bba218a326c2f5c562a42d1ff0057324c8f30668bf78ac7d24260a247f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/siamese19.png"
+hash = "a224e3fee253b33ce7a352e18aa6eb02779e6dc10d60ff6f9e840b7e5a154915"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/siamese2.png"
+hash = "cef283f404081936563a2444498228b81dfbc7660ca8f16f41e60cb469653888"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/siamese20.png"
+hash = "4eb628c043fd0f77beab32e5a49a4ae8f1740d2cbf690eb4d29c53328e193885"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/siamese21.png"
+hash = "7f11c77ba9d9dc4f2dfa43c838b4f02186de051923f699475b0a857895911e0d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/siamese22.png"
+hash = "70f22e56cf86f7680029be6d06e6903ad5a29116bfb27ce0231f54670b0d4f26"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/siamese23.png"
+hash = "21d546b04c244737a515334fe925c64bf08b6ec68e7238ad4bacacbc67492bda"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/siamese24.png"
+hash = "1082d63271d781de4ea2df98a36589768fa93c83f24448c7cb889cca8c2bad2c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/siamese25.png"
+hash = "4cc443544c89d47c398bc687fbd305cdebf9a8c5f95a3a7a82f9cfd259374ed6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/siamese3.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/siamese4.png"
+hash = "8e33fdb876ae6b6f70362aabc3bd4c7087debb6f5d71a9c540e868180d9a450a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/siamese5.png"
+hash = "080a3f1e96d96530e36f5fbf6b3c10ecefb0a02822c95dccb102015e560933b3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/siamese6.png"
+hash = "1c319c7c8bcd3a811b78532b8c2d868b9f0111188fe84ffece2344025505ef6c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/siamese7.png"
+hash = "14c36073f3c2764bcd02b8dfe2d37a5de0476d95d9e7567c7ef66f8d34d61017"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/siamese8.png"
+hash = "bc131dd71ce4fe7a916ac205bf2d65d9838fd1744d80a88f03f43600ca6d252a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/siamese9.png"
+hash = "952157d6d5d7b58803125e28cf57b4333e1624c2aaedbdeef80dcfb32aabd85d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/tabby.properties"
+hash = "545e5d09b97a0be5cca8ad695c61aef0c7c7c2b0325343735fbf2a271d0c11dd"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/tabby10.png"
+hash = "2f255006701297ad0705dda7a4f1fa4c1ef5af5f1fd50d70078231252d874d48"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/tabby11.png"
+hash = "51aec299f0b080ce0ca5a46403497b804e1ae5bc57fa99724c40e549718a7714"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/tabby12.png"
+hash = "60762c9e92326f030225ec206eb7515f635253d1802eb6e67c72331aa6ff9db4"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/tabby13.png"
+hash = "1b113b1924ab97f42c55689ad4633d2c08b20b9290a4b827e2f4be7a7e426258"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/tabby14.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/tabby15.png"
+hash = "87534b7d424691bbf43542925938b2e336c0388dacd0339dfc52582000d4afc6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/tabby16.png"
+hash = "4411e5b6378cc2e4636c048180169d1bad70915ac2f36b90e3f8a950aa02cde9"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/tabby17.png"
+hash = "4a23bc7de208fb58f204d02e0aa7916ad14e69e671fab23f9480eefcfec4a488"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/tabby18.png"
+hash = "2834d0bba218a326c2f5c562a42d1ff0057324c8f30668bf78ac7d24260a247f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/tabby19.png"
+hash = "a224e3fee253b33ce7a352e18aa6eb02779e6dc10d60ff6f9e840b7e5a154915"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/tabby2.png"
+hash = "cef283f404081936563a2444498228b81dfbc7660ca8f16f41e60cb469653888"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/tabby20.png"
+hash = "4eb628c043fd0f77beab32e5a49a4ae8f1740d2cbf690eb4d29c53328e193885"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/tabby21.png"
+hash = "7f11c77ba9d9dc4f2dfa43c838b4f02186de051923f699475b0a857895911e0d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/tabby22.png"
+hash = "70f22e56cf86f7680029be6d06e6903ad5a29116bfb27ce0231f54670b0d4f26"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/tabby23.png"
+hash = "21d546b04c244737a515334fe925c64bf08b6ec68e7238ad4bacacbc67492bda"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/tabby24.png"
+hash = "1082d63271d781de4ea2df98a36589768fa93c83f24448c7cb889cca8c2bad2c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/tabby25.png"
+hash = "4cc443544c89d47c398bc687fbd305cdebf9a8c5f95a3a7a82f9cfd259374ed6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/tabby3.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/tabby4.png"
+hash = "8e33fdb876ae6b6f70362aabc3bd4c7087debb6f5d71a9c540e868180d9a450a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/tabby5.png"
+hash = "080a3f1e96d96530e36f5fbf6b3c10ecefb0a02822c95dccb102015e560933b3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/tabby6.png"
+hash = "1c319c7c8bcd3a811b78532b8c2d868b9f0111188fe84ffece2344025505ef6c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/tabby7.png"
+hash = "14c36073f3c2764bcd02b8dfe2d37a5de0476d95d9e7567c7ef66f8d34d61017"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/tabby8.png"
+hash = "bc131dd71ce4fe7a916ac205bf2d65d9838fd1744d80a88f03f43600ca6d252a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/tabby9.png"
+hash = "952157d6d5d7b58803125e28cf57b4333e1624c2aaedbdeef80dcfb32aabd85d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/white.properties"
+hash = "545e5d09b97a0be5cca8ad695c61aef0c7c7c2b0325343735fbf2a271d0c11dd"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/white10.png"
+hash = "2f255006701297ad0705dda7a4f1fa4c1ef5af5f1fd50d70078231252d874d48"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/white11.png"
+hash = "51aec299f0b080ce0ca5a46403497b804e1ae5bc57fa99724c40e549718a7714"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/white12.png"
+hash = "60762c9e92326f030225ec206eb7515f635253d1802eb6e67c72331aa6ff9db4"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/white13.png"
+hash = "1b113b1924ab97f42c55689ad4633d2c08b20b9290a4b827e2f4be7a7e426258"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/white14.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/white15.png"
+hash = "87534b7d424691bbf43542925938b2e336c0388dacd0339dfc52582000d4afc6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/white16.png"
+hash = "4411e5b6378cc2e4636c048180169d1bad70915ac2f36b90e3f8a950aa02cde9"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/white17.png"
+hash = "4a23bc7de208fb58f204d02e0aa7916ad14e69e671fab23f9480eefcfec4a488"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/white18.png"
+hash = "2834d0bba218a326c2f5c562a42d1ff0057324c8f30668bf78ac7d24260a247f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/white19.png"
+hash = "a224e3fee253b33ce7a352e18aa6eb02779e6dc10d60ff6f9e840b7e5a154915"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/white2.png"
+hash = "cef283f404081936563a2444498228b81dfbc7660ca8f16f41e60cb469653888"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/white20.png"
+hash = "4eb628c043fd0f77beab32e5a49a4ae8f1740d2cbf690eb4d29c53328e193885"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/white21.png"
+hash = "7f11c77ba9d9dc4f2dfa43c838b4f02186de051923f699475b0a857895911e0d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/white22.png"
+hash = "70f22e56cf86f7680029be6d06e6903ad5a29116bfb27ce0231f54670b0d4f26"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/white23.png"
+hash = "21d546b04c244737a515334fe925c64bf08b6ec68e7238ad4bacacbc67492bda"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/white24.png"
+hash = "1082d63271d781de4ea2df98a36589768fa93c83f24448c7cb889cca8c2bad2c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/white25.png"
+hash = "4cc443544c89d47c398bc687fbd305cdebf9a8c5f95a3a7a82f9cfd259374ed6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/white3.png"
+hash = "f1670639ed8515bdc538cfe8abe4f13704156e9840ce245a69bbe57f4e8d484f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/white4.png"
+hash = "8e33fdb876ae6b6f70362aabc3bd4c7087debb6f5d71a9c540e868180d9a450a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/white5.png"
+hash = "080a3f1e96d96530e36f5fbf6b3c10ecefb0a02822c95dccb102015e560933b3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/white6.png"
+hash = "1c319c7c8bcd3a811b78532b8c2d868b9f0111188fe84ffece2344025505ef6c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/white7.png"
+hash = "14c36073f3c2764bcd02b8dfe2d37a5de0476d95d9e7567c7ef66f8d34d61017"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/white8.png"
+hash = "bc131dd71ce4fe7a916ac205bf2d65d9838fd1744d80a88f03f43600ca6d252a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/optifine/mob/cat/white9.png"
+hash = "952157d6d5d7b58803125e28cf57b4333e1624c2aaedbdeef80dcfb32aabd85d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/particles/mycelium.json"
+hash = "119137484601c8085e8c818a72eec01ed2c746cd1c921170747cf1de32d08989"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/block/amethyst_cluster.png"
+hash = "760c92e2a7adcf423c4aa6cf1f6559cf176eaf50fc3d7b950618c6221e378a47"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/block/amethyst_cluster.png.mcmeta"
+hash = "ee066a4693c7c1a729ffa0c7f2b92d153fd1bfae7f42177b22a0323a07510d62"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/block/door/jungle_door_side.png"
+hash = "5964d459cc72120a9c56789d01586d03e90698f9479d5b9409d2cb8d59c53945"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/block/jungle_door_bottom.png"
+hash = "49c4316ab6a1c96437a4a32a23a6251c597e8f3e0b23ad6814b9f458c7980d91"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/block/jungle_door_bottom_rh.png"
+hash = "61ea7da15b0f770b69227e415572b971c22d8eb04fa01561526debd4d57569b5"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/block/jungle_door_top.png"
+hash = "49ba8720c12431517e17f2152143fd010c0ea973672a5aaffd21ad0601f63c04"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/block/jungle_door_top_rh.png"
+hash = "ce9674fbad72d6bf552df646e7179b7f1cb1911cc6e304c17e1949a6f01e0f27"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/block/jungle_framed_planks.png"
+hash = "9d938dceffdb2f6449aa0a96036750e32863c10b7b7668316c53932461c4ee33"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/block/jungle_log.png"
+hash = "289903bab20d8f4a494c55758184c3cbb57a74e83d60c8a2e7d6df86a5ecc2ce"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/block/jungle_log_top.png"
+hash = "9ff2c0ad31e47ba42998b801e0309a84c53f2d2b6fa60cdfaf0c53be29814a5c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/block/jungle_planks.png"
+hash = "5345f0fde984275b27acd7dc3afe9606fd38c3f0fff2ed8d47f0e17d9c7648ba"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/block/jungle_trapdoor.png"
+hash = "b5c99076c8545c937fb9558c1c3c12773c7aea1ca5ed2e9e3c412dc8815b3599"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/block/stripped_jungle_log.png"
+hash = "cb5d0625c7edb7c7569a94e71c42f57a6c266f51fa060ab89f1c708c89067db0"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/block/stripped_jungle_log_top.png"
+hash = "306d09e0f6b4c099bad92e857836cb8b6e8f097c52d808db4e9c1ea1c3a6cfa4"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/block/trapdoor/jungle_trapdoor_side.png"
+hash = "32d9b6e4fdd0be92a02f3aab7c6a8dc614fb5036a8dc804c7f89068d0aeb5f30"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/block/variated/cobblestone/0.png"
+hash = "59afde60e4391bd202fd995e7adf31c500be0b1145e7b520175bec80df1dcf1b"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/block/variated/cobblestone/1.png"
+hash = "241885ac618e68f3b0c171b46ef6a4e697d5de0b432a1b4fbd480dfb327560b2"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/block/variated/cobblestone/2.png"
+hash = "7afa13c5b657707c1d2890baf41dcd8b6613e7758ef17537d11476d464ed7287"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/block/variated/cobblestone/3.png"
+hash = "72cd32779e892054317ae6fd0408c63bf4834e23640f36c647545be09d4885b5"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/block/variated/cobblestone/4.png"
+hash = "78c35b5586064861d7cc10f6a86c32539d1e71f087cc8fb91710db71517ac503"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/block/variated/cobblestone/5.png"
+hash = "77a5a3d97519d1c50b71bba6d2ec2c8702da3f3ae5847624417ad63b691402ad"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/block/variated/cobblestone/6.png"
+hash = "1d89b213522cb6dde91713d96e587c8f3aeec9e08b04f4b9dc6713779777a34c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/block/variated/cobblestone/7.png"
+hash = "2fea3853f462da5ef02cada6ce12a82ba1a89ba99b2dccc4ed75759fb89e4263"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/allay/allay.png"
+hash = "27e15cb3701a4d7aa958130c88db6645243fb51ff14fb13eddae9bea747b5b94"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/axolotl/axolotl_blue.png"
+hash = "d1e42d3146718d758aadefb90184d8e086c35559120259ff07b3bc89b4f6111f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/axolotl/axolotl_cyan.png"
+hash = "feaa39c9aefb77adf8a9919e5aa575e018e50a97d3f4ec9c494e01e53a9111ca"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/axolotl/axolotl_gold.png"
+hash = "62439ffe903670c1e797d40332b70314bf859c67f60ee4ccf221b57a2c8369cb"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/axolotl/axolotl_lucy.png"
+hash = "05ce50337e5b3b4893bcd9710bb00708d0cbb29d3da6ab39ac182ea60d08e3fd"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/axolotl/axolotl_wild.png"
+hash = "310bf4b894beb06a05c1189fa56347f9bb92634ab78854db428c000e7e50e57d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/bee/bee.png"
+hash = "21ba70acda37428038bd96deba27e79e05ccebf31284bb4f3e0a0c1b6142ef23"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/bee/bee_angry.png"
+hash = "218eda1dc35032feb8151d8a33f92a9b3203c2334246a525e6e10cea068b1a77"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/bee/bee_angry_nectar.png"
+hash = "1feb8db5b2003345042204a3a340384539db93275d373984845faece76a259e7"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/bee/bee_nectar.png"
+hash = "921990e6b35bb463c0fc92018171c5b05761153cac5f7942304169c05d226397"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/blaze.png"
+hash = "40808216b261f413db549f6a278ca214a46d0d499b8dbdb52c1ff6f73aae35c5"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/boat/jungle.png"
+hash = "13e592fc1a5ed52ddc7631913c10fb0c24ccd3f1195212676e3d5c0ab2cd2e60"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/cat/all_black.png"
+hash = "c30c31c461b07598990532aa806000fa66c8a8cd225199f99ab087c534a86fd3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/cat/black.png"
+hash = "c30c31c461b07598990532aa806000fa66c8a8cd225199f99ab087c534a86fd3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/cat/british_shorthair.png"
+hash = "c30c31c461b07598990532aa806000fa66c8a8cd225199f99ab087c534a86fd3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/cat/calico.png"
+hash = "c30c31c461b07598990532aa806000fa66c8a8cd225199f99ab087c534a86fd3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/cat/cat_collar.png"
+hash = "ceb8b108ee9e45b55ad0924a54259278872f3bc6e3915e7898bb8d953654af70"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/cat/jellie.png"
+hash = "c30c31c461b07598990532aa806000fa66c8a8cd225199f99ab087c534a86fd3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/cat/ocelot.png"
+hash = "d9fa62fe0384f5e1a736ac5f0c361f075d6374bfecc8814f04c56cfdfab4a04b"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/cat/persian.png"
+hash = "c30c31c461b07598990532aa806000fa66c8a8cd225199f99ab087c534a86fd3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/cat/ragdoll.png"
+hash = "c30c31c461b07598990532aa806000fa66c8a8cd225199f99ab087c534a86fd3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/cat/red.png"
+hash = "c30c31c461b07598990532aa806000fa66c8a8cd225199f99ab087c534a86fd3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/cat/siamese.png"
+hash = "c30c31c461b07598990532aa806000fa66c8a8cd225199f99ab087c534a86fd3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/cat/tabby.png"
+hash = "c30c31c461b07598990532aa806000fa66c8a8cd225199f99ab087c534a86fd3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/cat/white.png"
+hash = "c30c31c461b07598990532aa806000fa66c8a8cd225199f99ab087c534a86fd3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/chicken.png"
+hash = "7caf4f61de9c5902956e6644d33bb70ddec56f54c02449817d058ee8268664d8"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/cow/brown_mooshroom.png"
+hash = "e20460a9790b615953a524866d8c809ae42a9dd93fd259225527aef3ef736784"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/cow/brown_mushroom.png"
+hash = "c0a777ac17270291b2dc040f8541c315dbba6b0f9cf94ed86d05b1f6978dab9d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/cow/cow.png"
+hash = "af2ecd80cb6781a6e063d6f91f71da4e4a44b85e95aeda4e66d638a9edd0c8f1"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/cow/red_mooshroom.png"
+hash = "dea7c8501772a66742f46ee137ddf693c4d3e2847102961708606b1803890fc3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/cow/red_mushroom.png"
+hash = "c0a777ac17270291b2dc040f8541c315dbba6b0f9cf94ed86d05b1f6978dab9d"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/creeper/creeper.png"
+hash = "857418b98a3a474b32b93eaae1fdc81b86035be37d073970b5837f7cff4dd632"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/dolphin.png"
+hash = "e866e50210c5052cc3494261611aa4e2d4168aedbb129c0f18f2d9ed9c0f0d7c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/enderman/enderman.png"
+hash = "b2e0e13c4aa1167eecee6ec86751e61263d67624e3c4afc75243532ec3b79074"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/enderman/enderman_eyes.png"
+hash = "9c3729f6081b79403f2e2a7d6ae330a8206e7d2cebb5fb8df30b3bc8ab52a338"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/fox/fox.png"
+hash = "5b11cff65114ab81e7f1ac5ed41679301890284652eea00db1515ac8df04ab3f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/fox/fox_sleep.png"
+hash = "e230d3961ac027b673573408bd0f354b1707349c2b61fcfb4d5486cd3760aadf"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/fox/snow_fox.png"
+hash = "b2de9f6de68a67845544c6a474e34e5f134bc39b4988d0ede75e363471b11f12"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/fox/snow_fox_sleep.png"
+hash = "86b47167800eda592904f25dd32ac2d2fbbc65e829e1704577dde220b98ddf36"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/frog/cold_frog.png"
+hash = "32a9d6acf25eee09e20968fd467a21b3aee9504bcb2786d4c8588bb8895947e7"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/frog/temperate_frog.png"
+hash = "71ec217558343167232381b009b3d367b4242af1a05372779041e1a73721bbef"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/frog/warm_frog.png"
+hash = "2b9d9822337566ddb736a1697fcf8ed399c1608f93b71e6de223cb11255989c9"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/goat/goat.png"
+hash = "5b636322479ffd3ffb613765680cc15e3372e179c01eb3a2a1a479fa14e0942f"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/hoglin/hoglin.png"
+hash = "7e62e062ee46d185a183024776c14308b87799617c77bc8d926f2861794c36e5"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/hoglin/zoglin.png"
+hash = "3b5f71f4a9f529c862f1c3c6d806ccca40cd4d3547e00b90abf0b0ab10cb0558"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/horse/donkey.png"
+hash = "b99590fa09620a9947466d71c931d07957844930f4f009c48c17213dd898dcbb"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/horse/horse_black.png"
+hash = "ece678f8099b69c225566d01d909f4822fce9336b44f9309b44adae470080fc9"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/horse/horse_brown.png"
+hash = "e6f789efb88dc8114f7eef0cc934738ab5addca0de547d138dc39d31c3a778ae"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/horse/horse_chestnut.png"
+hash = "4f9f03c7298f89aacde892eb89033fc29be4fb3dfe8b6d215ad5b5fee1c72aac"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/horse/horse_creamy.png"
+hash = "c60a2e6e07431f2ed7d5a28b787eca44284b41068f261959abe79123b5602aa3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/horse/horse_darkbrown.png"
+hash = "892e4416e689da0a9df57798b5515a52f830b4c941748ac5084c6c3911877d28"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/horse/horse_gray.png"
+hash = "f4f6f2032a01db2bb5cd5ec726c8b380e8109a20570091a3620af19d0fbac551"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/horse/horse_skeleton.png"
+hash = "a289df30ada187d93bb3d43989e07c0935b5a1a7f1b4e0d3e4f36f23a20700e4"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/horse/horse_white.png"
+hash = "293991e527a047d7865096c0119a92ff26ed9698e9fabd5e4b1b973d7addcc5b"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/horse/horse_zombie.png"
+hash = "038ff7f238ac80c37e912f52ac11d226e6325d14d804d8b5650f51858ce2b8db"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/horse/mule.png"
+hash = "9c0817931084a64ad68c000d8d4e686333e40fa7742abeffd9ea09118a746fc0"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/illager/evoker.png"
+hash = "483f497e438ec9534d36580d89c529b052114a426582a79a5c9c9bc91bdc8845"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/illager/illusioner.png"
+hash = "4ac4b749cde496c85516276a04850c17a8b2703a6f1d64b096cd0fff8258deef"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/illager/pillager.png"
+hash = "c987e8434eb70af87d37ec2bfa5dcbdd78469fc685b525af471981d6f3d8a3cf"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/illager/ravager.png"
+hash = "a6dd76a1df6bfa9f2ac5455090ba4dc96bfe61482d9b54595211bd65e80c7fdc"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/illager/vex.png"
+hash = "530c023a39f021fbb7424e99f49f4ffad9e8ba27cfe94670cceb65e4811eaad1"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/illager/vex_charging.png"
+hash = "6972b461a2d84a643b1b4f134240368f001089a808ed7f90359a1e2bdfa70613"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/illager/vindicator.png"
+hash = "9bba030c6723f691908fc3d73b99a93ff296e280047e3ae426ee38e169321c90"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/iron_golem/iron_golem.png"
+hash = "5780a47e34d68b06b77577c9a0b4667689b01daf7ada1f2fdc62e4ecd7dbc70c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/llama/brown.png"
+hash = "95e320954facb4f45c1ad58f48e55c0eecbf03bdfd87b3844bdcb2b91e384ebb"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/llama/creamy.png"
+hash = "024cae9511cc77ee02825ed176bc0388fc15c219cf3d8ded1eb73dd857311e06"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/llama/gray.png"
+hash = "55cd988272c29c0a9695f491f74b73c373c53e0ab777c8b751931857dd8fc9ba"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/llama/white.png"
+hash = "5713c8c285143566d7d7ac769e960c36e88c88bcc153eb8bbf66343a2f01903b"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/parrot/parrot_blue.png"
+hash = "3c9f19460bf445f6e8886969a2a7352314321ff8e0610db9aa92760b3562abeb"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/parrot/parrot_green.png"
+hash = "5616316d4832cdd47785cb0deedf556760d1e6204ea32a4ed90288f58342a322"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/parrot/parrot_grey.png"
+hash = "c6aaafe134f2bb42cc6cb60b19482dfb92b06f001b0134d8db5502435300eb2e"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/parrot/parrot_red_blue.png"
+hash = "8afa458a7fb83ec1726bb11b48af591fb516ea2a2b84ab374c66e199bd9afedb"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/parrot/parrot_yellow_blue.png"
+hash = "b28d46ed5526aa88c7f81820a7ce23f03ae60166307152fed185dd2440c75d51"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/pig/pig.png"
+hash = "d14c71a6b7a9615b6f7aaa77b8c22fc910b34c2047352a1a67ef92ba597c2f3c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/pig/pig_saddle.png"
+hash = "1c94d270ebff2137373330cd6167e307e6bdc90c4fdcad111b696f73e5c72c52"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/piglin/piglin.png"
+hash = "afeb1ddb558fbea0fd4bda8ccf1e826d3b41ca570c84136853b33d25abc1a61a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/piglin/piglin_brute.png"
+hash = "37555b2e6045d29c1833a513746a59436c55dc5a1c95a58577a621ec3f49cd97"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/piglin/zombified_piglin.png"
+hash = "692d2a619eadba58fccc2f40905dcfe947ae9c78d7295f8853af6a58eba6ac02"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/sheep/sheep.png"
+hash = "5f78867dc9e0e5265af5f33da8a2b6a93dfa0bbb65817a583084bccbcc6d68c8"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/shulker/shulker.png"
+hash = "a5345e18017fc5344ec15b44443be835700717c27bf83cccf720736e1effef66"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/signs/jungle.png"
+hash = "fb90849226c8152fce4a24397f6473209476786de042d6833a6d80333b3299e6"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/slime/magmacube.png"
+hash = "d35b3697fdd121f5987c981df550cb698f8587434cc4e0930cc4cb4c40d4a94a"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/sniffer/sniffer.png"
+hash = "a31d3013aa53d5cdaf722f5725c84206b2b841cacb57d28b9bcd4265c6010b3e"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/spider/cave_spider.png"
+hash = "63226d5261e47f3b154f54814ada5e3bd465115c92b9cd36bdde68a3708e2d27"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/spider/spider.png"
+hash = "bb41c9741efeae72e5cd8fce8350bb4e816cf437ca2a9837f011e2acb47d0688"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/strider/strider.png"
+hash = "24eebede449954d5b0a02c00081f1a5dd3eacfd7c058fc11fd0b718daf8cc8cc"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/strider/strider_cold.png"
+hash = "ca57a8f657aedb901863a8e6b3b6652ddc5d41f63abf2f4e50b58a5009f3cd18"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/strider/strider_saddle.png"
+hash = "820d11221fbb4d80b475a1f6ed5e7026a704c5b2df8e051a89245af8993fcf64"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/turtle/big_sea_turtle.png"
+hash = "21bcac391d069e7d4831a22accbc5e9a13c0b141163d20e738e4b531ef98a389"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/villager/profession/weaponsmith.png"
+hash = "af4bd8c3e31eecbafeedb682eda16b903d8a1aadc19e0b47984425d763dd5bd0"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/villager/type/desert.png"
+hash = "717a7ec7accfed61cf50349f7acf47d314ff994d40289a1988d8d8ad32458e76"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/villager/villager.png"
+hash = "c97f7db35ae03662fdc78b5c69dee7aa2be4e7004f813565969e76d7f5be80cb"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/wandering_trader.png"
+hash = "65be78ca0652d7b41402ceaeb4dcfc70ea9bd03642212e5269a0209399dbc3af"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/witch.png"
+hash = "48ef5b02f2b9288ea1e72091596ceaa5b77bb7a0a4b1ef4d275d8172434081dc"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/wolf/wolf.png"
+hash = "0fc71888ae036b8087cadec41a48d0d1837f1d0c6a032b5e0a04d9c7545597de"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/wolf/wolf_angry.png"
+hash = "071729faa9b5ce066a89be9a9e1c9b885607888082e7ab3e8fe75dd4ea2fd687"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/wolf/wolf_tame.png"
+hash = "fd169c952d5e360679f1ae63af379d3a978f574edc5f7e4d849964a1cd9a1cd5"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/zombie_villager/profession/weaponsmith.png"
+hash = "a923985007532b2e7f0543de26d8e492c2964d0a2ba38074448dfaa26ccc554e"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/zombie_villager/type/desert.png"
+hash = "ac9b983c8da0811163bc609f005d00c354ec915a4bfe8f3f99e02649d7f1d6e4"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/entity/zombie_villager/zombie_villager.png"
+hash = "d776d95ec8c6c87616993e3aaa90b68e1c7b8e1a0068930ca719b03abd51ef41"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/font/accented vanilla.png"
+hash = "bec0dc4e7003c937a84af2e0b0f0a3e1094ee0108fd419206841e2174e0ea376"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/font/accented.pdn"
+hash = "1740bb86a8d08d7de134400ea5188981adfd29abf77c9f88e50fecd0c1849c41"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/font/accented.png"
+hash = "3eb2562d3d4b5e2fde73f3611a0d309fc32dc77c2d852a751c46658c52e6169c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/font/ascii vanilla.png"
+hash = "3206ca920f53a26186f413eac96c63a3f2d10938e657c9e2743f0ade3bc48048"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/font/ascii.pdn"
+hash = "a7979d2041c9c99a7817a0aff314615557fd86adc5cf5132e2b71bbc7b2c2757"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/font/ascii.png"
+hash = "b7a47a12126c0264366440bbb25b9eefb0b5534eba6ecf77a24cc7588bbff719"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/font/ascii_sga.png"
+hash = "7e7e287a1f335e44893f5d0c14e64eaa1e15549eea012d3e7d983127bf62c049"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/font/nonlatin_european _vanilla.png"
+hash = "3240959e37e1dd7c3d97eac4f5168af2aca343178c59d3cdbcc0859c17bb3ec3"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/font/nonlatin_european.pdn"
+hash = "f3bb8b361e99cd5b933a8a94273ff5747ce1ed27e7bc16cc231df572d1ec243c"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/font/nonlatin_european_OFF.png"
+hash = "bc0b748fd7a66eec65969add7fb9d483c97b8a42511dbfa29c1029861dfa7db2"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/item/jungle_boat.png"
+hash = "700f87d0f496ac92497bfd2cf922295fbe6e95f2994270d1e6051c6712903375"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/item/jungle_door.png"
+hash = "8839930952b2021284c2a455621d2fe5861a30ded2092ccd37158f90f8d4e302"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/item/jungle_sign.png"
+hash = "54f662602eaa6b4ddd5b59c371c625edbd649de72fef70344491062f63a36587"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/particle/empty.png"
+hash = "4641130a08a1631d53b7cdcda50f305ae63deca435f7459a42c7c4cdcf2cfa77"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/pack.mcmeta"
+hash = "90b1735579ab11d15b27ef3b38b478fd0a5d0a49b7c968fad90a9c1065f682f2"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/pack.png"
+hash = "e4860ee3776930016624707d1ec53aa193225e66fe97ecbc41c6c3e5cdd8c0d0"
+
+[[files]]
 file = "config/emi.css"
 hash = "ae7d13db76f77e33e633ce940617ebb03694cfd6b23449a7f97d08d6f812d12b"
 
@@ -143,32 +3719,8 @@ hash = "e0dd34137a7967f5c051f2c61b1de6e16e8a54af1a4e824eb83b7a113a13201b"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Better_Cats_V0.09.zip"
-hash = "c647eb3397fc861178c49edde7c1f4edae957ca573c5ad25cd1e9a5f7fdf2437"
-
-[[files]]
-file = "resourcepacks/CTM-Overhaul-V_5.0.zip"
-hash = "7997c352411bcdd04a9d89317ecc115832ef85f93d38530d24d79f22eba1d76a"
-
-[[files]]
-file = "resourcepacks/FreshAnimations_v1.9.zip"
-hash = "24e434f4332ef645a4c985163cdcf08eef43698f538d78da56b1814d632b1ae1"
-
-[[files]]
-file = "resourcepacks/Os' Amethyst Indicator.zip"
-hash = "a0ac4c37a5e354eb6e869b688bb8a974ce3bc12239b3e2f6a67b8abf91b6bb85"
-
-[[files]]
-file = "resourcepacks/Os' Colorful Cobblestone.zip"
-hash = "7a97d6f8f5ce1e29448d7b7f76da98c01f453ffeba7b3cf903f59577bc349113"
-
-[[files]]
-file = "resourcepacks/Serified Font v1.1 pf1-33.zip"
-hash = "1736e804acd693a0a5e9115de877bf15cbd69cce27198ca5e6c35cedd1a9c078"
-
-[[files]]
-file = "resourcepacks/xali's Enhanced Jungle Wood v1.2.zip"
-hash = "826eb98eaf57a91847ecbfe525f89350dd08c29eac069663f1bbea435b50ae56"
+file = "resourcepacks/JunePlus.zip"
+hash = "99fbdd082321b1b407574b003086bf9dcab2d409f0d8bdbf7bb2e3f6994818dc"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.2.1.zip"
