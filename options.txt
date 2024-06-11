@@ -1,4 +1,0 @@
-enableVsync:false
-autoJump:false
-resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","file/Better_Cats_V0.09.zip","file/xali\u0027s Enhanced Jungle Wood v1.2.zip","file/Serified Font v1.1 pf1-33.zip","file/Os\u0027 Colorful Cobblestone.zip","file/Os\u0027 Amethyst Indicator.zip","file/cubic-sun-moon-vb1-7-4a.zip","file/JunePlus Resources.zip","file/CTM-Overhaul-V_5.0.zip","file/FreshAnimations_v1.9.zip"]
-incompatibleResourcePacks:["appleskin","modernfix","file/Better_Cats_V0.09.zip","file/xali\u0027s Enhanced Jungle Wood v1.2.zip","file/Os\u0027 Colorful Cobblestone.zip","file/Os\u0027 Amethyst Indicator.zip","file/cubic-sun-moon-vb1-7-4a.zip","file/CTM-Overhaul-V_5.0.zip","file/FreshAnimations_v1.9.zip"]
