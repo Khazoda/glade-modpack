@@ -3562,11 +3562,11 @@ hash = "8ff300f981ecc54cd86ec1c5a0091150224d386806fcf41d7febbe77e9cee455"
 
 [[files]]
 file = "JunePlus Resource Pack Master File/assets/minecraft/textures/gui/title/minceraft.png"
-hash = "7f08a117c55a28427fae6629bc8400e80ef26f99ac04dd6f9c59d1dbc074af05"
+hash = "f7ee6649de55534b555a2a537569f48cdb8d1d7cfbe2d4ab860bbc9d08674a9a"
 
 [[files]]
 file = "JunePlus Resource Pack Master File/assets/minecraft/textures/gui/title/minecraft.png"
-hash = "7f08a117c55a28427fae6629bc8400e80ef26f99ac04dd6f9c59d1dbc074af05"
+hash = "f7ee6649de55534b555a2a537569f48cdb8d1d7cfbe2d4ab860bbc9d08674a9a"
 
 [[files]]
 file = "JunePlus Resource Pack Master File/assets/minecraft/textures/item/jungle_boat.png"
@@ -3740,7 +3740,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/JunePlus.zip"
-hash = "a8cb1a3c06be234b8399e5c3805e3fe6d771284ae536de3196feb360f1d7d85f"
+hash = "b0b17079130abbfd72306094b39108de2dd1d70f28efb980f6b15783773f9957"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.2.1.zip"
