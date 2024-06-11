@@ -148,10 +148,6 @@ hash = "e0dd34137a7967f5c051f2c61b1de6e16e8a54af1a4e824eb83b7a113a13201b"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "b973c692632cdd7d8f5f8a6c553a149de1ea4e9ee0e8e5d1973b7e388748e81e"
-
-[[files]]
 file = "resourcepacks/Better_Cats_V0.09.zip"
 hash = "c647eb3397fc861178c49edde7c1f4edae957ca573c5ad25cd1e9a5f7fdf2437"
 
