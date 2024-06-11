@@ -3029,6 +3029,10 @@ file = "JunePlus Resource Pack Master File/assets/minecraft/textures/block/ameth
 hash = "ee066a4693c7c1a729ffa0c7f2b92d153fd1bfae7f42177b22a0323a07510d62"
 
 [[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/block/cherry_leaves.png"
+hash = "6433e6b5328d217b3ca4fe2364de05901c5283fdb389e5a1d7518bc23ac56af7"
+
+[[files]]
 file = "JunePlus Resource Pack Master File/assets/minecraft/textures/block/door/jungle_door_side.png"
 hash = "5964d459cc72120a9c56789d01586d03e90698f9479d5b9409d2cb8d59c53945"
 
@@ -3553,6 +3557,18 @@ file = "JunePlus Resource Pack Master File/assets/minecraft/textures/font/nonlat
 hash = "bc0b748fd7a66eec65969add7fb9d483c97b8a42511dbfa29c1029861dfa7db2"
 
 [[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/gui/title/edition.png"
+hash = "8ff300f981ecc54cd86ec1c5a0091150224d386806fcf41d7febbe77e9cee455"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/gui/title/minceraft.png"
+hash = "e6b5921d3c8702a1c541968655c84f57126c0113c4db64a364d16a93d89d53af"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "e6b5921d3c8702a1c541968655c84f57126c0113c4db64a364d16a93d89d53af"
+
+[[files]]
 file = "JunePlus Resource Pack Master File/assets/minecraft/textures/item/jungle_boat.png"
 hash = "700f87d0f496ac92497bfd2cf922295fbe6e95f2994270d1e6051c6712903375"
 
@@ -3567,6 +3583,10 @@ hash = "54f662602eaa6b4ddd5b59c371c625edbd649de72fef70344491062f63a36587"
 [[files]]
 file = "JunePlus Resource Pack Master File/assets/minecraft/textures/particle/empty.png"
 hash = "4641130a08a1631d53b7cdcda50f305ae63deca435f7459a42c7c4cdcf2cfa77"
+
+[[files]]
+file = "JunePlus Resource Pack Master File/desktop.ini"
+hash = "3396a621d5de0211864850f5e85c4fc39f47a93ccb01dc8746befbe2a8fa4062"
 
 [[files]]
 file = "JunePlus Resource Pack Master File/pack.mcmeta"
@@ -3720,7 +3740,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/JunePlus.zip"
-hash = "99fbdd082321b1b407574b003086bf9dcab2d409f0d8bdbf7bb2e3f6994818dc"
+hash = "8715c5bbdae4175a953ca74fb08108b717b889a4e0b194ed51898f22f590cf42"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.2.1.zip"
