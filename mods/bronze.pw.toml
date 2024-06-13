@@ -1,13 +1,13 @@
 name = "Bronze"
-filename = "bronze-1.0.2.jar"
+filename = "bronze-1.0.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6pVlXMty/versions/vazvcuOE/bronze-1.0.2.jar"
+url = "https://cdn.modrinth.com/data/6pVlXMty/versions/Gjpl0XU5/bronze-1.0.5.jar"
 hash-format = "sha1"
-hash = "37e5a119108d2e957f21480a993ae296bf8cdaf6"
+hash = "64ef350b2e0cb4698d33f5e964f783c38e568610"
 
 [update]
 [update.modrinth]
 mod-id = "6pVlXMty"
-version = "vazvcuOE"
+version = "Gjpl0XU5"

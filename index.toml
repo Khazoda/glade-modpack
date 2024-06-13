@@ -3620,12 +3620,12 @@ metafile = true
 
 [[files]]
 file = "mods/assorted-accolades.pw.toml"
-hash = "6e677e6764dead741cc8673cb57dcd81cec7b68d5b74b8ee72caef49af9068d9"
+hash = "a1c4c03ca7b5763702c68480f927659b88255a1569a4ea9708af60b91997d7ab"
 metafile = true
 
 [[files]]
 file = "mods/basic-weapons.pw.toml"
-hash = "cfcf19293bc306460b92deb25f6b84c89506032ba0e1b05a0f49fcf5b1a64502"
+hash = "3127eded4f8c024d44d93022ce592cd11283462c3a3535423b8523c3b14f40c7"
 metafile = true
 
 [[files]]
@@ -3640,7 +3640,7 @@ metafile = true
 
 [[files]]
 file = "mods/bronze.pw.toml"
-hash = "a944d1cc37a8d3668a7e5fbeefc21d5e7e720ba9042f7f21af8b932487611dc9"
+hash = "2cbc8e9e26da7e683c6f64cb62284629e057a3b54b2832de087f1adc938ecd79"
 metafile = true
 
 [[files]]
@@ -3670,7 +3670,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7bfd3f90f0f45c957ba2f7a695726cad48ab0c36eae9ac1a4feace483087f232"
+hash = "be48577ddce9c70b87e1c479ea185bdda3d677f8e408e7f6eb2618e29b3303fe"
 metafile = true
 
 [[files]]
@@ -3685,7 +3685,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "c2597298dd5d160ca9161a12bcb5e933118cb66718b27c0945938eedb19dd90d"
+hash = "35a5bdcb09b0b51a4161a62c0b8ab507cb58a936f036f60410704b291134d1ba"
 metafile = true
 
 [[files]]
@@ -3700,7 +3700,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "6c8c93e74e46a0cac65179d027e9aac4eaebc44847604b0ff86644f3030116e8"
+hash = "17481fa647d43b165a6a9f83dc2da178f19eceb8b439b7cffc257a1ac5fde463"
 metafile = true
 
 [[files]]
@@ -3715,12 +3715,12 @@ metafile = true
 
 [[files]]
 file = "mods/plushables-lite.pw.toml"
-hash = "ec69ac029e59db93346b2d91f5302bc400a0cd46999559838479879f3ed6144f"
+hash = "b897e0e8c24ed3adc14cad465517eea4fa154ce814a0578bbe2fe8b5a2e05db8"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "174b7b4038141e84a8a08c29d742fe4608574955991b6147b0a5fdac4c6529ff"
+hash = "91c8a11ea2106490c89e9e24228860ef2e63c84f98ca6fc1761d1a049a8ae498"
 metafile = true
 
 [[files]]
@@ -3730,7 +3730,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "0b1a53f585b616faa04cb2bccdb05e67c0fbc1887b209c191d4fb7c91d13cac4"
+hash = "7cb74081033769dbc3d65702e4ddcf83e4a8152f7e6122ea50d7e98909c3e549"
 metafile = true
 
 [[files]]
