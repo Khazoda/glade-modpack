@@ -1,13 +1,13 @@
 name = "Basic Weapons"
-filename = "basicweapons-1.2.5.jar"
+filename = "basicweapons-1.2.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sc2Pektv/versions/BOchCmpf/basicweapons-1.2.5.jar"
+url = "https://cdn.modrinth.com/data/sc2Pektv/versions/JsONNvkB/basicweapons-1.2.6.jar"
 hash-format = "sha1"
-hash = "92e514e99595ebc2849c21acb7c43a00d6906c59"
+hash = "8aa4db5508cf2648621ac01b0f520c40eb44aa20"
 
 [update]
 [update.modrinth]
 mod-id = "sc2Pektv"
-version = "BOchCmpf"
+version = "JsONNvkB"
