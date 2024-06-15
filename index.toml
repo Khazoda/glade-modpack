@@ -10,7 +10,7 @@ hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "a813aebacc35e33f5d28b4227d265bdc5765f9a010295d8c9154a9beb578b0b6"
+hash = "a4c07cecbe9151774a4999fd21cbd50fc6037c17035b1d6ddaa11e2c2640bd90"
 
 [[files]]
 file = "config/inventoryprofilesnext/villager-trading-config-v2.json"
