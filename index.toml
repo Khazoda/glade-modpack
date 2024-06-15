@@ -25,6 +25,11 @@ file = "desktop.ini"
 hash = "c83fc09097d1e20406376b3313bc156aa7855890a8400ee520fe3833504d8b4b"
 
 [[files]]
+file = "mods/ambient-environment.pw.toml"
+hash = "eb586237c139da61053ce14ea9a8d6cb3124e1731db22963ae79192b59b4c063"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "420663a6a26a3d60ca7bd07f942ba7ab3379daaf26772181a040e2caf97ff6e7"
 metafile = true
@@ -37,6 +42,11 @@ metafile = true
 [[files]]
 file = "mods/basic-weapons.pw.toml"
 hash = "f794685e340c4553c4f730437083b194c74310ad8b4b33c859b8ee2c8b29ab3f"
+metafile = true
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+hash = "3eac250a5bf00ba69b40c88c04e5522260d0cb83ccc0ef7fb0b495acb3651914"
 metafile = true
 
 [[files]]
@@ -122,6 +132,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "7cb74081033769dbc3d65702e4ddcf83e4a8152f7e6122ea50d7e98909c3e549"
+metafile = true
+
+[[files]]
+file = "mods/tcdcommons.pw.toml"
+hash = "cf9a5ab75ecff8efbb84f083bbc4cf8d5008398584924c53374bb314b5853bb7"
 metafile = true
 
 [[files]]
