@@ -5,6 +5,18 @@ file = "config/emi.css"
 hash = "ae7d13db76f77e33e633ce940617ebb03694cfd6b23449a7f97d08d6f812d12b"
 
 [[files]]
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "f0866afb429c496dc1ef77a5e6c23571fd3c137c056da43e26f9b80ed8077684"
+
+[[files]]
+file = "config/inventoryprofilesnext/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
 file = "config/vistas.json"
 hash = "b486e1eab6b2356915e3c0862d16e1c539229ee6ac66e27172d7cc5b42d8de5a"
 
