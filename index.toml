@@ -13,6 +13,11 @@ file = "desktop.ini"
 hash = "c83fc09097d1e20406376b3313bc156aa7855890a8400ee520fe3833504d8b4b"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "420663a6a26a3d60ca7bd07f942ba7ab3379daaf26772181a040e2caf97ff6e7"
+metafile = true
+
+[[files]]
 file = "mods/assorted-accolades.pw.toml"
 hash = "a1c4c03ca7b5763702c68480f927659b88255a1569a4ea9708af60b91997d7ab"
 metafile = true
@@ -24,7 +29,7 @@ metafile = true
 
 [[files]]
 file = "mods/bronze.pw.toml"
-hash = "2cbc8e9e26da7e683c6f64cb62284629e057a3b54b2832de087f1adc938ecd79"
+hash = "7b59101fb942de13d24dff81786a51bfde86bb3791da36f644896b014a038b6a"
 metafile = true
 
 [[files]]
@@ -53,13 +58,28 @@ hash = "be48577ddce9c70b87e1c479ea185bdda3d677f8e408e7f6eb2618e29b3303fe"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+metafile = true
+
+[[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "3653e3529223e22d42d86c56fc35e46a2edb41fc5805299937f85c2aaed71031"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "042a9f13b4202e4bee0d9bcee017233de613049bf677410b78b140fea9e5cc19"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "35a5bdcb09b0b51a4161a62c0b8ab507cb58a936f036f60410704b291134d1ba"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "4c42a272bc98113243eaf48c03a00b31bfeb61ce377e0189e5839cfdc4e3d41e"
 metafile = true
 
 [[files]]
@@ -69,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "17481fa647d43b165a6a9f83dc2da178f19eceb8b439b7cffc257a1ac5fde463"
+hash = "e96cb6e6ea59e5dec199d7f5db52cc2fea96d9018be74bfb893b52dfc3fedee1"
 metafile = true
 
 [[files]]
@@ -90,11 +110,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "7cb74081033769dbc3d65702e4ddcf83e4a8152f7e6122ea50d7e98909c3e549"
-metafile = true
-
-[[files]]
-file = "mods/universal-graves.pw.toml"
-hash = "d7f38c1cdd5be74dc8ede60124f8d17ccf5e1594ef1d8886d454301c24a1119e"
 metafile = true
 
 [[files]]
