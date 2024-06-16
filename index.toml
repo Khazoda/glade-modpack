@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc.json"
-hash = "760ae5577e36da7e8c9f319605468c036d59760a0dbb765e3f3194241f17e137"
+hash = "5423f9f3b942a29435d03918adae104eb31b5026a0294d33d4b998180796a577"
 
 [[files]]
 file = "config/emi.css"
