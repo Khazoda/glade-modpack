@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bcc.json"
+hash = "760ae5577e36da7e8c9f319605468c036d59760a0dbb765e3f3194241f17e137"
+
+[[files]]
 file = "config/emi.css"
 hash = "ae7d13db76f77e33e633ce940617ebb03694cfd6b23449a7f97d08d6f812d12b"
 
@@ -42,6 +46,11 @@ metafile = true
 [[files]]
 file = "mods/basic-weapons.pw.toml"
 hash = "f794685e340c4553c4f730437083b194c74310ad8b4b33c859b8ee2c8b29ab3f"
+metafile = true
+
+[[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "b29f1785c580a5ee541ae413325ff08d564392b9bdf887c7224dbdee3dc98dd1"
 metafile = true
 
 [[files]]
@@ -111,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e96cb6e6ea59e5dec199d7f5db52cc2fea96d9018be74bfb893b52dfc3fedee1"
+hash = "7f1ea1175d5541f7d733b3fd5c7d1b6f69f1d41cb0c96260342580fb6036ab9b"
 metafile = true
 
 [[files]]
@@ -135,13 +144,18 @@ hash = "7cb74081033769dbc3d65702e4ddcf83e4a8152f7e6122ea50d7e98909c3e549"
 metafile = true
 
 [[files]]
+file = "mods/status-effect-bars.pw.toml"
+hash = "563199dd7474844a71797be5114c798df3ded2d7bc0c9d384d9fd4aaa1b831b9"
+metafile = true
+
+[[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "cf9a5ab75ecff8efbb84f083bbc4cf8d5008398584924c53374bb314b5853bb7"
 metafile = true
 
 [[files]]
 file = "resourcepacks/JunePlus.zip"
-hash = "f626b0c59efa8a525d3b384a42d72bb652f2e9e8996821ee693eca41a3b6043f"
+hash = "17d393316707f990d20b4246a9c3666ac476438fd45231a18e347bb9ed603931"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.2.1.zip"
