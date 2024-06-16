@@ -1,13 +1,13 @@
 name = "Assorted Accolades"
-filename = "assorted-accolades-1.0.2.jar"
+filename = "assorted-accolades-1.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/dBfbKYdk/versions/uHKeRaDX/assorted-accolades-1.0.2.jar"
+url = "https://cdn.modrinth.com/data/dBfbKYdk/versions/mH2eRl9H/assorted-accolades-1.0.3.jar"
 hash-format = "sha1"
-hash = "fb0c7a39f1359c207593d61064fab59bd75b8521"
+hash = "074915a657698d7445aa5ec4ecffc2305bc8ecd7"
 
 [update]
 [update.modrinth]
 mod-id = "dBfbKYdk"
-version = "uHKeRaDX"
+version = "mH2eRl9H"
