@@ -79,6 +79,11 @@ hash = "da7d89a5ef4c67e74396b4a1decc94331260ec76c72723bcde45e048904cf0e2"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "aae3e2fad5bc3b2afacf3b1ada93c75a9317e156be6287e0c95d851bc5ef64d2"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "de858d34871042c79ee2a664582c1be5afee9421a870038f8cbeba520d406181"
 metafile = true
@@ -109,6 +114,11 @@ hash = "3653e3529223e22d42d86c56fc35e46a2edb41fc5805299937f85c2aaed71031"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
+metafile = true
+
+[[files]]
 file = "mods/held-item-info.pw.toml"
 hash = "3d11f813bb93d0dada53443ea60291da449f7a35b5f4dfe9d8859f761d95fbba"
 metafile = true
@@ -135,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "7f1ea1175d5541f7d733b3fd5c7d1b6f69f1d41cb0c96260342580fb6036ab9b"
+hash = "365313e20f6fd244d13667b352d8aa16312a609c7247b7472771cf4555908869"
 metafile = true
 
 [[files]]
