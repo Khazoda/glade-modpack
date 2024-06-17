@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc.json"
-hash = "5423f9f3b942a29435d03918adae104eb31b5026a0294d33d4b998180796a577"
+hash = "78b1cd2fcf2a601e658060575f5a1fac0b8074395c3d7d7b545f2e9e7752ca96"
 
 [[files]]
 file = "config/emi.css"
@@ -31,6 +31,11 @@ hash = "c83fc09097d1e20406376b3313bc156aa7855890a8400ee520fe3833504d8b4b"
 [[files]]
 file = "mods/ambient-environment.pw.toml"
 hash = "eb586237c139da61053ce14ea9a8d6cb3124e1731db22963ae79192b59b4c063"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "e014ad2b1396a9f75c0e833808ca4a068543f705cf983b67afe1e1b631a3653f"
 metafile = true
 
 [[files]]
@@ -69,6 +74,11 @@ hash = "9a0135fbcfdc8f9efbed49fcb2e5641272ed218553cc37897eea94eb4fe47f1b"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "da7d89a5ef4c67e74396b4a1decc94331260ec76c72723bcde45e048904cf0e2"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "de858d34871042c79ee2a664582c1be5afee9421a870038f8cbeba520d406181"
 metafile = true
@@ -99,6 +109,11 @@ hash = "3653e3529223e22d42d86c56fc35e46a2edb41fc5805299937f85c2aaed71031"
 metafile = true
 
 [[files]]
+file = "mods/held-item-info.pw.toml"
+hash = "3d11f813bb93d0dada53443ea60291da449f7a35b5f4dfe9d8859f761d95fbba"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "042a9f13b4202e4bee0d9bcee017233de613049bf677410b78b140fea9e5cc19"
 metafile = true
@@ -121,6 +136,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "7f1ea1175d5541f7d733b3fd5c7d1b6f69f1d41cb0c96260342580fb6036ab9b"
+metafile = true
+
+[[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "ccf59923d389b82accbce021e96be3ef134248ead3fdbf17d1b96e23c38a6d8e"
 metafile = true
 
 [[files]]
