@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc.json"
-hash = "78b1cd2fcf2a601e658060575f5a1fac0b8074395c3d7d7b545f2e9e7752ca96"
+hash = "8a6b448da13be0d35a073297987d3e7df2e8bb81d4f97aeee4c7f02290ff42c6"
 
 [[files]]
 file = "config/emi.css"
@@ -64,8 +64,23 @@ hash = "3eac250a5bf00ba69b40c88c04e5522260d0cb83ccc0ef7fb0b495acb3651914"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "b1e51f9af034074b66c451573c28d8ea0f929cedec048f3d10e0098e4f43febd"
+metafile = true
+
+[[files]]
 file = "mods/bronze.pw.toml"
 hash = "7b59101fb942de13d24dff81786a51bfde86bb3791da36f644896b014a038b6a"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "8383ab78f5fb08bb0793b6ec4b66807a456bab571aea63699e614a09601de22a"
+metafile = true
+
+[[files]]
+file = "mods/chunkyborder.pw.toml"
+hash = "a6096b3cc740027d6e192e8def745117f95ef73041187135522aebf8da0ea11d"
 metafile = true
 
 [[files]]
