@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc.json"
-hash = "8a6b448da13be0d35a073297987d3e7df2e8bb81d4f97aeee4c7f02290ff42c6"
+hash = "7679ea774a7d8f783d934a497dd5042a6757bd4152d25bb23d1b54e0040889ff"
 
 [[files]]
 file = "config/emi.css"
@@ -50,7 +50,7 @@ metafile = true
 
 [[files]]
 file = "mods/basic-weapons.pw.toml"
-hash = "f794685e340c4553c4f730437083b194c74310ad8b4b33c859b8ee2c8b29ab3f"
+hash = "5d7dfb2e1e0fd64246e2f7f37933b8aa11ded7825f267eb5afc9f176365866b2"
 metafile = true
 
 [[files]]
@@ -94,6 +94,11 @@ hash = "da7d89a5ef4c67e74396b4a1decc94331260ec76c72723bcde45e048904cf0e2"
 metafile = true
 
 [[files]]
+file = "mods/cull-leaves.pw.toml"
+hash = "34860c47ccaabe6c1b40aca50c445098526c3085f5274a7b3ed28e9625a25c83"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "aae3e2fad5bc3b2afacf3b1ada93c75a9317e156be6287e0c95d851bc5ef64d2"
 metafile = true
@@ -115,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "be48577ddce9c70b87e1c479ea185bdda3d677f8e408e7f6eb2618e29b3303fe"
+hash = "e9870688b5c78a9cc50f79922fdac81e1999279f5567cd5092952adaf6471313"
 metafile = true
 
 [[files]]
@@ -160,7 +165,17 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "365313e20f6fd244d13667b352d8aa16312a609c7247b7472771cf4555908869"
+hash = "9c603d7cea1e1b60317400b25490a93051f7e73204c337d815ac1dc53132a421"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "100a5dfaccb55b107edc57e11fafc1222dc443ce9b669f0d79a39b488e3e45ae"
+metafile = true
+
+[[files]]
+file = "mods/paginatedadvancements.pw.toml"
+hash = "47f673ce50dc6fdfd8e40f47035b9454b1130298f77dec65c14908fa4955213b"
 metafile = true
 
 [[files]]
@@ -200,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/JunePlus.zip"
-hash = "17d393316707f990d20b4246a9c3666ac476438fd45231a18e347bb9ed603931"
+hash = "142d3c301ec9227d729826580bf719ccebcf1c0732629c76f5881a3aa61256a6"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.2.1.zip"
