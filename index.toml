@@ -6,7 +6,7 @@ hash = "44adc6e46c5c2eb346566b12564ccdb146127af1d8a279265c89810312688058"
 
 [[files]]
 file = "config/bcc.json"
-hash = "5fdd1128bf33019fee2d1955fd4a615a338410e1b3cba3a57a157f6a321ad72e"
+hash = "94c3ed3db0a2048fa8503cb7fc964fc911f54064b4743392cd30b448e7f50193"
 
 [[files]]
 file = "config/emi.css"
@@ -103,6 +103,11 @@ hash = "34860c47ccaabe6c1b40aca50c445098526c3085f5274a7b3ed28e9625a25c83"
 metafile = true
 
 [[files]]
+file = "mods/debugify.pw.toml"
+hash = "b50942a1bec0085be9e0e8902f43623593c38e66dab0117c5a28cbe90dcd80dd"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "aae3e2fad5bc3b2afacf3b1ada93c75a9317e156be6287e0c95d851bc5ef64d2"
 metafile = true
@@ -163,8 +168,13 @@ hash = "4c42a272bc98113243eaf48c03a00b31bfeb61ce377e0189e5839cfdc4e3d41e"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "e2cc568688c5bcd0e41235681bc34c5c9849f214f65b43324bc25022d9ad8c80"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
-hash = "191874e7f32413e363fb002b721061b5ed885896e38974738a4f6faf080668de"
+hash = "0232ec9d048fafef4d30897343834e6958580863be3ba53ce85abe80ba799878"
 metafile = true
 
 [[files]]
@@ -208,6 +218,11 @@ hash = "7cb74081033769dbc3d65702e4ddcf83e4a8152f7e6122ea50d7e98909c3e549"
 metafile = true
 
 [[files]]
+file = "mods/spyglass-astronomy.pw.toml"
+hash = "251507b64cf4407a1ac9f9c460bfe2fd711742c1cc4aff751317c1d76bf5d8be"
+metafile = true
+
+[[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "563199dd7474844a71797be5114c798df3ded2d7bc0c9d384d9fd4aaa1b831b9"
 metafile = true
@@ -215,6 +230,11 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "cf9a5ab75ecff8efbb84f083bbc4cf8d5008398584924c53374bb314b5853bb7"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "7f7768f2047011ed61c9bbec29bbcd2d06c5eb8ab731d442b9ecc2c01bbc8c6b"
 metafile = true
 
 [[files]]
