@@ -1,13 +1,13 @@
 name = "Plushables Lite"
-filename = "plushables-1.1.10.jar"
+filename = "plushables-1.1.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/iWUzglQb/versions/Ctj1eyj4/plushables-1.1.10.jar"
+url = "https://cdn.modrinth.com/data/iWUzglQb/versions/YnYYgs0t/plushables-1.1.11.jar"
 hash-format = "sha1"
-hash = "4b96e390b31898f248691177f382d1f58fc013e7"
+hash = "39c76910df18833a129019c87518666326a61b14"
 
 [update]
 [update.modrinth]
 mod-id = "iWUzglQb"
-version = "Ctj1eyj4"
+version = "YnYYgs0t"

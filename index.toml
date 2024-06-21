@@ -6,7 +6,7 @@ hash = "44adc6e46c5c2eb346566b12564ccdb146127af1d8a279265c89810312688058"
 
 [[files]]
 file = "config/bcc.json"
-hash = "94c3ed3db0a2048fa8503cb7fc964fc911f54064b4743392cd30b448e7f50193"
+hash = "d1f520e4b87068f434b1fef4366aadcc92e309d72d4dfc63fc3bd39f7b2fc340"
 
 [[files]]
 file = "config/emi.css"
@@ -168,6 +168,11 @@ hash = "4c42a272bc98113243eaf48c03a00b31bfeb61ce377e0189e5839cfdc4e3d41e"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "019e6f258127d947cf0b43227c198365b107e35d4e16e29ee8388986aaf62d77"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "e2cc568688c5bcd0e41235681bc34c5c9849f214f65b43324bc25022d9ad8c80"
 metafile = true
@@ -199,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/plushables-lite.pw.toml"
-hash = "b897e0e8c24ed3adc14cad465517eea4fa154ce814a0578bbe2fe8b5a2e05db8"
+hash = "74084186a4ca4c53e73bf04e17cf4710e95a8494b58926390acf010eaaf80a94"
 metafile = true
 
 [[files]]
