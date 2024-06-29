@@ -6,7 +6,7 @@ hash = "44adc6e46c5c2eb346566b12564ccdb146127af1d8a279265c89810312688058"
 
 [[files]]
 file = "config/bcc.json"
-hash = "d1f520e4b87068f434b1fef4366aadcc92e309d72d4dfc63fc3bd39f7b2fc340"
+hash = "98fb1320f0bf500a661bfd46ad6a118df93d5d633f0db28207a57c022137c73e"
 
 [[files]]
 file = "config/emi.css"
@@ -53,6 +53,11 @@ hash = "b13c1c7c656a7e30da883c8357fed13e926e88f5bffc8215642994f3589c932b"
 metafile = true
 
 [[files]]
+file = "mods/auto-clicker.pw.toml"
+hash = "3779f2f4d12af34c9a3b1301a65a8912b5ed0ad0a93772a39d016476e6c3f480"
+metafile = true
+
+[[files]]
 file = "mods/basic-weapons.pw.toml"
 hash = "5d7dfb2e1e0fd64246e2f7f37933b8aa11ded7825f267eb5afc9f176365866b2"
 metafile = true
@@ -64,7 +69,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "3eac250a5bf00ba69b40c88c04e5522260d0cb83ccc0ef7fb0b495acb3651914"
+hash = "f1ba86e6c56ebd52a5186d290fc979da19cda56ebc4196ee3c3de446efed652c"
 metafile = true
 
 [[files]]
@@ -93,6 +98,11 @@ hash = "9a0135fbcfdc8f9efbed49fcb2e5641272ed218553cc37897eea94eb4fe47f1b"
 metafile = true
 
 [[files]]
+file = "mods/concentration.pw.toml"
+hash = "dffbd545fb750dcdc590e9568c9f2944a8b9cbeb2bd2e68baa0bf4246abf1d0e"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "da7d89a5ef4c67e74396b4a1decc94331260ec76c72723bcde45e048904cf0e2"
 metafile = true
@@ -109,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "aae3e2fad5bc3b2afacf3b1ada93c75a9317e156be6287e0c95d851bc5ef64d2"
+hash = "139f74715eceab5eb4073fd5dfd40233cef9e1abcb0dd3777368cefcd16db235"
 metafile = true
 
 [[files]]
@@ -119,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "363498eab749571f10e1f22528dc4e156a6df2cd1f80681c8bfa57cbf131dfc6"
+hash = "27ac8197dad6a1d489a153c86559915412b03e9101173694a5a22ad9a2b2ab43"
 metafile = true
 
 [[files]]
@@ -129,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e9870688b5c78a9cc50f79922fdac81e1999279f5567cd5092952adaf6471313"
+hash = "fc96b91acafcbaf76bf94d2dff7d53a53fdbf52ccc6030acbfffe13a365cc982"
 metafile = true
 
 [[files]]
@@ -184,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "9c603d7cea1e1b60317400b25490a93051f7e73204c337d815ac1dc53132a421"
+hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
 metafile = true
 
 [[files]]
@@ -199,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/ping-wheel.pw.toml"
-hash = "ccf59923d389b82accbce021e96be3ef134248ead3fdbf17d1b96e23c38a6d8e"
+hash = "781785be99ffe5813b699c6dd1ea1193f866cfe35930244ae57e3d6c163aace1"
 metafile = true
 
 [[files]]
@@ -219,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "7cb74081033769dbc3d65702e4ddcf83e4a8152f7e6122ea50d7e98909c3e549"
+hash = "280cf7ad4ec95bd95eef81a7f327095c5f40e1b8aa45cea91284bfd19395d69e"
 metafile = true
 
 [[files]]
@@ -234,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "cf9a5ab75ecff8efbb84f083bbc4cf8d5008398584924c53374bb314b5853bb7"
+hash = "39f24b5ecf6f946f218489dadf5f907df2ae87b4b844c003b3e3b423de8b1ca2"
 metafile = true
 
 [[files]]
