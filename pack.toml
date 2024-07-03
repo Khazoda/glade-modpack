@@ -1,12 +1,12 @@
 name = "Minecraft+"
 author = "Khazoda"
-version = "1.1.36"
+version = "1.1.37"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8195ddd2f8946fc049f4beb85ffeaf6effb665d6e2b216eeae16b5121fd674be"
+hash = "cfbb3e250cf5bb9623d7b65e4a7ca6f354049529e1d261ff59bf4b92bf3e23db"
 
 [versions]
 fabric = "0.15.11"
