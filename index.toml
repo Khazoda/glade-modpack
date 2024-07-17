@@ -6,7 +6,7 @@ hash = "44adc6e46c5c2eb346566b12564ccdb146127af1d8a279265c89810312688058"
 
 [[files]]
 file = "config/bcc.json"
-hash = "272e138b15e39383687b091215ac28d57b16c9d52b4c8d9d7bd0c9c321b1868d"
+hash = "b6365f7bb45a8b40ca4191f4dd4e836a4243f197b4afa138de36cb241f9e9bbf"
 
 [[files]]
 file = "config/emi.css"
@@ -58,13 +58,18 @@ hash = "3779f2f4d12af34c9a3b1301a65a8912b5ed0ad0a93772a39d016476e6c3f480"
 metafile = true
 
 [[files]]
+file = "mods/basic-storage.pw.toml"
+hash = "4037fefd1eb316cdebb925bb9b714c88700ac7bf2c3f8f8acf85f6efc26a84f7"
+metafile = true
+
+[[files]]
 file = "mods/basic-weapons.pw.toml"
 hash = "25a70a081cef1f8a626ba7ca4ea04bb79506b39f3ea832241a9f461e69cf173f"
 metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "b79b1b6e952c6297a4b4dca61641eb33e3785ad439036b8f3d460875bda02c9d"
+hash = "4678f60378eac59d8711df0a60bab208dab021cb8aa8cf1e52165ee370272a5a"
 metafile = true
 
 [[files]]
@@ -94,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "e9a3ef2e83f5dde6e4afd668291aa7557b81cefd9a2485d1213929f50741e223"
+hash = "cc2f24ca8d8e2a8a22568d3ba685c3d830c62e057b80d44a16c3a2e78f9ffd71"
 metafile = true
 
 [[files]]
@@ -134,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6cd2d021b71d8172819a6a793ea7a6276822da398c3c74a63b022991414024e5"
+hash = "9e796b52f72bd9eee7d716a5014d8214956ed3f7661d0f44af85c8a86775bbbf"
 metafile = true
 
 [[files]]
@@ -184,7 +189,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "6c4021c5cf9017223bbc5dc0c735087baf39aa67a2d2f86e22c64b999e9efe79"
+hash = "4ad2419ef6412acdcf012f7299d7f92496b67442be20c0a30a8474ec2fdd2043"
 metafile = true
 
 [[files]]
@@ -219,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "71164245f9e06a916689d4683bd15dec40effbb1a748e353318c243bbee4924e"
+hash = "5c69ebc94dea5c38f397990c14e0def4732c2fab19625f5e9a8e92a845d858a9"
 metafile = true
 
 [[files]]
@@ -239,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "0445f8d6e9e3d983b418a24a655e644f067e7fabcb2af9d4366e93675829c288"
+hash = "2252104afddb9f597d4e3daacc780506b3bb693a514ca24bba63527e45629f1b"
 metafile = true
 
 [[files]]
