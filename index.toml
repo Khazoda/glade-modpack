@@ -6,7 +6,7 @@ hash = "44adc6e46c5c2eb346566b12564ccdb146127af1d8a279265c89810312688058"
 
 [[files]]
 file = "config/bcc.json"
-hash = "b6365f7bb45a8b40ca4191f4dd4e836a4243f197b4afa138de36cb241f9e9bbf"
+hash = "ac34d98bda32ff8b740879f9a5291b92808400ecf773a078a23b60d1fe5b19ac"
 
 [[files]]
 file = "config/emi.css"
@@ -59,7 +59,7 @@ metafile = true
 
 [[files]]
 file = "mods/basic-storage.pw.toml"
-hash = "4037fefd1eb316cdebb925bb9b714c88700ac7bf2c3f8f8acf85f6efc26a84f7"
+hash = "763a5dec8ab115ee141b36c6402daf36adfd13e815f0b18a7d8c5d5b39b2d44e"
 metafile = true
 
 [[files]]
@@ -69,7 +69,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "4678f60378eac59d8711df0a60bab208dab021cb8aa8cf1e52165ee370272a5a"
+hash = "47be49059c937a43bec196619209c8253bc55d13928a88f4342eed0a1c76dd58"
 metafile = true
 
 [[files]]
@@ -83,6 +83,11 @@ hash = "7b59101fb942de13d24dff81786a51bfde86bb3791da36f644896b014a038b6a"
 metafile = true
 
 [[files]]
+file = "mods/cave-dust.pw.toml"
+hash = "73b49e93bdc437c2cd86133b5cfb0a04f80264f785ee660ce002bb24e14286c1"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "8383ab78f5fb08bb0793b6ec4b66807a456bab571aea63699e614a09601de22a"
 metafile = true
@@ -93,18 +98,23 @@ hash = "a6096b3cc740027d6e192e8def745117f95ef73041187135522aebf8da0ea11d"
 metafile = true
 
 [[files]]
+file = "mods/cicada.pw.toml"
+hash = "8c3342aeba36b5ff34c10f0ad6c13bbeb7ea4f040683aba80e83776697ceda0d"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "9a0135fbcfdc8f9efbed49fcb2e5641272ed218553cc37897eea94eb4fe47f1b"
 metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "cc2f24ca8d8e2a8a22568d3ba685c3d830c62e057b80d44a16c3a2e78f9ffd71"
+hash = "0cc365d0b8dc524a0b857c8bd162a478b1f52e5a307f18b32ef8c8091ad29259"
 metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "7494ae8e888e32baf72312266fdf53419c5f3b52908fde66dc0a160cdbed4e2c"
+hash = "11699829fc65c378c5bcccbea9375304ce6194aed18d2f02ee733ed44879efb4"
 metafile = true
 
 [[files]]
@@ -115,6 +125,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "b50942a1bec0085be9e0e8902f43623593c38e66dab0117c5a28cbe90dcd80dd"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "616c7ca64b9f4af3f5283eaae4cb0be10cff8059e8db9c4e7d7b4422474aa8b1"
 metafile = true
 
 [[files]]
@@ -214,7 +229,12 @@ metafile = true
 
 [[files]]
 file = "mods/plushables-lite.pw.toml"
-hash = "74084186a4ca4c53e73bf04e17cf4710e95a8494b58926390acf010eaaf80a94"
+hash = "2711fdcccb997173c9e166156a6aa301cab357c4789764a6680758eca567bb50"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "5bef9a443c12a13d5eeefa60bbb0a40ef99ab8a0675cd335a6cc2520dc5ba33b"
 metafile = true
 
 [[files]]
@@ -244,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "2252104afddb9f597d4e3daacc780506b3bb693a514ca24bba63527e45629f1b"
+hash = "9ce0d6322b997a5ab5dd2bd66f9491e0baf714b35f42d67adfecc75b9620af08"
 metafile = true
 
 [[files]]
@@ -253,8 +273,8 @@ hash = "7f7768f2047011ed61c9bbec29bbcd2d06c5eb8ab731d442b9ecc2c01bbc8c6b"
 metafile = true
 
 [[files]]
-file = "resourcepacks/JunePlus.zip"
-hash = "142d3c301ec9227d729826580bf719ccebcf1c0732629c76f5881a3aa61256a6"
+file = "resourcepacks/Minecraft+.zip"
+hash = "5f4e61e72bbfc94901997d611387884197e7fc952f028fbab8bf1cd4d1868083"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.2.1.zip"
