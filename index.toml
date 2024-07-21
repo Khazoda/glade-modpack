@@ -9,6 +9,10 @@ file = "config/bcc.json"
 hash = "ac34d98bda32ff8b740879f9a5291b92808400ecf773a078a23b60d1fe5b19ac"
 
 [[files]]
+file = "config/do_a_barrel_roll-client.json"
+hash = "4d732b6c080f74e93ab7311cfe1d07bb7982270d273f247a8b6bf410e44eec8b"
+
+[[files]]
 file = "config/emi.css"
 hash = "ae7d13db76f77e33e633ce940617ebb03694cfd6b23449a7f97d08d6f812d12b"
 
