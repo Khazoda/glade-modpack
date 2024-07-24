@@ -6,7 +6,7 @@ hash = "44adc6e46c5c2eb346566b12564ccdb146127af1d8a279265c89810312688058"
 
 [[files]]
 file = "config/bcc.json"
-hash = "ac34d98bda32ff8b740879f9a5291b92808400ecf773a078a23b60d1fe5b19ac"
+hash = "0ed4d5594523fe07bffb6de9626fa99385e3a8020e9952d3fc08d07b5aa98385"
 
 [[files]]
 file = "config/do_a_barrel_roll-client.json"
@@ -42,11 +42,6 @@ hash = "eb586237c139da61053ce14ea9a8d6cb3124e1731db22963ae79192b59b4c063"
 metafile = true
 
 [[files]]
-file = "mods/ambientsounds.pw.toml"
-hash = "0543bf0e7d7ac48e221c7e97b55ca7add1c8a1a4b9c5d487688782472fe287b9"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "420663a6a26a3d60ca7bd07f942ba7ab3379daaf26772181a040e2caf97ff6e7"
 metafile = true
@@ -58,7 +53,7 @@ metafile = true
 
 [[files]]
 file = "mods/auto-clicker.pw.toml"
-hash = "3779f2f4d12af34c9a3b1301a65a8912b5ed0ad0a93772a39d016476e6c3f480"
+hash = "c482ef3873a8ade424f83cc874c01ae861c5c299359980be1f9163ccc1aa6b33"
 metafile = true
 
 [[files]]
@@ -82,6 +77,11 @@ hash = "5e0adbaf5a22a684b1691eea9a8c4daa6b1eb2b5d821ac83c558ef015d15d51a"
 metafile = true
 
 [[files]]
+file = "mods/bounced.pw.toml"
+hash = "3aa2ba82183e123f463b8b7e44eae68cc08539227f8e948feab20fe7c3eb59bb"
+metafile = true
+
+[[files]]
 file = "mods/bronze.pw.toml"
 hash = "7b59101fb942de13d24dff81786a51bfde86bb3791da36f644896b014a038b6a"
 metafile = true
@@ -89,6 +89,16 @@ metafile = true
 [[files]]
 file = "mods/cave-dust.pw.toml"
 hash = "73b49e93bdc437c2cd86133b5cfb0a04f80264f785ee660ce002bb24e14286c1"
+metafile = true
+
+[[files]]
+file = "mods/charmonium.pw.toml"
+hash = "50d8c51d38f9afd4ca98c63bb180e02011dea680d1920b0788f9c948309d7199"
+metafile = true
+
+[[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "3992f39495d3c9beb3db62f43dd45f9b383471ff4c5e274bcce146090756e672"
 metafile = true
 
 [[files]]
@@ -108,7 +118,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "9a0135fbcfdc8f9efbed49fcb2e5641272ed218553cc37897eea94eb4fe47f1b"
+hash = "d345d14d9672063419184ece254b77a51386160916058bb24a4af7faabc88d99"
 metafile = true
 
 [[files]]
@@ -177,8 +187,8 @@ hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
 metafile = true
 
 [[files]]
-file = "mods/held-item-info.pw.toml"
-hash = "3d11f813bb93d0dada53443ea60291da449f7a35b5f4dfe9d8859f761d95fbba"
+file = "mods/idwtialsimmoedm.pw.toml"
+hash = "7b34833abe3bd45bf067a1493a7cc3944d57be2ec2ce9bccd507f97662b7ae97"
 metafile = true
 
 [[files]]
@@ -254,6 +264,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "280cf7ad4ec95bd95eef81a7f327095c5f40e1b8aa45cea91284bfd19395d69e"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "afc06fed4e996bf3ad5cf2e8248d1cfc6650d8cae19fc8c6745e41c085c8eb2d"
 metafile = true
 
 [[files]]
