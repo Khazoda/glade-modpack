@@ -1,0 +1,13 @@
+name = "Beef & Blade"
+filename = "beef-and-blade.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/p4NMyYrD/versions/kUU0gYDy/beef-and-blade.jar"
+hash-format = "sha1"
+hash = "8e23d2e85a71c229da1fa305dbd4eb3dff6a68f1"
+
+[update]
+[update.modrinth]
+mod-id = "p4NMyYrD"
+version = "kUU0gYDy"

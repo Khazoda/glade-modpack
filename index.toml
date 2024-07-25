@@ -67,6 +67,11 @@ hash = "25a70a081cef1f8a626ba7ca4ea04bb79506b39f3ea832241a9f461e69cf173f"
 metafile = true
 
 [[files]]
+file = "mods/beef-and-blade.pw.toml"
+hash = "cd4447a3d638e4a3b538d0815fb1c6fb7d1c717119222f1ae401cc73d6ded95d"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "47be49059c937a43bec196619209c8253bc55d13928a88f4342eed0a1c76dd58"
 metafile = true
