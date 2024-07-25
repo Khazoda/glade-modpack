@@ -6,7 +6,7 @@ hash = "44adc6e46c5c2eb346566b12564ccdb146127af1d8a279265c89810312688058"
 
 [[files]]
 file = "config/bcc.json"
-hash = "0ed4d5594523fe07bffb6de9626fa99385e3a8020e9952d3fc08d07b5aa98385"
+hash = "4c16820cab864137cc10d961bc52254fc7b095b36d3d28126eb0f16c546dc47b"
 
 [[files]]
 file = "config/do_a_barrel_roll-client.json"
