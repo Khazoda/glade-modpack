@@ -6,11 +6,7 @@ hash = "44adc6e46c5c2eb346566b12564ccdb146127af1d8a279265c89810312688058"
 
 [[files]]
 file = "config/bcc.json"
-hash = "4c16820cab864137cc10d961bc52254fc7b095b36d3d28126eb0f16c546dc47b"
-
-[[files]]
-file = "config/do_a_barrel_roll-client.json"
-hash = "4d732b6c080f74e93ab7311cfe1d07bb7982270d273f247a8b6bf410e44eec8b"
+hash = "6b441ada35f704310396202bf663272e728aafbc7fb5c3d12f34bf365915fec2"
 
 [[files]]
 file = "config/emi.css"
@@ -43,7 +39,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "420663a6a26a3d60ca7bd07f942ba7ab3379daaf26772181a040e2caf97ff6e7"
+hash = "af482cdaf7c5d9d5481e7cd789d98ebc17f47e4565a28af6c6365aef896d1404"
 metafile = true
 
 [[files]]
@@ -72,6 +68,11 @@ hash = "cd4447a3d638e4a3b538d0815fb1c6fb7d1c717119222f1ae401cc73d6ded95d"
 metafile = true
 
 [[files]]
+file = "mods/better-beds.pw.toml"
+hash = "15c2128399c6f09974ca5af95281e1139744a1dfac9f96d0d9ee1002579676cc"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "47be49059c937a43bec196619209c8253bc55d13928a88f4342eed0a1c76dd58"
 metafile = true
@@ -88,12 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/bronze.pw.toml"
-hash = "7b59101fb942de13d24dff81786a51bfde86bb3791da36f644896b014a038b6a"
-metafile = true
-
-[[files]]
-file = "mods/cave-dust.pw.toml"
-hash = "73b49e93bdc437c2cd86133b5cfb0a04f80264f785ee660ce002bb24e14286c1"
+hash = "32cecd8843b86f32435e11cef364748f84e1769221d377c039b9675283dc7761"
 metafile = true
 
 [[files]]
@@ -128,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "0cc365d0b8dc524a0b857c8bd162a478b1f52e5a307f18b32ef8c8091ad29259"
+hash = "49f9898e97206a5407ca32e7fee73cf7bd901e0c4406da8bb4adbc31525f1397"
 metafile = true
 
 [[files]]
@@ -144,11 +140,6 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "b50942a1bec0085be9e0e8902f43623593c38e66dab0117c5a28cbe90dcd80dd"
-metafile = true
-
-[[files]]
-file = "mods/do-a-barrel-roll.pw.toml"
-hash = "616c7ca64b9f4af3f5283eaae4cb0be10cff8059e8db9c4e7d7b4422474aa8b1"
 metafile = true
 
 [[files]]
@@ -173,17 +164,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9e796b52f72bd9eee7d716a5014d8214956ed3f7661d0f44af85c8a86775bbbf"
+hash = "9eb8a17e98af61f820864ce9fbe246cee75a3b86f51df8a9b92644829ea2faf8"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
-metafile = true
-
-[[files]]
-file = "mods/fallingleaves.pw.toml"
-hash = "860538dace2029fb4539bfc33182f560ab7ef66fcbb3427c0dd262405229a8fe"
+hash = "a909422ca28880c8aa967a66ca3b89fba223a9cfc662d98592c234d22361cf33"
 metafile = true
 
 [[files]]
@@ -192,23 +178,23 @@ hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
 metafile = true
 
 [[files]]
+file = "mods/highlight.pw.toml"
+hash = "547225155c3cabf5c8d170e13f8873f95ef9705478a5acd0de1d77126ccf5cc7"
+metafile = true
+
+[[files]]
 file = "mods/idwtialsimmoedm.pw.toml"
 hash = "7b34833abe3bd45bf067a1493a7cc3944d57be2ec2ce9bccd507f97662b7ae97"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "664b83356f5ca10ab286db442854032fa4f9d912d54b5f63452468a380335e8e"
+file = "mods/inventorytweak.pw.toml"
+hash = "0868e5d71941369dd759d8ba5229eecbb48e682dc67dd5e56f387f8949765646"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "315648c1b6910b274d4a16bda8eba7ddf380d928edb20c0c36f3ff9776e30fe5"
-metafile = true
-
-[[files]]
-file = "mods/libipn.pw.toml"
-hash = "4ba4a6bfb2a8a35f378cfff1ea81a46d08ee1c3ab344be34cb792aa0e5418ed2"
 metafile = true
 
 [[files]]
@@ -223,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "4ad2419ef6412acdcf012f7299d7f92496b67442be20c0a30a8474ec2fdd2043"
+hash = "ca5ec031a590d0ad2e4feaf61853ce2ed0f0a78f8b7a8627cf183250f0e63d88"
 metafile = true
 
 [[files]]
@@ -237,8 +223,18 @@ hash = "100a5dfaccb55b107edc57e11fafc1222dc443ce9b669f0d79a39b488e3e45ae"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "349f5aa9192539c3ce0d2c962ae05a2b4d75a75635c5e28c3f718fda72c79b71"
+metafile = true
+
+[[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "47f673ce50dc6fdfd8e40f47035b9454b1130298f77dec65c14908fa4955213b"
+metafile = true
+
+[[files]]
+file = "mods/particular.pw.toml"
+hash = "d878e8159739d1ea9a40185d4ace5c0185343f53310e354c2c0afb4b19d2e563"
 metafile = true
 
 [[files]]
@@ -274,11 +270,6 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "afc06fed4e996bf3ad5cf2e8248d1cfc6650d8cae19fc8c6745e41c085c8eb2d"
-metafile = true
-
-[[files]]
-file = "mods/spyglass-astronomy.pw.toml"
-hash = "251507b64cf4407a1ac9f9c460bfe2fd711742c1cc4aff751317c1d76bf5d8be"
 metafile = true
 
 [[files]]
