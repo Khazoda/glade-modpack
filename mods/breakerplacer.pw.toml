@@ -1,0 +1,13 @@
+name = "Block Breaker & Block Placer"
+filename = "breakerplacer-1.0.0+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DqAjYL65/versions/RIyOeD2P/breakerplacer-1.0.0%2B1.21.jar"
+hash-format = "sha1"
+hash = "bc3d9b09925d0157d723ce88ac7bf6af881309cd"
+
+[update]
+[update.modrinth]
+mod-id = "DqAjYL65"
+version = "RIyOeD2P"
