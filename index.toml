@@ -6,7 +6,7 @@ hash = "44adc6e46c5c2eb346566b12564ccdb146127af1d8a279265c89810312688058"
 
 [[files]]
 file = "config/bcc.json"
-hash = "8884968c619bf32746c5c016818ed08f17359c2aa03199f55bb060bf74685c7d"
+hash = "6a1871cb6b78ef2ee2982670cafb7376c9dccc96f26ae717e1ea993142481180"
 
 [[files]]
 file = "config/emi.css"
@@ -49,7 +49,7 @@ metafile = true
 
 [[files]]
 file = "mods/auto-clicker.pw.toml"
-hash = "c482ef3873a8ade424f83cc874c01ae861c5c299359980be1f9163ccc1aa6b33"
+hash = "4c54284e5070fa0de2e0d606c719e0db918d7553a7e2ebf94c495e6cee567768"
 metafile = true
 
 [[files]]
@@ -59,7 +59,7 @@ metafile = true
 
 [[files]]
 file = "mods/basic-weapons.pw.toml"
-hash = "25a70a081cef1f8a626ba7ca4ea04bb79506b39f3ea832241a9f461e69cf173f"
+hash = "b37e252f655be430830e1e1fba44f008e4056f10a121080381426000302c32be"
 metafile = true
 
 [[files]]
@@ -149,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "1c1a5fe3812cbc3c9a558eaa402ed00ce01ac4fe21ef1c28dea4a4f996b19794"
+hash = "0aa8e719a05e23fe541f07fa9a528e72dd968477c96575fa75c4ad1c745fc133"
 metafile = true
 
 [[files]]
@@ -204,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "019e6f258127d947cf0b43227c198365b107e35d4e16e29ee8388986aaf62d77"
+hash = "f004eac1859218b35a865698a68000b21806709f02b54b2a2ef55ff04a793328"
 metafile = true
 
 [[files]]
