@@ -1,0 +1,13 @@
+name = "Better Flame Particles"
+filename = "better_flame_particles-v2.1-mc1.14x-1.21x-resourcepack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ivUZsvzp/versions/2LIpeoIm/better_flame_particles-v2.1-mc1.14x-1.21x-resourcepack.zip"
+hash-format = "sha1"
+hash = "300758949265c99a75234beff780e36740f0ed18"
+
+[update]
+[update.modrinth]
+mod-id = "ivUZsvzp"
+version = "2LIpeoIm"

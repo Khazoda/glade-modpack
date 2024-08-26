@@ -1,0 +1,13 @@
+name = "Os' Crops"
+filename = "Os' Crops.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GQ4u7e6b/versions/sagdBQTk/Os%27%20Crops.zip"
+hash-format = "sha1"
+hash = "5125faefcdf9778871cb496c7fee6ae69bd76ca8"
+
+[update]
+[update.modrinth]
+mod-id = "GQ4u7e6b"
+version = "sagdBQTk"

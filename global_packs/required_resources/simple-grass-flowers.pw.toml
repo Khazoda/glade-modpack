@@ -1,0 +1,13 @@
+name = "Simple Grass Flowers"
+filename = "Simple Grass Flowers v1.8.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ti9KkMHm/versions/1B3LlZMy/Simple%20Grass%20Flowers%20v1.8.1.zip"
+hash-format = "sha1"
+hash = "f31799345c9fc4d11a0ad2165e3951c298a85bac"
+
+[update]
+[update.modrinth]
+mod-id = "ti9KkMHm"
+version = "1B3LlZMy"

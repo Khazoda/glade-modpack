@@ -6,7 +6,7 @@ hash = "44adc6e46c5c2eb346566b12564ccdb146127af1d8a279265c89810312688058"
 
 [[files]]
 file = "config/bcc.json"
-hash = "6a1871cb6b78ef2ee2982670cafb7376c9dccc96f26ae717e1ea993142481180"
+hash = "6a517d62081667105e47125a6c96c0c7e694eb3dda1167615bea99f70c55f1fb"
 
 [[files]]
 file = "config/emi.css"
@@ -33,6 +33,120 @@ file = "desktop.ini"
 hash = "c83fc09097d1e20406376b3313bc156aa7855890a8400ee520fe3833504d8b4b"
 
 [[files]]
+file = "global_packs/required_resources/June's Tweaks.zip"
+hash = "da189ed6f48e6759aa287b3db8172e0fa74db545dfa382472060eddb8130fd50"
+
+[[files]]
+file = "global_packs/required_resources/angels-weather.pw.toml"
+hash = "f3bdfbe2b3fc1ea7626e2d4e38776fb60bf160235b3b85317bff11226ba7b4ec"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/banner-pattern-clarity.pw.toml"
+hash = "6f18f324a44c97564dcf68b66c774c3ea8bc37c73bef4098162e5deb1e1bb3ab"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/better-carpets.pw.toml"
+hash = "dd8ffbccc832d5d27b6a5fac3b20d5dc58b5aa8926bb593e148ca9e137a0a5e3"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/better-flame-particles.pw.toml"
+hash = "ad3a430f1731a95706e296149cc54da96b92dbbe4dcbd341b360120e4a4d2ebc"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/clean-connected-glass.pw.toml"
+hash = "b177ae0b3f77dac2c96a0468ff44af16f58ac7b056a96e55908c834865b06d6e"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/detail-brush.pw.toml"
+hash = "bb9a83ef6abb19b50328f22c94381c72a5cba89e3fd99c2a3a40770597e198ba"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/different-textures-for-enchanted-books.pw.toml"
+hash = "249995c5927dbb92174e9713f987345ca1443f2954e170295207f597aa5c6783"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/fresh-animations.pw.toml"
+hash = "256b67c869770482657d4dd31124bf705c780c5c798206af522bcd5392c7ded9"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/give-him-a-nose!.pw.toml"
+hash = "b859c14fa1f99f8a2257060e30f12d6e4060dff302b9919469d0a2f386249dc0"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/in-game-brewing-guide.pw.toml"
+hash = "0b2aba5117c6419d52b077d848bd7b8572d07d54c1e3d5ceb9fa7f03ec410da7"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/mrblueyetis-better-cats.pw.toml"
+hash = "b2def61ef7639640d02d0195b2f7b4e7b13a4a8a727d18f3f259d5254887050d"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/new-hearts.pw.toml"
+hash = "8c17069246172dff80d189bd25f76c1c3ff202964bcc569c0f69b5f82001e277"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/os-colorful-cobblestone.pw.toml"
+hash = "f10eaac17b45ddb46b7ed9c3aaef203519c11ee8cac8cd39d2a924c4f81d56db"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/os-colorful-grasses.pw.toml"
+hash = "4cc6aa7d7a4947f8869691aec501a64e1ccd135320bae0b74207d18808ecf475"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/os-crops.pw.toml"
+hash = "f4d487c5227225b523e8809cff548f91ba195386050c87a826f1a7cef6405bc8"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/os-shulkers.pw.toml"
+hash = "fa74d9a629d8cd6193babed922bfd7faf11b65cbfb66469c6c26d9f85afd43da"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/rays-3d-ladders.pw.toml"
+hash = "8c6eb9046061dc85362b9cc9dbc33f17288a3577137c537091a42b0d99bef7d2"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/rays-3d-rails.pw.toml"
+hash = "417603d473b71bb2361e10e56b793ee07c052239a5e5ac42518cda36b6793f66"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/remodeled-cactus.pw.toml"
+hash = "79c82fc169a575c93972294d41ad9a195a13c6b00a2ad173f112f3c81dc95e71"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/simple-grass-flowers.pw.toml"
+hash = "520a1595b142a2b605f520db3953b8ff0094ff9a2988aae7bec9a2cb1bd943d5"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/xalis-enhanced-jungle-wood.pw.toml"
+hash = "60d3d7bfda1200d93ffc8cef6a16ef21c224537c946b5ca25d7a94ae77d416ca"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/xalis-potion.pw.toml"
+hash = "caa9d2feb7486744c97a51da732b6714dd97fe6e09f91b92c0c99ee1ca0ab8f1"
+metafile = true
+
+[[files]]
 file = "mods/ambient-environment.pw.toml"
 hash = "eb586237c139da61053ce14ea9a8d6cb3124e1731db22963ae79192b59b4c063"
 metafile = true
@@ -54,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/basic-storage.pw.toml"
-hash = "763a5dec8ab115ee141b36c6402daf36adfd13e815f0b18a7d8c5d5b39b2d44e"
+hash = "fd4e2ad186aa99ef3078ec0f1d4859cc710b4e385bb756a542bb55252c2bad08"
 metafile = true
 
 [[files]]
@@ -73,13 +187,18 @@ hash = "15c2128399c6f09974ca5af95281e1139744a1dfac9f96d0d9ee1002579676cc"
 metafile = true
 
 [[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "423e142f9a7285f75af63580dfd4f1e9421a22e9ec0e77f1404e4a62396f3f1e"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
-hash = "34f954f451e5c33c7b5db0966770694dad3b5ccacae30f2ef4dee624f95e12b5"
+hash = "941bf61ed32600eefffb76356799bbb7cd1a3d1775a6f478cb69657fc8bcccc5"
 metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "5e0adbaf5a22a684b1691eea9a8c4daa6b1eb2b5d821ac83c558ef015d15d51a"
+hash = "c455d55e736f90f6a09701594dee2342e91c77b7f230f0ff73090d7ead339629"
 metafile = true
 
 [[files]]
@@ -89,12 +208,12 @@ metafile = true
 
 [[files]]
 file = "mods/breakerplacer.pw.toml"
-hash = "e9f214c78338abd0d9629ba425cd9d5e1d8219b069647f2999f62aecf3a93ba1"
+hash = "5339e3181f6adc44ba98a60fa294e0a8ef5fe7990873355fa0a6a588a0dbe552"
 metafile = true
 
 [[files]]
 file = "mods/bronze.pw.toml"
-hash = "32cecd8843b86f32435e11cef364748f84e1769221d377c039b9675283dc7761"
+hash = "0b3532bf65e1a3524b9976cc830483e4e184ffa8ba8cd75011fd7c03ab03f117"
 metafile = true
 
 [[files]]
@@ -124,7 +243,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "d345d14d9672063419184ece254b77a51386160916058bb24a4af7faabc88d99"
+hash = "98f5b3f3a7f8955be1888cafff86619bbb1fa66fe23a5b280878040e30cb7e77"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "0f24f7bd2057b70b6816de4e66922b64f8b6635dc603e40cc45d62646dc7221d"
 metafile = true
 
 [[files]]
@@ -154,12 +278,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "86e971b1f82d63c791f7e7574c0ebfc9d1e4b6a23085257599ded29ed365ce6c"
+hash = "e8cf1bd4eb13233ca3d3bcef35a78976552c89b52d56ece96c5179b1c0188473"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "b2af1699d567294bf20e80fd62069f65aca68746a78655984d30332b65ebd5a4"
+hash = "479dc1be7b22163d5a4f13c3c156204bce08d2a5310412e8d8f237486d92ae94"
 metafile = true
 
 [[files]]
@@ -174,12 +298,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "a909422ca28880c8aa967a66ca3b89fba223a9cfc662d98592c234d22361cf33"
+hash = "508af0c05e63443f8179d0b5a34731735fc215872318b23e26df4487d260a36b"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "c56923340ce6f01a1d26636a15396bf55d83bb8ce68a0ccce515f577bdd322fd"
 metafile = true
 
 [[files]]
@@ -189,7 +318,7 @@ metafile = true
 
 [[files]]
 file = "mods/idwtialsimmoedm.pw.toml"
-hash = "7b34833abe3bd45bf067a1493a7cc3944d57be2ec2ce9bccd507f97662b7ae97"
+hash = "054fd2d2207de8c852624d9f8c4fb3074784e2c2b5b6ef7fc7746c708c6aa84d"
 metafile = true
 
 [[files]]
@@ -199,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "315648c1b6910b274d4a16bda8eba7ddf380d928edb20c0c36f3ff9776e30fe5"
+hash = "89e7dde92d47d33e4430422f77a85ebd54cc5d8a1391758460ab4c6d00f01340"
 metafile = true
 
 [[files]]
@@ -219,7 +348,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
+hash = "2b8ce9ab97a35059a79d59d540687385d25956c519ce1728fbcfb13fae93a328"
 metafile = true
 
 [[files]]
@@ -244,7 +373,7 @@ metafile = true
 
 [[files]]
 file = "mods/ping-wheel.pw.toml"
-hash = "781785be99ffe5813b699c6dd1ea1193f866cfe35930244ae57e3d6c163aace1"
+hash = "5eff3daf1a6418d8e303fc4be4cbe59d7c13ad3bd8b891c19f0b0fbed9dc5d66"
 metafile = true
 
 [[files]]
@@ -259,17 +388,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "28f2167da063c1be7b1f4e534cdcbb446daa569cc32ffe1c0705663a9a06a5b9"
-metafile = true
-
-[[files]]
-file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "5c69ebc94dea5c38f397990c14e0def4732c2fab19625f5e9a8e92a845d858a9"
+hash = "a31b71f410616ddc3e99c70744e35d0640eb94ff081af70d1054689f34c2b4b6"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "280cf7ad4ec95bd95eef81a7f327095c5f40e1b8aa45cea91284bfd19395d69e"
+hash = "d24ad43869dfe068c041cc7da0a7ed5926f742d1676eb765ad66515e1e9568a6"
 metafile = true
 
 [[files]]
@@ -291,10 +415,6 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "7f7768f2047011ed61c9bbec29bbcd2d06c5eb8ab731d442b9ecc2c01bbc8c6b"
 metafile = true
-
-[[files]]
-file = "resourcepacks/Minecraft+.zip"
-hash = "5f4e61e72bbfc94901997d611387884197e7fc952f028fbab8bf1cd4d1868083"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.2.1.zip"

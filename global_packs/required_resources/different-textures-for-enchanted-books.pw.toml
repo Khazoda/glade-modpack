@@ -1,0 +1,13 @@
+name = "Enchanted Books from Mars"
+filename = "EnchantedBooks1.13-1.21.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pVMDJdGo/versions/1iziyBnk/EnchantedBooks1.13-1.21.1.zip"
+hash-format = "sha1"
+hash = "f63f2c73bac83ea251d0f8835c279ad4ae6d7e93"
+
+[update]
+[update.modrinth]
+mod-id = "pVMDJdGo"
+version = "1iziyBnk"
