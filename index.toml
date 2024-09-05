@@ -6,7 +6,7 @@ hash = "44adc6e46c5c2eb346566b12564ccdb146127af1d8a279265c89810312688058"
 
 [[files]]
 file = "config/bcc.json"
-hash = "07ce400374c693e67fcc305cb0a9860e8f8c8dd15a6c67b25182983837f2c8ca"
+hash = "932d14c7a1ecbcd7d11048ec94f098c7b175866368f35ebaea0de5199ae89ebb"
 
 [[files]]
 file = "config/emi.css"
@@ -47,11 +47,6 @@ hash = "6f18f324a44c97564dcf68b66c774c3ea8bc37c73bef4098162e5deb1e1bb3ab"
 metafile = true
 
 [[files]]
-file = "global_packs/required_resources/better-carpets.pw.toml"
-hash = "dd8ffbccc832d5d27b6a5fac3b20d5dc58b5aa8926bb593e148ca9e137a0a5e3"
-metafile = true
-
-[[files]]
 file = "global_packs/required_resources/better-flame-particles.pw.toml"
 hash = "ad3a430f1731a95706e296149cc54da96b92dbbe4dcbd341b360120e4a4d2ebc"
 metafile = true
@@ -67,8 +62,8 @@ hash = "bb9a83ef6abb19b50328f22c94381c72a5cba89e3fd99c2a3a40770597e198ba"
 metafile = true
 
 [[files]]
-file = "global_packs/required_resources/different-textures-for-enchanted-books.pw.toml"
-hash = "249995c5927dbb92174e9713f987345ca1443f2954e170295207f597aa5c6783"
+file = "global_packs/required_resources/fancy-beds.pw.toml"
+hash = "ff174c360b1a465869f87fd8bee51ab2b3d101a6077379d09b233ffd6949e5ff"
 metafile = true
 
 [[files]]
@@ -117,6 +112,11 @@ hash = "4946ef174ffb93890e2b10c8b8ef7ef15542c22e4ea12f701046935d19d6baf3"
 metafile = true
 
 [[files]]
+file = "global_packs/required_resources/overgrown-moss-carpet.pw.toml"
+hash = "681459e53e122f4eccffdf5e4e111263b632265ee6fa027a83796abc8f37268e"
+metafile = true
+
+[[files]]
 file = "global_packs/required_resources/rays-3d-ladders.pw.toml"
 hash = "8c6eb9046061dc85362b9cc9dbc33f17288a3577137c537091a42b0d99bef7d2"
 metafile = true
@@ -134,6 +134,11 @@ metafile = true
 [[files]]
 file = "global_packs/required_resources/simple-grass-flowers.pw.toml"
 hash = "520a1595b142a2b605f520db3953b8ff0094ff9a2988aae7bec9a2cb1bd943d5"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/xalis-enchanted-books.pw.toml"
+hash = "13c945a8aaa1993ffba820f02e2bd5a69655b69bba1ad043d0ae4b21fa9dc789"
 metafile = true
 
 [[files]]

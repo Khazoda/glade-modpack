@@ -1,0 +1,13 @@
+name = "xali's Enchanted Books"
+filename = "xali's enchanted books v0.13.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZpBKASR2/versions/b0JG3qEi/xali%27s%20enchanted%20books%20v0.13.0.zip"
+hash-format = "sha1"
+hash = "1f17ef99af271720eca016afcb32bedce919db79"
+
+[update]
+[update.modrinth]
+mod-id = "ZpBKASR2"
+version = "b0JG3qEi"
