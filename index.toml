@@ -6,7 +6,7 @@ hash = "44adc6e46c5c2eb346566b12564ccdb146127af1d8a279265c89810312688058"
 
 [[files]]
 file = "config/bcc.json"
-hash = "6a517d62081667105e47125a6c96c0c7e694eb3dda1167615bea99f70c55f1fb"
+hash = "07ce400374c693e67fcc305cb0a9860e8f8c8dd15a6c67b25182983837f2c8ca"
 
 [[files]]
 file = "config/emi.css"
@@ -98,22 +98,22 @@ metafile = true
 
 [[files]]
 file = "global_packs/required_resources/os-colorful-cobblestone.pw.toml"
-hash = "f10eaac17b45ddb46b7ed9c3aaef203519c11ee8cac8cd39d2a924c4f81d56db"
+hash = "f7c12cb54d087b9110c73cfd97aa61edbbc5ef88026452a39dabbb07134cc35c"
 metafile = true
 
 [[files]]
 file = "global_packs/required_resources/os-colorful-grasses.pw.toml"
-hash = "4cc6aa7d7a4947f8869691aec501a64e1ccd135320bae0b74207d18808ecf475"
+hash = "611b4de30b3221948c56c4ab4b3fb37eab919f4ab4e73d0de24b00ea9d3aaaad"
 metafile = true
 
 [[files]]
 file = "global_packs/required_resources/os-crops.pw.toml"
-hash = "f4d487c5227225b523e8809cff548f91ba195386050c87a826f1a7cef6405bc8"
+hash = "5fbae5254d23435c0baec72d3556b030483072a9485375b714e1d250ca6e4cd4"
 metafile = true
 
 [[files]]
 file = "global_packs/required_resources/os-shulkers.pw.toml"
-hash = "fa74d9a629d8cd6193babed922bfd7faf11b65cbfb66469c6c26d9f85afd43da"
+hash = "4946ef174ffb93890e2b10c8b8ef7ef15542c22e4ea12f701046935d19d6baf3"
 metafile = true
 
 [[files]]
@@ -188,7 +188,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "423e142f9a7285f75af63580dfd4f1e9421a22e9ec0e77f1404e4a62396f3f1e"
+hash = "7d21cea212897ec7b1ec5b0953447273cdebab880ea85236790ef1d0e4351859"
 metafile = true
 
 [[files]]
@@ -247,13 +247,18 @@ hash = "98f5b3f3a7f8955be1888cafff86619bbb1fa66fe23a5b280878040e30cb7e77"
 metafile = true
 
 [[files]]
+file = "mods/constant-music.pw.toml"
+hash = "9ede6b66e4f48892399b23e2bff581fcff8d33ad4e858b575c1c9509de3eada8"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "0f24f7bd2057b70b6816de4e66922b64f8b6635dc603e40cc45d62646dc7221d"
 metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "49f9898e97206a5407ca32e7fee73cf7bd901e0c4406da8bb4adbc31525f1397"
+hash = "c03d77f40b53a229112df4cd4a83468ea6eee119549c79accfadb508cf9fb989"
 metafile = true
 
 [[files]]
@@ -278,12 +283,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "e8cf1bd4eb13233ca3d3bcef35a78976552c89b52d56ece96c5179b1c0188473"
+hash = "f88aeaff5ce3bac5c5135551a4a5f7a30d07b3b9ecf02e4289968c7e80fa2844"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "479dc1be7b22163d5a4f13c3c156204bce08d2a5310412e8d8f237486d92ae94"
+hash = "9855e0fe709e658c204741cb02b9b157ec874fc6f2645888c05e65e2911a495a"
 metafile = true
 
 [[files]]
@@ -319,6 +324,11 @@ metafile = true
 [[files]]
 file = "mods/idwtialsimmoedm.pw.toml"
 hash = "054fd2d2207de8c852624d9f8c4fb3074784e2c2b5b6ef7fc7746c708c6aa84d"
+metafile = true
+
+[[files]]
+file = "mods/immersivethunder.pw.toml"
+hash = "9de7f5ad5ff476a24de9c7932cafc4e0566a33d9e35489e2ed0b0d5774f1424f"
 metafile = true
 
 [[files]]
@@ -358,12 +368,12 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "349f5aa9192539c3ce0d2c962ae05a2b4d75a75635c5e28c3f718fda72c79b71"
+hash = "dc3aff994dec568716795ca2389336affaada5495e574c8193beee1555a77110"
 metafile = true
 
 [[files]]
 file = "mods/paginatedadvancements.pw.toml"
-hash = "47f673ce50dc6fdfd8e40f47035b9454b1130298f77dec65c14908fa4955213b"
+hash = "695ddf149004a3755dbd34c655e96407d52b6e74c8fce70bdd19d2207fd63a71"
 metafile = true
 
 [[files]]

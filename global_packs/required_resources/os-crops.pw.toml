@@ -3,11 +3,11 @@ filename = "Os' Crops.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/GQ4u7e6b/versions/sagdBQTk/Os%27%20Crops.zip"
+url = "https://cdn.modrinth.com/data/GQ4u7e6b/versions/ttcCYX3F/Os%27%20Crops.zip"
 hash-format = "sha1"
-hash = "5125faefcdf9778871cb496c7fee6ae69bd76ca8"
+hash = "4b1b7ef1dd01dafe327881bf4f9acfe2bec879d9"
 
 [update]
 [update.modrinth]
 mod-id = "GQ4u7e6b"
-version = "sagdBQTk"
+version = "ttcCYX3F"

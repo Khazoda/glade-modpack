@@ -1,13 +1,13 @@
 name = "Os' Colorful Grasses"
-filename = "Os' Colorful Grasses (Short+FluffierFerns).zip"
+filename = "Os' Colorful Grasses (Short+Fluffy).zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/O2zhH8n8/versions/m6hkEorp/Os%27%20Colorful%20Grasses%20%28Short%2BFluffierFerns%29.zip"
+url = "https://cdn.modrinth.com/data/O2zhH8n8/versions/MYaAYMyt/Os%27%20Colorful%20Grasses%20%28Short%2BFluffy%29.zip"
 hash-format = "sha1"
-hash = "fb3313fd680b2c8c40527c6f17b3afb8c38d457b"
+hash = "71a050ab3002e2b1bb4a9c57ac611416acbe0b07"
 
 [update]
 [update.modrinth]
 mod-id = "O2zhH8n8"
-version = "m6hkEorp"
+version = "MYaAYMyt"

@@ -3,11 +3,11 @@ filename = "Os' Shulkers.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/BBuGmjH2/versions/lbNkRJFN/Os%27%20Shulkers.zip"
+url = "https://cdn.modrinth.com/data/BBuGmjH2/versions/dHEtYK3r/Os%27%20Shulkers.zip"
 hash-format = "sha1"
-hash = "6e20fcfd04332b0bb588ecbdb812f4ec97c5ba22"
+hash = "a084b21ecbbb3aec5095868253edf47d2625a644"
 
 [update]
 [update.modrinth]
 mod-id = "BBuGmjH2"
-version = "lbNkRJFN"
+version = "dHEtYK3r"

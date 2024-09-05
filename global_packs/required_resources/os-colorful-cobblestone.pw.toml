@@ -3,11 +3,11 @@ filename = "Os' Colorful Cobblestone.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/XMDBYkw7/versions/u9sVlKEo/Os%27%20Colorful%20Cobblestone.zip"
+url = "https://cdn.modrinth.com/data/XMDBYkw7/versions/8bWLXLnz/Os%27%20Colorful%20Cobblestone.zip"
 hash-format = "sha1"
-hash = "df14c34309a85fd9a537f99cdf1559ceecc76bef"
+hash = "56d55e38a9136fc11fae99d54013f8507ad2f306"
 
 [update]
 [update.modrinth]
 mod-id = "XMDBYkw7"
-version = "u9sVlKEo"
+version = "8bWLXLnz"

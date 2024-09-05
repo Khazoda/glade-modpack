@@ -1,0 +1,13 @@
+name = "Constant Music"
+filename = "constantmusic-fabric-1.21-1.0.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tvuSEM6E/versions/xv1dscGO/constantmusic-fabric-1.21-1.0.4.jar"
+hash-format = "sha1"
+hash = "fb403ab77b6163b59cf61cd3a74a98c193ce93a8"
+
+[update]
+[update.modrinth]
+mod-id = "tvuSEM6E"
+version = "xv1dscGO"
