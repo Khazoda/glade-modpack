@@ -1,13 +1,13 @@
 name = "InventoryTweak"
-filename = "InventoryTweaks-2.5.jar"
+filename = "InventoryTweaks-3.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/jGVzcXaf/versions/mMkbb9Z3/InventoryTweaks-2.5.jar"
+url = "https://cdn.modrinth.com/data/jGVzcXaf/versions/x4Q4rxsO/InventoryTweaks-3.0.jar"
 hash-format = "sha1"
-hash = "e223c7bf27e262cd20d8c3d29f642e28e9e4782c"
+hash = "f87d818ae10b535e89c6d31f7a09dd445b3a2e38"
 
 [update]
 [update.modrinth]
 mod-id = "jGVzcXaf"
-version = "mMkbb9Z3"
+version = "x4Q4rxsO"

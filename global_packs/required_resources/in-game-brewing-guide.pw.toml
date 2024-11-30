@@ -1,13 +1,13 @@
 name = "In-Game Brewing Guide"
-filename = "Brewing Guide 1.20.zip"
+filename = "Brewing Guide 1.20.1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Rspf9Ia2/versions/MYFQufMm/Brewing%20Guide%201.20.zip"
+url = "https://cdn.modrinth.com/data/Rspf9Ia2/versions/kuRW0Jy4/Brewing%20Guide%201.20.1.zip"
 hash-format = "sha1"
-hash = "0e8b0f02eb14c3f7560bcf67f9108d297e616548"
+hash = "6e894dde504749f95f77734578e2bd8b64d34f6b"
 
 [update]
 [update.modrinth]
 mod-id = "Rspf9Ia2"
-version = "MYFQufMm"
+version = "kuRW0Jy4"
