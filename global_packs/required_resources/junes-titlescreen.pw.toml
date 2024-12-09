@@ -1,0 +1,13 @@
+name = "June's Titlescreen"
+filename = "June's Titlescreen.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1IxplSHe/versions/gF4RpoQL/June%27s%20Titlescreen.zip"
+hash-format = "sha1"
+hash = "82eb4abbb95543eb8ce9c4f41feee6519b254104"
+
+[update]
+[update.modrinth]
+mod-id = "1IxplSHe"
+version = "gF4RpoQL"

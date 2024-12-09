@@ -6,40 +6,15 @@ hash = "44adc6e46c5c2eb346566b12564ccdb146127af1d8a279265c89810312688058"
 
 [[files]]
 file = "config/bcc.json"
-hash = "1fb557c01daea3b9d2b42639682df748101a8dabe9eb59828d3f2f4f6bbf8b24"
+hash = "19862da89e0005d7cb79f9fcee607e1c30814e66ff617827ed191a65fbd59840"
 
 [[files]]
 file = "config/emi.css"
 hash = "ae7d13db76f77e33e633ce940617ebb03694cfd6b23449a7f97d08d6f812d12b"
 
 [[files]]
-file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
-hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
-
-[[files]]
-file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "a4c07cecbe9151774a4999fd21cbd50fc6037c17035b1d6ddaa11e2c2640bd90"
-
-[[files]]
-file = "config/inventoryprofilesnext/villager-trading-config-v2.json"
-hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
-
-[[files]]
-file = "config/vistas.json"
-hash = "b486e1eab6b2356915e3c0862d16e1c539229ee6ac66e27172d7cc5b42d8de5a"
-
-[[files]]
 file = "desktop.ini"
 hash = "c83fc09097d1e20406376b3313bc156aa7855890a8400ee520fe3833504d8b4b"
-
-[[files]]
-file = "global_packs/required_resources/June's Tweaks.zip"
-hash = "da189ed6f48e6759aa287b3db8172e0fa74db545dfa382472060eddb8130fd50"
-
-[[files]]
-file = "global_packs/required_resources/angels-weather.pw.toml"
-hash = "f3bdfbe2b3fc1ea7626e2d4e38776fb60bf160235b3b85317bff11226ba7b4ec"
-metafile = true
 
 [[files]]
 file = "global_packs/required_resources/banner-pattern-clarity.pw.toml"
@@ -57,23 +32,8 @@ hash = "b177ae0b3f77dac2c96a0468ff44af16f58ac7b056a96e55908c834865b06d6e"
 metafile = true
 
 [[files]]
-file = "global_packs/required_resources/detail-brush.pw.toml"
-hash = "bb9a83ef6abb19b50328f22c94381c72a5cba89e3fd99c2a3a40770597e198ba"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/fancy-beds.pw.toml"
-hash = "780757ae82c554472159fdd8a06b5eb7c9ab7799bc3eed80eb03d65412c6a807"
-metafile = true
-
-[[files]]
 file = "global_packs/required_resources/fresh-animations.pw.toml"
 hash = "256b67c869770482657d4dd31124bf705c780c5c798206af522bcd5392c7ded9"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/give-him-a-nose!.pw.toml"
-hash = "b859c14fa1f99f8a2257060e30f12d6e4060dff302b9919469d0a2f386249dc0"
 metafile = true
 
 [[files]]
@@ -82,13 +42,8 @@ hash = "39a608e9c25e2bae0f02047e62f28faa4a9006407fc3aa4b05f22d70318d4094"
 metafile = true
 
 [[files]]
-file = "global_packs/required_resources/mrblueyetis-better-cats.pw.toml"
-hash = "b2def61ef7639640d02d0195b2f7b4e7b13a4a8a727d18f3f259d5254887050d"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/new-hearts.pw.toml"
-hash = "8c17069246172dff80d189bd25f76c1c3ff202964bcc569c0f69b5f82001e277"
+file = "global_packs/required_resources/junes-titlescreen.pw.toml"
+hash = "a87a3cf320d593e7e05c69158430e2189beec3538cdce816fffbdc4bd750ff29"
 metafile = true
 
 [[files]]
@@ -117,38 +72,13 @@ hash = "681459e53e122f4eccffdf5e4e111263b632265ee6fa027a83796abc8f37268e"
 metafile = true
 
 [[files]]
-file = "global_packs/required_resources/rays-3d-ladders.pw.toml"
-hash = "2065785370c5a0454cc62911b5e457c6022fb5e2dbb3b32453e82c2857e562fe"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/rays-3d-rails.pw.toml"
-hash = "8834fbced6c319663cd4b88d14542c4953c8811e52ebfcf55a5c3b0c00605f7f"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/remodeled-cactus.pw.toml"
-hash = "79c82fc169a575c93972294d41ad9a195a13c6b00a2ad173f112f3c81dc95e71"
-metafile = true
-
-[[files]]
 file = "global_packs/required_resources/simple-grass-flowers.pw.toml"
 hash = "b95472b7b7d9210c1c4190091c9f7d44cf5b5dd67d81432faafa5f44112a6729"
 metafile = true
 
 [[files]]
-file = "global_packs/required_resources/xalis-enchanted-books.pw.toml"
-hash = "13c945a8aaa1993ffba820f02e2bd5a69655b69bba1ad043d0ae4b21fa9dc789"
-metafile = true
-
-[[files]]
 file = "global_packs/required_resources/xalis-enhanced-jungle-wood.pw.toml"
 hash = "60d3d7bfda1200d93ffc8cef6a16ef21c224537c946b5ca25d7a94ae77d416ca"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/xalis-potion.pw.toml"
-hash = "caa9d2feb7486744c97a51da732b6714dd97fe6e09f91b92c0c99ee1ca0ab8f1"
 metafile = true
 
 [[files]]
@@ -167,11 +97,6 @@ hash = "b13c1c7c656a7e30da883c8357fed13e926e88f5bffc8215642994f3589c932b"
 metafile = true
 
 [[files]]
-file = "mods/auto-clicker.pw.toml"
-hash = "4c54284e5070fa0de2e0d606c719e0db918d7553a7e2ebf94c495e6cee567768"
-metafile = true
-
-[[files]]
 file = "mods/basic-storage.pw.toml"
 hash = "fd4e2ad186aa99ef3078ec0f1d4859cc710b4e385bb756a542bb55252c2bad08"
 metafile = true
@@ -187,23 +112,8 @@ hash = "cd4447a3d638e4a3b538d0815fb1c6fb7d1c717119222f1ae401cc73d6ded95d"
 metafile = true
 
 [[files]]
-file = "mods/better-beds.pw.toml"
-hash = "15c2128399c6f09974ca5af95281e1139744a1dfac9f96d0d9ee1002579676cc"
-metafile = true
-
-[[files]]
-file = "mods/better-clouds.pw.toml"
-hash = "3a3e10f05c18b5114e101c8144606995912583679e56b7c90a2668dbc0db22f0"
-metafile = true
-
-[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "5218c5a5c0fce210780f20406252a168dedab7617147b34344cb44ff79e3602b"
-metafile = true
-
-[[files]]
-file = "mods/bobby.pw.toml"
-hash = "c455d55e736f90f6a09701594dee2342e91c77b7f230f0ff73090d7ead339629"
 metafile = true
 
 [[files]]
@@ -222,16 +132,6 @@ hash = "227516cf109459ec21f1db5f3f5b491cf0366513a1358cfb44603698e95eb80b"
 metafile = true
 
 [[files]]
-file = "mods/charmonium.pw.toml"
-hash = "50d8c51d38f9afd4ca98c63bb180e02011dea680d1920b0788f9c948309d7199"
-metafile = true
-
-[[files]]
-file = "mods/chatanimation.pw.toml"
-hash = "3992f39495d3c9beb3db62f43dd45f9b383471ff4c5e274bcce146090756e672"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "8383ab78f5fb08bb0793b6ec4b66807a456bab571aea63699e614a09601de22a"
 metafile = true
@@ -242,18 +142,8 @@ hash = "a6096b3cc740027d6e192e8def745117f95ef73041187135522aebf8da0ea11d"
 metafile = true
 
 [[files]]
-file = "mods/cicada.pw.toml"
-hash = "9e8dcec1f15f2bbcd5fd3e0c9c1ba8f823830d53397ebea4104bc516603b1b82"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "cfc2c53b0d3cee953b423fe9abf210d87281d5bf774dab20cf03abe6224a9883"
-metafile = true
-
-[[files]]
-file = "mods/constant-music.pw.toml"
-hash = "143e4236fc4a3a7d880494a683a1c2b65654b9ac6dc9509a26e4ec7c08928060"
 metafile = true
 
 [[files]]
@@ -262,18 +152,8 @@ hash = "0f24f7bd2057b70b6816de4e66922b64f8b6635dc603e40cc45d62646dc7221d"
 metafile = true
 
 [[files]]
-file = "mods/creativecore.pw.toml"
-hash = "c03d77f40b53a229112df4cd4a83468ea6eee119549c79accfadb508cf9fb989"
-metafile = true
-
-[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "7365a398d1d429363e9c361e2bb004d4b0c4139a42c44fcd1b39fca6714a3ba9"
-metafile = true
-
-[[files]]
-file = "mods/cull-leaves.pw.toml"
-hash = "34860c47ccaabe6c1b40aca50c445098526c3085f5274a7b3ed28e9625a25c83"
 metafile = true
 
 [[files]]
@@ -297,11 +177,6 @@ hash = "85456b38a28844b205000237acb9b24c335838edd58040e177476573ca549c85"
 metafile = true
 
 [[files]]
-file = "mods/explosive-enhancement.pw.toml"
-hash = "83659a3a4453eecd4d98ba2f7fc52070bcd2ab0d1b31d0cfd2f34bd1baa469e1"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "a8800671ba62afc0a0a2bcbf4330ba7a5906f5fba7ec88b6d5afac2572ecd617"
 metafile = true
@@ -312,33 +187,8 @@ hash = "4daf4333e077af7302ee17b14c7d45c245b89be171e2f5f9659033a458371cbb"
 metafile = true
 
 [[files]]
-file = "mods/ferrite-core.pw.toml"
-hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
-metafile = true
-
-[[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "c56923340ce6f01a1d26636a15396bf55d83bb8ce68a0ccce515f577bdd322fd"
-metafile = true
-
-[[files]]
-file = "mods/highlight.pw.toml"
-hash = "547225155c3cabf5c8d170e13f8873f95ef9705478a5acd0de1d77126ccf5cc7"
-metafile = true
-
-[[files]]
-file = "mods/idwtialsimmoedm.pw.toml"
-hash = "054fd2d2207de8c852624d9f8c4fb3074784e2c2b5b6ef7fc7746c708c6aa84d"
-metafile = true
-
-[[files]]
-file = "mods/immersivethunder.pw.toml"
-hash = "9de7f5ad5ff476a24de9c7932cafc4e0566a33d9e35489e2ed0b0d5774f1424f"
-metafile = true
-
-[[files]]
-file = "mods/inventorytweak.pw.toml"
-hash = "a5450dbc9cb5bb26697a8a7fe1853aa8af17fd6c2ba7a8b510b80bae5345b0fd"
 metafile = true
 
 [[files]]
@@ -372,26 +222,6 @@ hash = "f80f45f4db1eff307c014f826737b5db5b2297f017182e7adca72815984a9dae"
 metafile = true
 
 [[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "4016499977a50addf35b81447a7e2bfbe8d1cebcaf341edcbd7bb5ac83f4ed3a"
-metafile = true
-
-[[files]]
-file = "mods/paginatedadvancements.pw.toml"
-hash = "695ddf149004a3755dbd34c655e96407d52b6e74c8fce70bdd19d2207fd63a71"
-metafile = true
-
-[[files]]
-file = "mods/particular.pw.toml"
-hash = "d878e8159739d1ea9a40185d4ace5c0185343f53310e354c2c0afb4b19d2e563"
-metafile = true
-
-[[files]]
-file = "mods/ping-wheel.pw.toml"
-hash = "7b83d7771dae8214d9ada072bba8fdb91a45690ef2fd1f19b1092d77487d16c5"
-metafile = true
-
-[[files]]
 file = "mods/plushables-lite.pw.toml"
 hash = "2711fdcccb997173c9e166156a6aa301cab357c4789764a6680758eca567bb50"
 metafile = true
@@ -417,11 +247,6 @@ hash = "47870c885ade491cf58a094e23b9e1d53f12e7ae738d933c26f60290c6259edd"
 metafile = true
 
 [[files]]
-file = "mods/status-effect-bars.pw.toml"
-hash = "563199dd7474844a71797be5114c798df3ded2d7bc0c9d384d9fd4aaa1b831b9"
-metafile = true
-
-[[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "106c8bb5533a1ddaf4d6d443b196bcbc673a67fe0d84cfe32b05072a88119374"
 metafile = true
@@ -432,9 +257,10 @@ hash = "8f2901e97fa4ee7c5814834de67f508bb49951a49ca21d0b4e5c3a761645e537"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.2.1.zip"
-hash = "fb5045a8ae0551721ddc5c8f3928057cd6415ccc3ca7df947cafb55564547dd0"
+file = "shaderpacks/June's Complementary Unbound Setting Preferences.txt"
+hash = "517f49cdba62f6f0a5c7e496e46db88c9a86445ccc2f63531cdd492d11c3f799"
 
 [[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.2.1.zip.txt"
-hash = "e0797b3025aa0a7ae25e177f6d57223078e09c58046cd8d522c3391fd1659b13"
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "a0fc045008eab042b01f71df6ab896bdb65c907182716b094cc7932d1dad42e0"
+metafile = true
