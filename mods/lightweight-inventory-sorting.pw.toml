@@ -1,0 +1,13 @@
+name = "Lightweight Inventory Sorting"
+filename = "lightweight-inventory-sorting-1.1.2+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JrrZfsph/versions/wiAtX0Et/lightweight-inventory-sorting-1.1.2%2B1.21.jar"
+hash-format = "sha1"
+hash = "8353e5d497e182a93dd2f7dfa88ff88d79621b5e"
+
+[update]
+[update.modrinth]
+mod-id = "JrrZfsph"
+version = "wiAtX0Et"

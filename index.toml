@@ -6,7 +6,7 @@ hash = "44adc6e46c5c2eb346566b12564ccdb146127af1d8a279265c89810312688058"
 
 [[files]]
 file = "config/bcc.json"
-hash = "19862da89e0005d7cb79f9fcee607e1c30814e66ff617827ed191a65fbd59840"
+hash = "74b9c808537cb63fa94d6f15aa031ec0bdd93e622a8530b1d8760ea5e9abcbc9"
 
 [[files]]
 file = "config/emi.css"
@@ -97,8 +97,13 @@ hash = "b13c1c7c656a7e30da883c8357fed13e926e88f5bffc8215642994f3589c932b"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "966f995d81b792ae424ece87b1c1697bd976616f3580e4bb3f6c328de836b7e2"
+metafile = true
+
+[[files]]
 file = "mods/basic-storage.pw.toml"
-hash = "fd4e2ad186aa99ef3078ec0f1d4859cc710b4e385bb756a542bb55252c2bad08"
+hash = "356a92234f31178be14b9d69051e0f6d8e2a7dd75bac424cbc6eb57956f79a7e"
 metafile = true
 
 [[files]]
@@ -113,7 +118,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "5218c5a5c0fce210780f20406252a168dedab7617147b34344cb44ff79e3602b"
+hash = "162bfbd5446a2f5b4c6db952b66aacb34ec72af00be2e20f2e32bdf979884d6b"
 metafile = true
 
 [[files]]
@@ -148,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "0f24f7bd2057b70b6816de4e66922b64f8b6635dc603e40cc45d62646dc7221d"
+hash = "66b27fa4b5af9a926ddfdbaa91b2599640f7ba6b7b7237cae3a9bb6ceb4c2e91"
 metafile = true
 
 [[files]]
@@ -173,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "85456b38a28844b205000237acb9b24c335838edd58040e177476573ca549c85"
+hash = "b24e8c8a05c1fb22a1a40cb6c6b059b753851f5e829dbf970c372c55c0ec1d0c"
 metafile = true
 
 [[files]]
@@ -187,13 +192,33 @@ hash = "4daf4333e077af7302ee17b14c7d45c245b89be171e2f5f9659033a458371cbb"
 metafile = true
 
 [[files]]
+file = "mods/fps-reducer.pw.toml"
+hash = "3716dee9ed27874db19b8794d2ffc20c06f09909e3688c1095faac383439f549"
+metafile = true
+
+[[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "c56923340ce6f01a1d26636a15396bf55d83bb8ce68a0ccce515f577bdd322fd"
 metafile = true
 
 [[files]]
+file = "mods/hotbarreplace.pw.toml"
+hash = "313078e544487db35199206749e520b0123c692f1a9b270bfddbd4b012f53d6d"
+metafile = true
+
+[[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "69d66eb2faaa6c9d4ca90715c729a25af6df137ce0a12133b6476b8215de7bbf"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "e9b5551664b13354576e4c22a01d70eb355f6cb8014b1ce84350d2da27c46576"
+metafile = true
+
+[[files]]
+file = "mods/lightweight-inventory-sorting.pw.toml"
+hash = "5c5203fe9d1f40c5b8259df801126d381fc9d4ef20d17af19881611ad530cd58"
 metafile = true
 
 [[files]]
@@ -217,6 +242,11 @@ hash = "87f32c96066eb295c234effb49f6f5cbd5956316a3a750a3989cfb645b3fd397"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6ff1d7cc8800c891723375aea3426b9b2f50400798374e8f97f96e804cc5c518"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "f80f45f4db1eff307c014f826737b5db5b2297f017182e7adca72815984a9dae"
 metafile = true
@@ -228,7 +258,12 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "73d9978d68e405bbb894cdeb080a26a20ac29ddf4f12709295ffd49a56bd5399"
+hash = "4213dab1b73453f9a93ff93da5077c50fabfd70ceafc25e28d0bb385da6e287f"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "889edc675f06b043edb5c8d7a797cba7895161a023711dcf9c4120453d9deead"
 metafile = true
 
 [[files]]
@@ -243,17 +278,17 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "47870c885ade491cf58a094e23b9e1d53f12e7ae738d933c26f60290c6259edd"
+hash = "2e79e4841ff44bc6ab4ef4fa32c1206b27164478daea4e1d6ffc9bb80f4eb266"
 metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "106c8bb5533a1ddaf4d6d443b196bcbc673a67fe0d84cfe32b05072a88119374"
+hash = "2e7442afde91b3d55ffb6aecc51c0c3151c7c05feae87c77d08121e9e5ec6c3d"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "8f2901e97fa4ee7c5814834de67f508bb49951a49ca21d0b4e5c3a761645e537"
+hash = "4c27dc908eb38003e88973b16b37dd7b34d7aff5d6ad9844f3a017e7ca977158"
 metafile = true
 
 [[files]]
