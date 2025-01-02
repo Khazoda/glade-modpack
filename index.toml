@@ -6,7 +6,7 @@ hash = "44adc6e46c5c2eb346566b12564ccdb146127af1d8a279265c89810312688058"
 
 [[files]]
 file = "config/bcc.json"
-hash = "74b9c808537cb63fa94d6f15aa031ec0bdd93e622a8530b1d8760ea5e9abcbc9"
+hash = "e84c0405731eb1c6041f728fcd5924daa9c2c1e0e99f4624e3996bbb2ef00672"
 
 [[files]]
 file = "config/emi.css"
@@ -83,7 +83,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambient-environment.pw.toml"
-hash = "eb586237c139da61053ce14ea9a8d6cb3124e1731db22963ae79192b59b4c063"
+hash = "74c5aa1224f249cc273032e4e0ebca741e1106c7d9cd023105ae880aed8b1919"
 metafile = true
 
 [[files]]
@@ -162,11 +162,6 @@ hash = "7365a398d1d429363e9c361e2bb004d4b0c4139a42c44fcd1b39fca6714a3ba9"
 metafile = true
 
 [[files]]
-file = "mods/debugify.pw.toml"
-hash = "b50942a1bec0085be9e0e8902f43623593c38e66dab0117c5a28cbe90dcd80dd"
-metafile = true
-
-[[files]]
 file = "mods/emi.pw.toml"
 hash = "0aa8e719a05e23fe541f07fa9a528e72dd968477c96575fa75c4ad1c745fc133"
 metafile = true
@@ -183,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a8800671ba62afc0a0a2bcbf4330ba7a5906f5fba7ec88b6d5afac2572ecd617"
+hash = "4ff77087be80284d990116d289b8cbfd4d974d40b385293ea553a273bc12e127"
 metafile = true
 
 [[files]]
@@ -223,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "65e636524c7311fe98f308e26a2b67ed2589957aab04313e541c75afd701284a"
+hash = "9a2443394b4018a83ff7caea2dfd858081796a26452c4c6767e4b7d69ba39e82"
 metafile = true
 
 [[files]]
@@ -252,8 +247,8 @@ hash = "f80f45f4db1eff307c014f826737b5db5b2297f017182e7adca72815984a9dae"
 metafile = true
 
 [[files]]
-file = "mods/plushables-lite.pw.toml"
-hash = "2711fdcccb997173c9e166156a6aa301cab357c4789764a6680758eca567bb50"
+file = "mods/plushables.pw.toml"
+hash = "a1d1c052ab65d246c387416cc9b678d264dec8e53741e7de9417de12e066091c"
 metafile = true
 
 [[files]]
