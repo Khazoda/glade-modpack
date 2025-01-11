@@ -6,8 +6,3 @@ side = "client"
 url = "https://cdn.modrinth.com/data/O2zhH8n8/versions/cFws7JAJ/Os%27%20Colorful%20Grasses%20%28Mixed%20Models%29.zip"
 hash-format = "sha1"
 hash = "4ed6cd0872431d24fcc0335a83b667dcc53d7f8e"
-
-[update]
-[update.modrinth]
-mod-id = "O2zhH8n8"
-version = "cFws7JAJ"

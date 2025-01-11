@@ -1,12 +1,12 @@
 name = "Minecraft+"
 author = "Khazoda"
-version = "1.3.16"
+version = "1.3.17"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1fa6344a370a3a615207d4ed7f326fabfb5204e6409901c6d83e9aac5549eb38"
+hash = "39012b78f52c8828341777dca583adad230051b1556085d52a5713d23a2d78f8"
 
 [versions]
 fabric = "0.16.9"
@@ -14,3 +14,4 @@ minecraft = "1.21.1"
 
 [options]
 acceptable-game-versions = ["1.21-rc1", "1.21", "1.21.1"]
+no-internal-hashes = ["global_packs/required_resources/*"]

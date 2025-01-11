@@ -1,0 +1,13 @@
+name = "Animated loading screen"
+filename = "animated-logo-1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cGHt9WgV/versions/cNuiBAE3/animated-logo-1.2.jar"
+hash-format = "sha1"
+hash = "433f80aa12dfb88607518394403884bb02853f05"
+
+[update]
+[update.modrinth]
+mod-id = "cGHt9WgV"
+version = "cNuiBAE3"

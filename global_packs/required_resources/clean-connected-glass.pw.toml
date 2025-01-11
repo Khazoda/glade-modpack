@@ -6,8 +6,3 @@ side = "client"
 url = "https://cdn.modrinth.com/data/dIyWZMgP/versions/3A2zKymw/Clean_Connected_Glass%281.20%29.zip"
 hash-format = "sha1"
 hash = "90eaafbe2f003e22c2ef954d6f6854a799178fec"
-
-[update]
-[update.modrinth]
-mod-id = "dIyWZMgP"
-version = "3A2zKymw"
