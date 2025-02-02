@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "basicweapons_materialpacks/bwmp_copper_minecraft.pw.toml"
+hash = "250f9863849466bfd6ef4920b25b009a9301815c853b544e9de8271251cf9099"
+metafile = true
+
+[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "44adc6e46c5c2eb346566b12564ccdb146127af1d8a279265c89810312688058"
 
@@ -103,7 +108,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "193e44b82210b584c98de33c7d47532a128e03b962e3866c7657fe67f79eb154"
+hash = "16b8b655b524d5fcfd5b8547cbe863ece0b58e5ce834702407a17ee43c933763"
 metafile = true
 
 [[files]]
@@ -113,7 +118,7 @@ metafile = true
 
 [[files]]
 file = "mods/basic-weapons.pw.toml"
-hash = "26609587ef59b487929bf6e28634c23b760c5949fa60cff6259c928d2a14821a"
+hash = "ee5ebb44a5752a6052a7e105abcab848c9c145fc76b5ee60ce41783a00d9d961"
 metafile = true
 
 [[files]]
@@ -123,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "f444cc7ce6308679825318d380b85dd08307eb429361ff5fb604dae0608fb656"
+hash = "471cec8bc3f1fdb37452ddddf23028ad28f91b283875a6a1eb9ad0939df66d33"
 metafile = true
 
 [[files]]
@@ -168,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "87edcb493f00b6f394909a28e8c8404a12954f0fb07301429cf78d59ec1de45b"
+hash = "b41e775a66c1ea6db7e9d24bb9efcecc0bec26d59a8e09fa8f7df9ffedbceffb"
 metafile = true
 
 [[files]]
@@ -183,12 +188,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4ff77087be80284d990116d289b8cbfd4d974d40b385293ea553a273bc12e127"
+hash = "fc3de66cf6bcfe027287d7bd7aebca6088095b3c3c9c93e326cb0d05ebda1f79"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "4daf4333e077af7302ee17b14c7d45c245b89be171e2f5f9659033a458371cbb"
+hash = "98dd654d4a179825ed13cf12913aeee257b56c0986a8aa352b42749656bc47a7"
 metafile = true
 
 [[files]]
@@ -223,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "9a2443394b4018a83ff7caea2dfd858081796a26452c4c6767e4b7d69ba39e82"
+hash = "65879a3ac71a0de799a52bb3fcb4c75e505393e0b25f67e415f59fa8b1926db9"
 metafile = true
 
 [[files]]
@@ -233,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "87a1755422226eee3e68fa8842e1a52362451656994fb81d4ac5dca3a1ea9c7f"
+hash = "a4cce05a86553ea0d13544364596c877ff25ddf4d651097aafc95db750062735"
 metafile = true
 
 [[files]]
@@ -307,5 +312,5 @@ hash = "517f49cdba62f6f0a5c7e496e46db88c9a86445ccc2f63531cdd492d11c3f799"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "a0fc045008eab042b01f71df6ab896bdb65c907182716b094cc7932d1dad42e0"
+hash = "c363c5cebefc114a08ca1bd415521554dc5d1ee7ef3843adad4846be548816ec"
 metafile = true
