@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "BuildRelease.ps1"
+hash = "5d7b85cfc09e71ff8f8cc8f18dc4ac6ac033a35b02fb782f4e3a54444d233961"
+
+[[files]]
+file = "BuildRelease.sh"
+hash = "11b7cdfd03d6535580e1b85701ed3bafbfeac9a3627275fedb85355e1df6ba1e"
+
+[[files]]
 file = "basicweapons_materialpacks/bwmp_copper_minecraft.pw.toml"
 hash = "250f9863849466bfd6ef4920b25b009a9301815c853b544e9de8271251cf9099"
 metafile = true
@@ -19,7 +27,7 @@ hash = "7060a43348e0d43e771b20da9b426b6b9195858d4ad54562ef641093a64ff415"
 
 [[files]]
 file = "desktop.ini"
-hash = "c83fc09097d1e20406376b3313bc156aa7855890a8400ee520fe3833504d8b4b"
+hash = "0d4861bfd9840e8f2794abf2437c104f3f7d900f13db3557ef4596acad9bce26"
 
 [[files]]
 file = "global_packs/required_resources/banner-pattern-clarity.pw.toml"
