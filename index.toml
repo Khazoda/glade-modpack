@@ -1,16 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "BuildRelease.ps1"
-hash = "5d7b85cfc09e71ff8f8cc8f18dc4ac6ac033a35b02fb782f4e3a54444d233961"
-
-[[files]]
-file = "BuildRelease.sh"
-hash = "11b7cdfd03d6535580e1b85701ed3bafbfeac9a3627275fedb85355e1df6ba1e"
-
-[[files]]
 file = "basicweapons_materialpacks/bwmp_copper_minecraft.pw.toml"
-hash = "250f9863849466bfd6ef4920b25b009a9301815c853b544e9de8271251cf9099"
+hash = "4301fdf3d7b178dea9dde4b67f60ea4bafb10f76b94fd5b9e52df2763cd680b2"
 metafile = true
 
 [[files]]
@@ -24,10 +16,6 @@ hash = "ae7d13db76f77e33e633ce940617ebb03694cfd6b23449a7f97d08d6f812d12b"
 [[files]]
 file = "config/ok_zoomer/config.toml"
 hash = "7060a43348e0d43e771b20da9b426b6b9195858d4ad54562ef641093a64ff415"
-
-[[files]]
-file = "desktop.ini"
-hash = "0d4861bfd9840e8f2794abf2437c104f3f7d900f13db3557ef4596acad9bce26"
 
 [[files]]
 file = "global_packs/required_resources/banner-pattern-clarity.pw.toml"
@@ -100,11 +88,6 @@ hash = "74c5aa1224f249cc273032e4e0ebca741e1106c7d9cd023105ae880aed8b1919"
 metafile = true
 
 [[files]]
-file = "mods/animated-loading-screen.pw.toml"
-hash = "411eed1c3e1dee6f9cf35e9e7923ecfa6e2cce9fe859e70e10e4b04409954403"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "c842647bf2f4cc2bbe7d1f1b14ee866437cdecf42aacb07dacc3a11501ccd8d6"
 metafile = true
@@ -116,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "16b8b655b524d5fcfd5b8547cbe863ece0b58e5ce834702407a17ee43c933763"
+hash = "2555c1b447cfe16fc84ef7903861f0bafeefacfc98f1f242807a20bfbcd86ffe"
 metafile = true
 
 [[files]]
@@ -126,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/basic-weapons.pw.toml"
-hash = "ee5ebb44a5752a6052a7e105abcab848c9c145fc76b5ee60ce41783a00d9d961"
+hash = "ca84561da7b5117d515e6a163e2e5d1d41081a4a092c806b798fe459983545a9"
 metafile = true
 
 [[files]]
@@ -296,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "0cb177863abb009d4bb56ffda47e52f917e374d880bf81e39dc86969193d27f7"
+hash = "962163e4c942a212cc01315ea42b67ff1c501fecaebccc88ceb0de2fa37cbd7e"
 metafile = true
 
 [[files]]

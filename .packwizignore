@@ -3,3 +3,10 @@
 
 # Exclude README
 /README.md
+/BuildRelease.ps1
+/BuildRelease.sh
+/pack.toml
+/releases
+/releases/*
+/desktop.ini
+
