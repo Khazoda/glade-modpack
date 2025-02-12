@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".vscode/BuildRelease.ps1"
+hash = "8035f8eea9ba640224ae97450bda556eef98c9c37789ef171e7e885ccbaeef5a"
+
+[[files]]
+file = ".vscode/BuildRelease.sh"
+hash = "a208b4e64f8e37b31cf46b7aa64c1c87b453624dc24ecc7651f1f494113806aa"
+
+[[files]]
 file = "basicweapons_materialpacks/bwmp_copper_minecraft.pw.toml"
 hash = "4301fdf3d7b178dea9dde4b67f60ea4bafb10f76b94fd5b9e52df2763cd680b2"
 metafile = true
@@ -258,11 +266,6 @@ hash = "aacc7f91f460aa66ca6d47d521a41b1c176ceb9e3a4314604cfa1421325bd29b"
 metafile = true
 
 [[files]]
-file = "mods/planetarium.pw.toml"
-hash = "f8e0e73c62bbab9c9849827e13db1abfa2b1c70d3e0f0fc7b8149cf98dda99f1"
-metafile = true
-
-[[files]]
 file = "mods/plushables.pw.toml"
 hash = "a1d1c052ab65d246c387416cc9b678d264dec8e53741e7de9417de12e066091c"
 metafile = true
@@ -296,6 +299,10 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "4c27dc908eb38003e88973b16b37dd7b34d7aff5d6ad9844f3a017e7ca977158"
 metafile = true
+
+[[files]]
+file = "package.json"
+hash = "3cffa3f338a72948d4e69041b335635b30942169f21fd26bc3f1894e3f389594"
 
 [[files]]
 file = "shaderpacks/June's Complementary Unbound Setting Preferences.txt"
