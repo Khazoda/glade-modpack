@@ -46,11 +46,6 @@ hash = "256b67c869770482657d4dd31124bf705c780c5c798206af522bcd5392c7ded9"
 metafile = true
 
 [[files]]
-file = "global_packs/required_resources/in-game-brewing-guide.pw.toml"
-hash = "39a608e9c25e2bae0f02047e62f28faa4a9006407fc3aa4b05f22d70318d4094"
-metafile = true
-
-[[files]]
 file = "global_packs/required_resources/junes-titlescreen.pw.toml"
 hash = "a87a3cf320d593e7e05c69158430e2189beec3538cdce816fffbdc4bd750ff29"
 metafile = true
@@ -88,6 +83,11 @@ metafile = true
 [[files]]
 file = "global_packs/required_resources/xalis-enhanced-jungle-wood.pw.toml"
 hash = "9c83708bda22ded3c24b2213eab579f3eadbe04fd31219e3831181fb2b7dfe38"
+metafile = true
+
+[[files]]
+file = "mods/advancement-screenshot.pw.toml"
+hash = "fcfaf64a432aab57eb437e3540f1f721e781859d851eb81286e1fe78caafb8c0"
 metafile = true
 
 [[files]]
@@ -161,6 +161,11 @@ hash = "cfc2c53b0d3cee953b423fe9abf210d87281d5bf774dab20cf03abe6224a9883"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "8f4478fa99d363f4ea941085aff1b4912ace03c5952b31d6271263d980a8cc9e"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "66b27fa4b5af9a926ddfdbaa91b2599640f7ba6b7b7237cae3a9bb6ceb4c2e91"
 metafile = true
@@ -178,6 +183,11 @@ metafile = true
 [[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "3fd3ff18b39c291980d982f4d3e01751ed7a33648cd0c36bc00d07314bc351c6"
+metafile = true
+
+[[files]]
+file = "mods/entity-pin-cushions.pw.toml"
+hash = "0ab0ba03df73a3af0fe9d0f7dc7d552095f6ae15ff6bb5cb21a97fef4fb3859f"
 metafile = true
 
 [[files]]
@@ -212,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
-hash = "f5454d904f0fe0ec91f18f79626891040739432432b2b4ce7b5bac607113c603"
+hash = "5c372fe797637e7e33c7af4b9da5f50a550d9ddb6566b80149edf9e63c2e2a3c"
 metafile = true
 
 [[files]]
@@ -246,6 +256,11 @@ hash = "87f32c96066eb295c234effb49f6f5cbd5956316a3a750a3989cfb645b3fd397"
 metafile = true
 
 [[files]]
+file = "mods/moreculling.pw.toml"
+hash = "4fd5671eb8156292bc41e13be08b841ccb0c040d91cba6783a1b6561833f2a34"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6ff1d7cc8800c891723375aea3426b9b2f50400798374e8f97f96e804cc5c518"
 metafile = true
@@ -258,11 +273,6 @@ metafile = true
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "0cfd82db20adfb942bda18f4b4879f8650c1347726df9c9b790fd8e1cb88e04b"
-metafile = true
-
-[[files]]
-file = "mods/particle-rain.pw.toml"
-hash = "aacc7f91f460aa66ca6d47d521a41b1c176ceb9e3a4314604cfa1421325bd29b"
 metafile = true
 
 [[files]]

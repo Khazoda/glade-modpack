@@ -1,0 +1,13 @@
+name = "Collective"
+filename = "collective-1.21.1-7.91.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/QIVuPeva/collective-1.21.1-7.91.jar"
+hash-format = "sha1"
+hash = "e1c4b4574d407f9ca9335ca422081e3e9387b590"
+
+[update]
+[update.modrinth]
+mod-id = "e0M1UDsY"
+version = "QIVuPeva"
