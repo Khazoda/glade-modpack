@@ -1,13 +1,13 @@
 name = "June's Titlescreen"
-filename = "June's Titlescreen.zip"
+filename = "Terracotta Titlescreen.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/1IxplSHe/versions/gF4RpoQL/June%27s%20Titlescreen.zip"
-hash-format = "sha1"
-hash = "82eb4abbb95543eb8ce9c4f41feee6519b254104"
+url = "https://cdn.modrinth.com/data/1IxplSHe/versions/LK3vDktC/Terracotta%20Titlescreen.zip"
+hash-format = "sha512"
+hash = "5dc63aa16578512a4b681cc53df90308a15411139a52559baa45a0dedef4d934408be65428b26653dc0f6540e4cbf1a952610c3f047e4389bdcf61b55a6b6721"
 
 [update]
 [update.modrinth]
 mod-id = "1IxplSHe"
-version = "gF4RpoQL"
+version = "LK3vDktC"
