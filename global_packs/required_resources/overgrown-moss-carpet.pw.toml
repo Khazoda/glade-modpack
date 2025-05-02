@@ -1,13 +1,13 @@
 name = "Overgrown Moss Carpet"
-filename = "Overgrown Moss Carpet 1.2.1 (mc 1.21).zip"
+filename = "Overgrown Moss Carpet 2.0.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/UaAM0t6Z/versions/zAtk1aVH/Overgrown%20Moss%20Carpet%201.2.1%20%28mc%201.21%29.zip"
-hash-format = "sha1"
-hash = "cf269bb23d1150bafdba7b4db14ddb3d16edbdcc"
+url = "https://cdn.modrinth.com/data/UaAM0t6Z/versions/oKNHG4N1/Overgrown%20Moss%20Carpet%202.0.zip"
+hash-format = "sha512"
+hash = "1c445b305cc9c03bf7f24610a88fa5f31875fad7d08e3f27bc54d57d8fbd7393801488715950294c45f09eedd1dbc43da31481ca59b6da4bf509a6faae12c7cb"
 
 [update]
 [update.modrinth]
 mod-id = "UaAM0t6Z"
-version = "zAtk1aVH"
+version = "oKNHG4N1"
