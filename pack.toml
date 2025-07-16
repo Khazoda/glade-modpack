@@ -1,15 +1,15 @@
 name = "Glade"
 author = "Khazoda"
-version = "1.3.22"
+version = "1.3.23"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "33d3a2a2f744c690b8d068c3e749ac52ab0b095d987fb4c264d93785d3ada8a7"
+hash = "9fe8ae51de4f3d23803a46531df009cef11e4f41df35069a457e9d5f21597768"
 
 [versions]
-fabric = "0.16.10"
+fabric = "0.16.14"
 minecraft = "1.21.1"
 
 [options]
