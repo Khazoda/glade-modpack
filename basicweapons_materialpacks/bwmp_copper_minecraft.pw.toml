@@ -3,11 +3,11 @@ filename = "bwmp_copper_minecraft.zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GNaA3w4z/versions/cUAWkxpw/bwmp_copper_minecraft.zip"
-hash-format = "sha1"
-hash = "077e3543616b1f00aa889f18b366412f20d7f954"
+url = "https://cdn.modrinth.com/data/GNaA3w4z/versions/6e1yMCGU/bwmp_copper_minecraft.zip"
+hash-format = "sha512"
+hash = "3b7f776d89fe70c867db78d2193cff8fe815033af1aa868858a03ec261ef162282c5b265fd296a70ac6719402dd90214bb55ef1c150d46fbca8231b28be063ae"
 
 [update]
 [update.modrinth]
 mod-id = "GNaA3w4z"
-version = "cUAWkxpw"
+version = "6e1yMCGU"

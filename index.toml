@@ -10,7 +10,7 @@ hash = "a208b4e64f8e37b31cf46b7aa64c1c87b453624dc24ecc7651f1f494113806aa"
 
 [[files]]
 file = "basicweapons_materialpacks/bwmp_copper_minecraft.pw.toml"
-hash = "4301fdf3d7b178dea9dde4b67f60ea4bafb10f76b94fd5b9e52df2763cd680b2"
+hash = "35fe00debd5b05b824b65a4eebba2659692470e32318f042fdfa18c01b97c2a2"
 metafile = true
 
 [[files]]
@@ -26,6 +26,11 @@ file = "config/ok_zoomer/config.toml"
 hash = "7060a43348e0d43e771b20da9b426b6b9195858d4ad54562ef641093a64ff415"
 
 [[files]]
+file = "global_packs/required_resources/animated-items.pw.toml"
+hash = "ba5dcd71dd9e075a20e0229edf807bcf14e54b62b7624fd47397dae6b7369787"
+metafile = true
+
+[[files]]
 file = "global_packs/required_resources/banner-pattern-clarity.pw.toml"
 hash = "80bfa8aa195545fde0596332d114c26fb74510282af534b02a82d0638f846164"
 metafile = true
@@ -37,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "global_packs/required_resources/clean-connected-glass.pw.toml"
-hash = "d1a5423aa3660781676710f718384aa91c9217de0c8b3f6aa39fbb838b9626d1"
+hash = "21644ae7be91e487481bb2ef85ad6f040627e37b150edfd6a69c552bb8840518"
 metafile = true
 
 [[files]]
@@ -56,11 +61,6 @@ hash = "f7c12cb54d087b9110c73cfd97aa61edbbc5ef88026452a39dabbb07134cc35c"
 metafile = true
 
 [[files]]
-file = "global_packs/required_resources/os-colorful-grasses.pw.toml"
-hash = "d1985bf962297f4ce602ff1b983e3932a4d84ff15e9c4cb13f7243909bce8316"
-metafile = true
-
-[[files]]
 file = "global_packs/required_resources/os-crops.pw.toml"
 hash = "5fbae5254d23435c0baec72d3556b030483072a9485375b714e1d250ca6e4cd4"
 metafile = true
@@ -73,6 +73,11 @@ metafile = true
 [[files]]
 file = "global_packs/required_resources/overgrown-moss-carpet.pw.toml"
 hash = "22896334fab4d9b0a7a04ad1a010ec11c85951df185fa3cb19332660d8adb309"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/rays-3d-ladders.pw.toml"
+hash = "53e2da580a363c839de4c196fae91751accc5e772c065fc0cc4d07b7864f3cf8"
 metafile = true
 
 [[files]]
@@ -107,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "2b39af0fe4a842222374eec49397398495a20358c13ff9879170077012afe2eb"
+hash = "699010afc3867305441c3d5b3bcdf491a7aa3614ad199b0589f368689a68859e"
 metafile = true
 
 [[files]]
@@ -167,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "d7fb4b1803c7eb693470fa38514d6479fcc434876af70c3a7b9a87eba24b81f1"
+hash = "34fc0845727b08bc39e5b56444e0695b55f6a5471380f2d1d40c5548105da28e"
 metafile = true
 
 [[files]]
@@ -192,12 +197,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c45656db928ed544c927449b5ceac0feef9488b0ea4154cab9199b37817cd4d5"
+hash = "b3811242f9230b57ec349147921309a05e17b1d9866cb5197926495d8f8e9400"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
+hash = "36587a2be418f365faa1a6deac5eadcc00b6a79ebacab25ad87839f9ddc021e7"
 metafile = true
 
 [[files]]
@@ -217,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
-hash = "5c372fe797637e7e33c7af4b9da5f50a550d9ddb6566b80149edf9e63c2e2a3c"
+hash = "ff77610d5f1da7a8388afd8156f04b1640a71ce5e1d00880d938115261cbc8d2"
 metafile = true
 
 [[files]]
@@ -272,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/plushables.pw.toml"
-hash = "ca10321b8aa16702516a7a1cb7c650310a5484a0aec99026997988b4d0a5bd3c"
+hash = "65dd9cf39f3253272dac4cb5ef5471309fb2b5b357311d7b03754ec4a5941529"
 metafile = true
 
 [[files]]
@@ -292,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "08b9cd878c5201b709e991201c4fa1e5e4bd2de42a911cd8b61a38cad319c0a3"
+hash = "7207bcd8319f1e4b89806c7f909c87acdd3a5f96e5917d859ff704df8ff9a229"
 metafile = true
 
 [[files]]
