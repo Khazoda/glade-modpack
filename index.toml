@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "global_packs/required_resources/clean-connected-glass.pw.toml"
-hash = "21644ae7be91e487481bb2ef85ad6f040627e37b150edfd6a69c552bb8840518"
+hash = "d34b4b7568eb8e01cdcc9a2cfd5bfdd0bd94f254a655c151344f2292abbbf9b6"
 metafile = true
 
 [[files]]
