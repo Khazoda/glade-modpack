@@ -1,0 +1,13 @@
+name = "Overgrown Moss Carpet"
+filename = "Overgrown Moss Carpet 2.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UaAM0t6Z/versions/tPTgLsDf/Overgrown%20Moss%20Carpet%202.2.zip"
+hash-format = "sha512"
+hash = "ddb824fbd0aeb8bd14695a6cf445cc8b7bc2634483e55e62192ac2e033defed49bb0036d77cb5898eca4d07b80de08bdc45bbb48d23f682b0b734f754e7ab9ff"
+
+[update]
+[update.modrinth]
+mod-id = "UaAM0t6Z"
+version = "tPTgLsDf"
