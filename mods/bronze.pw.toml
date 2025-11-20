@@ -1,13 +1,13 @@
 name = "Bronze"
-filename = "bronze-fabric-2.1.1+1.21.10.jar"
+filename = "bronze-fabric-2.1.2+1.21.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6pVlXMty/versions/ZAGiVE4D/bronze-fabric-2.1.1%2B1.21.10.jar"
+url = "https://cdn.modrinth.com/data/6pVlXMty/versions/NETute6w/bronze-fabric-2.1.2%2B1.21.10.jar"
 hash-format = "sha512"
-hash = "417811873c6130f33c67b94531f651d8e1f3b8bf0d3cde999c8a9d1528941a2901224ac87437402a06a31592a7027e050e940efdcf52355030a6b011bb2180a7"
+hash = "25179c1f384ae9b2f11c81f0450633f32a9dc3b7734208d9e2d6a88bb89e5a05f3888d9c70adbeea7a56b77d7917596af093f8abba63b1eda8ee5594c05daecf"
 
 [update]
 [update.modrinth]
 mod-id = "6pVlXMty"
-version = "ZAGiVE4D"
+version = "NETute6w"
