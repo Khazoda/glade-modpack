@@ -1,0 +1,13 @@
+name = "Heirlooms"
+filename = "heirlooms-fabric-1.21.10-1.2.0+1.21.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E1ZTThzs/versions/dDRJI6mu/heirlooms-fabric-1.21.10-1.2.0%2B1.21.10.jar"
+hash-format = "sha512"
+hash = "cc1c0898183be915a49f79d94c566eda9812ee0afee2caef374417237d6fd0e85520806f900c8ca2a8f2e1807d8af52679514c49653122df7524a2d568a8fc5d"
+
+[update]
+[update.modrinth]
+mod-id = "E1ZTThzs"
+version = "dDRJI6mu"

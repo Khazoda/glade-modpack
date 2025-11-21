@@ -109,6 +109,11 @@ hash = "2fafc2ff395e3302eca742b568c1fc53254f66cf027ed5b5e467287fdf3c3157"
 metafile = true
 
 [[files]]
+file = "mods/heirlooms.pw.toml"
+hash = "09bb37f9845ffd292e0ca356794952ff2ba48f575a0f29a419d7f7d846aa3876"
+metafile = true
+
+[[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "0d0f7c8bec24c453c31d15c05418f15ba48b4576a327510c315eae81fa5de9b0"
 metafile = true
