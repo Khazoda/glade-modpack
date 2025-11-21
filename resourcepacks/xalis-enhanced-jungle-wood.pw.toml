@@ -4,5 +4,10 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/GW65qp0z/versions/eczHxVAE/xali%27s%20Enhanced%20Jungle%20Wood%20v1.2.zip"
-hash-format = "sha1"
-hash = "f8241d695fb3e1191351812d9a53684d5b16179c"
+hash-format = "sha512"
+hash = "42516bcd171e04af0747289bcf733f8699612bc131ac56dfabc92b18728469f540115a85ec3d0a3b25ae0643316904166a2ba34eb734b6a83e04b77d0dac5a95"
+
+[update]
+[update.modrinth]
+mod-id = "GW65qp0z"
+version = "eczHxVAE"

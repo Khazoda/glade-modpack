@@ -21,6 +21,14 @@ file = "config/ok_zoomer/config.toml"
 hash = "7060a43348e0d43e771b20da9b426b6b9195858d4ad54562ef641093a64ff415"
 
 [[files]]
+file = "config/packed_packs/config.json"
+hash = "ff1af1feb9eedcd133d8d0f6e1964e72e7574260ec28fa60c0ceeb7ce9410fca"
+
+[[files]]
+file = "config/packed_packs/profiles/resourcepacks/Default by Khazoda__3e586d5c.profile.json"
+hash = "9b48c8522bd9a6f98cb8ce2b16726bca841ff2971fa1224dfa59edfe9b16d494"
+
+[[files]]
 file = "mods/ambient-environment.pw.toml"
 hash = "a6cce17dce462b079bd99cdf96b7a7eef88e9071972929783dd0917020b869ef"
 metafile = true
@@ -76,18 +84,13 @@ hash = "a90139b002d632ba9256cb3e7e877945bf8e3afa5b191d1adc83c5e3eb72da4c"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "a43e3d76464a16015d62ba08d51da734f92377f0889c3984656d6d5739d284b2"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "2c31d52ada2aec45150617516523aaae57f30df0f8bb1ef1115e1825e5a89759"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "2a9e9968c598e234a84ccd9afc80a424d5c2ad9a37e4c85a0d36d06ddc9ebfa9"
+hash = "ebd449cc0d3028785f84aa5baaf5b4a09e0a58745fe6ec7b331d632f9b664d60"
 metafile = true
 
 [[files]]
@@ -121,11 +124,6 @@ hash = "37df4b493cf68dfd99e09d02b750be72cf48a27a08d4203e260d86410ffca739"
 metafile = true
 
 [[files]]
-file = "mods/lithium.pw.toml"
-hash = "84957275e9dc6f07f4244ce3303536e3d73b0e72eb1696ccd024168a52c29c98"
-metafile = true
-
-[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "b261880bd245c83c51b729199452da12b0766a4aa0210fc79d0c48161cbfcc49"
 metafile = true
@@ -156,6 +154,11 @@ hash = "478cd4b2fec408c22999469637c2c6ff341ca5525fee24b765c116bd38c908ea"
 metafile = true
 
 [[files]]
+file = "mods/packed-packs.pw.toml"
+hash = "d251c79a490513b37c06378f633bebd6f42bf72e5ad6c19cd983cf44104cc49c"
+metafile = true
+
+[[files]]
 file = "mods/plushables.pw.toml"
 hash = "ea3670f9cb292d485b30e6659ed7c122dfe0890b273a5026e76365a988134e00"
 metafile = true
@@ -163,6 +166,11 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "7d1c4098e5a07f399f3974d0dfd64adaaa40cb5fc3879904630d3829bb10358f"
+metafile = true
+
+[[files]]
+file = "mods/shut-up-realms.pw.toml"
+hash = "1179dcf06cb5cd91ab60d719686b6d10ea7a524016930355618fb169bfcc6520"
 metafile = true
 
 [[files]]
@@ -178,11 +186,6 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "b1001cd1d887748ba489f32e4520e5b75a685a12a52579a906b56573ef62fe72"
-metafile = true
-
-[[files]]
-file = "mods/yacl.pw.toml"
-hash = "9f03e353c4e1cb748066c7dedc21818360d00ccffa9c4107ca175f68b97c03e9"
 metafile = true
 
 [[files]]
@@ -211,27 +214,27 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "256b67c869770482657d4dd31124bf705c780c5c798206af522bcd5392c7ded9"
+hash = "bf6bf356ece200c132c604c1cdd981c8a7baf6a30ed05fa057fdfc0444df779d"
 metafile = true
 
 [[files]]
 file = "resourcepacks/junes-titlescreen.pw.toml"
-hash = "4f2af62b1dd4fa2a14a4f22575f78e7993a8fa1362c08dcc84190e0d8c902ea9"
+hash = "fdb3c7ed403d7971e45aed057c05604420accb5e0561e96f13a4c052854fe153"
 metafile = true
 
 [[files]]
 file = "resourcepacks/os-colorful-cobblestone.pw.toml"
-hash = "f7c12cb54d087b9110c73cfd97aa61edbbc5ef88026452a39dabbb07134cc35c"
+hash = "70078c31ed7a67d0de937e379d2ec2af9e9b7242606ed32a5ad82c59d5e40885"
 metafile = true
 
 [[files]]
 file = "resourcepacks/os-crops.pw.toml"
-hash = "5fbae5254d23435c0baec72d3556b030483072a9485375b714e1d250ca6e4cd4"
+hash = "668294ed791195592bfcdc940a63292b99df8a497ef7495ccbd8cda9e4743a47"
 metafile = true
 
 [[files]]
 file = "resourcepacks/os-shulkers.pw.toml"
-hash = "4946ef174ffb93890e2b10c8b8ef7ef15542c22e4ea12f701046935d19d6baf3"
+hash = "cd9886e0f393bb3f815de645d5fbd8e7349e1e879526c27b33a8b727603af652"
 metafile = true
 
 [[files]]
@@ -251,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/xalis-enhanced-jungle-wood.pw.toml"
-hash = "9c83708bda22ded3c24b2213eab579f3eadbe04fd31219e3831181fb2b7dfe38"
+hash = "933c42950f79cf6f5390a8ca6d7613d9f2c163ac9d5eca2659f18a09607c986e"
 metafile = true
 
 [[files]]

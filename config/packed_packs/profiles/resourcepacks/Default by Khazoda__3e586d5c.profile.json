@@ -1,0 +1,22 @@
+{
+  "locked": false,
+  "name": "Default by Khazoda",
+  "overrides": {},
+  "packIds": [
+    "file/Overgrown Moss Carpet 2.2.zip",
+    "file/Simple Grass Flowers v1.9.6.zip",
+    "file/better_flame_particles-v3.1-mc1.21.9+-resourcepack.zip",
+    "file/Clean Connected Glass [1.21.5+].zip",
+    "file/Terracotta Titlescreen.zip",
+    "file/FreshAnimations_v1.10.1.zip",
+    "file/animated-items-1.21.9-10 - 1.5.3.zip",
+    "file/§9RAY\u0027s §f3D §6Ladders§8§o§k.zip",
+    "file/xali\u0027s Enhanced Jungle Wood v1.2.zip",
+    "file/Banner Pattern Clarity v1.6.zip",
+    "file/Os\u0027 Colorful Cobblestone.zip",
+    "file/Os\u0027 Crops.zip",
+    "file/Os\u0027 Shulkers.zip",
+    "fabric",
+    "vanilla"
+  ]
+}
