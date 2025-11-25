@@ -55,12 +55,12 @@ metafile = true
 
 [[files]]
 file = "mods/basic-weapons.pw.toml"
-hash = "444bfc0034a825d3be7968cfd25e22501077c78f3f68fdbfa5c81634d6a54ffe"
+hash = "ba89334c321a6ac8667337a9ed9b4610df88e9f2cea5ac1d1d984342288683d6"
 metafile = true
 
 [[files]]
 file = "mods/breakerplacer.pw.toml"
-hash = "96069a9d61be6c2f5044c2a3bd3485de95e1e4a01ce7d970aa75facbc93c264c"
+hash = "fe2b8e1856d55a364937c88dee5741a93488dfa9802903d439cdb2b201e31d3b"
 metafile = true
 
 [[files]]
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
-hash = "2e649309dc7e6372d29d7e9887e92f04b2f89a76d9ca79680ff0b838f9bb0fa1"
+hash = "348284f9e32f1827364efbf0053cee3b127c3d1db371554b118ab35c965d4c3d"
 metafile = true
 
 [[files]]
@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "4f57108f9e1c6281cfdaf3812e6bc2a2f16609a845c9912218ada90b1603e1b3"
+hash = "bb7064282571976ed2bbe266bcf5e525d6d661aeea89649e4d604327973cf92d"
 metafile = true
 
 [[files]]

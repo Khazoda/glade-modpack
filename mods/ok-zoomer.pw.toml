@@ -1,13 +1,13 @@
 name = "Ok Zoomer"
-filename = "ok_zoomer-fabric-15.0.0-beta.4.jar"
+filename = "ok_zoomer-fabric-15.0.0-beta.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/aXf2OSFU/versions/dOCS7VBn/ok_zoomer-fabric-15.0.0-beta.4.jar"
+url = "https://cdn.modrinth.com/data/aXf2OSFU/versions/97vlRtL9/ok_zoomer-fabric-15.0.0-beta.5.jar"
 hash-format = "sha512"
-hash = "d98a71c898a96ea85f6f92531f9a1e478302e0b8d6b4da53848eb33db6d637fe46afb342dfeb099b0216200d16aae4930d15f3e212441d0dd594fd9e055a28b3"
+hash = "e60a2f863861694b5b825a50769ab4604eaf6890bcc8a1a1fbca50f3a321557cb786ff5662be261ef59fc15c79003171bbaaec134a86a7ecb534dbe944bb8a84"
 
 [update]
 [update.modrinth]
 mod-id = "aXf2OSFU"
-version = "dOCS7VBn"
+version = "97vlRtL9"
