@@ -80,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/coolrain.pw.toml"
-hash = "668112f144c715f255eadf45e4bfeacd7804d275a5a8d829efaa2dcdc0353ce0"
+hash = "66aff45f8d5bcef09f0af464c1f605a89c1d26de657343853d991380aabb5339"
 metafile = true
 
 [[files]]
@@ -105,12 +105,12 @@ metafile = true
 
 [[files]]
 file = "mods/heirlooms.pw.toml"
-hash = "09bb37f9845ffd292e0ca356794952ff2ba48f575a0f29a419d7f7d846aa3876"
+hash = "97e6b43ea04cd0c135a624418534723de4ed4a9858f001c6c3169f41fbc7d61a"
 metafile = true
 
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
-hash = "0d0f7c8bec24c453c31d15c05418f15ba48b4576a327510c315eae81fa5de9b0"
+hash = "aa7027131f324c52d9dd304b26c886827c4db42233b3c913162c042d0b9b7bb0"
 metafile = true
 
 [[files]]
@@ -235,11 +235,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/os-colorful-cobblestone.pw.toml"
 hash = "70078c31ed7a67d0de937e379d2ec2af9e9b7242606ed32a5ad82c59d5e40885"
-metafile = true
-
-[[files]]
-file = "resourcepacks/os-crops.pw.toml"
-hash = "668294ed791195592bfcdc940a63292b99df8a497ef7495ccbd8cda9e4743a47"
 metafile = true
 
 [[files]]
