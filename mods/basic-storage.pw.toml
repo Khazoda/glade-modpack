@@ -1,13 +1,13 @@
 name = "Basic Storage"
-filename = "basicstorage-2.0.1+1.21.10.jar"
+filename = "basicstorage-fabric-2.3.0+1.21.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NMOanmPo/versions/fhz0jQOg/basicstorage-2.0.1%2B1.21.10.jar"
+url = "https://cdn.modrinth.com/data/NMOanmPo/versions/mhJA00hq/basicstorage-fabric-2.3.0%2B1.21.11.jar"
 hash-format = "sha512"
-hash = "ff2495aa04087fe9d9d8c70e4f7ed42e51f9e253f7f26ee39eee86ebadcf96191137b052341bda5634013e1edff8a162cf3996ce0e2d26bb61a78a1090039caa"
+hash = "0e764271fdb3f1377aee240971e10741515cf48bd58151d537f0fbfe00734c2f730780113fdb650edb680e8efe1571e6a098cb43377d2d2e74419b173b67738a"
 
 [update]
 [update.modrinth]
 mod-id = "NMOanmPo"
-version = "fhz0jQOg"
+version = "mhJA00hq"

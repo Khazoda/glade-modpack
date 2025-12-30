@@ -1,18 +1,18 @@
 name = "Glade"
 author = "Khazoda"
-version = "2.0.7"
+version = "2.0.8"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "fa0d696ddd5a872a1d034587c94489240a5f0abff8a622398a6c6f94c4f28fc8"
+hash = "0941ac632183be84b343a00df21f599ca3016127bcea44edcd5d81d943941c23"
 
 [versions]
-fabric = "0.17.3"
-minecraft = "1.21.10"
+fabric = "0.18.4"
+minecraft = "1.21.11"
 
 [options]
-acceptable-game-versions = ["1.21.10"]
+acceptable-game-versions = ["1.21.11"]
 datapack-folder = "basicweapons_materialpacks/"
 no-internal-hashes = ["global_packs/required_resources/*"]
