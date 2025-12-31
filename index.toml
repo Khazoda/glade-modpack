@@ -184,11 +184,6 @@ hash = "dd8c7eed10a3639d76595603142e1d18f6d26262747138c9442d70311006be5e"
 metafile = true
 
 [[files]]
-file = "mods/sound-physics-perfected.pw.toml"
-hash = "b26ed251def3731853abab08ad90c616408c0a202c596b862b593e889d39d8cc"
-metafile = true
-
-[[files]]
 file = "mods/yacl.pw.toml"
 hash = "6b2e6c4faa6fa928c5c5c582752b80401e418d4f897839b7d0338acc08e94803"
 metafile = true
