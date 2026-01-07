@@ -1,13 +1,13 @@
 name = "Basic Weapons"
-filename = "basicweapons-fabric-2.3.0+1.21.11.jar"
+filename = "basicweapons-fabric-2.3.1+1.21.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sc2Pektv/versions/vWZfYlGa/basicweapons-fabric-2.3.0%2B1.21.11.jar"
+url = "https://cdn.modrinth.com/data/sc2Pektv/versions/yNSKyv5e/basicweapons-fabric-2.3.1%2B1.21.11.jar"
 hash-format = "sha512"
-hash = "9dd4f235552971248dbd65b01f1946b3d72ee35d48bdc71437af9d3a10a64a35f91569bca4a41a4a72aaa9cbc106b4004d3eb29c0685cc6baddd1bcb509881e2"
+hash = "c5809c5d730d84889c9dd5241b776044075b5da47d2018c9f34edb407f86f57db10739d5b9abf95eec3e2364f6453a7b66d6dc6efe1c6fd38072efa70a202374"
 
 [update]
 [update.modrinth]
 mod-id = "sc2Pektv"
-version = "vWZfYlGa"
+version = "yNSKyv5e"

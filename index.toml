@@ -40,17 +40,17 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "5d0603e338ddb39ddbac6c1732639c6b55c968e6a9dc9aab981dcae5ad3c34cf"
+hash = "2d58b7783694c38d8264f263b9ee1f8b31c1aa9dd98866deb20719b252dc4b47"
 metafile = true
 
 [[files]]
 file = "mods/basic-storage.pw.toml"
-hash = "f2addc23727e3ee58d427d37b02d356a8d528cde6fc4f63c1ce2461ee11f71f7"
+hash = "928ebd55c80bedb7372e7c15adb288a7916be2e7022f970eb078db76b293de53"
 metafile = true
 
 [[files]]
 file = "mods/basic-weapons.pw.toml"
-hash = "cfe1b55b85e73f668aaf97d20e91b37bbed7c0cede4b2456010a3a0714d18b3e"
+hash = "7b85d5401c2eec9fbbe0cbb1e1440449f474513077c6d2dde25526c2e3d527be"
 metafile = true
 
 [[files]]
@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/bronze.pw.toml"
-hash = "2631b0aee71ad3625cf8a6c845dc537c9b219506046abccda8d46b9eaa09310a"
+hash = "6a3fc3c987f7b52367983d50ccaefa40bc9bcb5b2754056a9e1bb0caaa3b96be"
 metafile = true
 
 [[files]]
@@ -90,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7adc0d54f139075d8f90dae18ca476753cc3145a70e09c9327736024adfe9b30"
+hash = "39b4f43a271700276ff1ae632cf05f90b85f79670d955b50ced036e363a0efe9"
 metafile = true
 
 [[files]]
