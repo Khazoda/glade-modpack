@@ -1,16 +1,18 @@
-## How to Publish a Release
+# GitHub Workflow Setup
 
-1. **Update `pack.toml`** - Bump the `version` field up
+## Setup
 
-2. **Update `CHANGELOG.md`** - Add release notes at the top
+### Modrinth API Token
 
-3. **Click the "Build & Publish Modpack" button:**
-   - Go to **Actions** tab
-   - Click **"Build & Publish Modpack"**
-   - Click **"Run workflow"** → **"Run workflow"**
+1. Go to [Modrinth Settings](https://modrinth.com/settings/account)
+2. Create token with scopes: `CREATE_VERSION`, `VERSION_WRITE`
 
-The workflow will:
-- ✅ Build the `.mrpack` file
-- ✅ Create a GitHub release with the provided changelog
-- ✅ Publish to Modrinth
-- ✅ Feature the new version and unfeature old ones
+### Add GitHub Secrets
+
+Repository → Settings → Secrets and variables → Actions:
+- `MODRINTH_TOKEN` - Your Modrinth API token
+- `MODRINTH_PROJECT_ID` - Your project ID (from URL)
+
+## Usage
+
+After pushing changes: Actions → Build & Publish Modpack → Run workflow

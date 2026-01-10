@@ -48,13 +48,18 @@ jobs:
           mkdir -p releases
           packwiz mr export -o "releases/${{ steps.pack_info.outputs.output_file }}"
 
+      - name: Extract version-specific changelog
+        run: |
+          chmod +x .github/scripts/extract-changelog.sh
+          .github/scripts/extract-changelog.sh "${{ steps.pack_info.outputs.version }}"
+
       - name: Create GitHub Release
         id: create_release
         uses: softprops/action-gh-release@v1
         with:
           tag_name: v${{ steps.pack_info.outputs.version }}
           name: Glade ${{ steps.pack_info.outputs.version }}
-          body_path: CHANGELOG.md
+          body_path: current-changelog.md
           files: releases/${{ steps.pack_info.outputs.output_file }}
           draft: false
           prerelease: false
@@ -76,4 +81,4 @@ jobs:
           loaders: fabric
           game-versions: ${{ steps.pack_info.outputs.mc_version }}
           
-          changelog-file: CHANGELOG.md
+          changelog-file: current-changelog.md

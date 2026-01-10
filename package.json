@@ -1,12 +1,14 @@
 {
   "name": "modpack-builder",
   "displayName": "Modpack Builder",
-  "description": "'npm run build' to create a release with the version set in pack.toml in releases/",
+  "description": "Glade modpack development scripts",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.60.0"
   },
   "scripts": {
-    "build": "powershell .\\.vscode\\BuildRelease.ps1"
+    "build": "powershell .\\.vscode\\BuildRelease.ps1",
+    "test": "powershell .\\.github\\test-workflow-locally.ps1",
+    "release": "powershell .\\.vscode\\PrepareRelease.ps1"
   }
 }
