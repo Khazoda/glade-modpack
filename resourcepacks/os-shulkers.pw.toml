@@ -1,0 +1,13 @@
+name = "Os' Shulkers"
+filename = "Os' Shulkers.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BBuGmjH2/versions/dHEtYK3r/Os%27%20Shulkers.zip"
+hash-format = "sha512"
+hash = "53eabe333cbe8be4154547b0292b11f8a1058ed6c513aca5e93047a68458bb0ce905dc67ecddaebeae5bae0ce37ad71c5fb00abe5030329d8da949584a7a0656"
+
+[update]
+[update.modrinth]
+mod-id = "BBuGmjH2"
+version = "dHEtYK3r"

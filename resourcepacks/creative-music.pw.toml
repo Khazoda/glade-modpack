@@ -1,0 +1,13 @@
+name = "Creative Music"
+filename = "Creative Music.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/s9Vtgqmo/versions/NAk3Q2b1/Creative%20Music.zip"
+hash-format = "sha512"
+hash = "4a89871f3ec592ce3a4f32bdc3c17fd8edd1358389c4e225879fc340679da11deecf8fc346468a330bbead818224e106de95c5e31e0b4f812d146497c21c4696"
+
+[update]
+[update.modrinth]
+mod-id = "s9Vtgqmo"
+version = "NAk3Q2b1"

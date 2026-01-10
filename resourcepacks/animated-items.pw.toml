@@ -1,0 +1,13 @@
+name = "Animated Items"
+filename = "animated-items 1.21.x - v1.5.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uBBepXuH/versions/ldNQD8Jz/animated-items%201.21.x%20-%20v1.5.4.zip"
+hash-format = "sha512"
+hash = "148e38bcd379f5a1b51e10441cab63fe19e4cc9bc0629c838c2b3c7cc3f513e06e33e513f469cbb908638a14e465b87c8c6017a62d090e105afed63da595c0dc"
+
+[update]
+[update.modrinth]
+mod-id = "uBBepXuH"
+version = "ldNQD8Jz"

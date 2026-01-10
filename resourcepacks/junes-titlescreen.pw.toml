@@ -1,0 +1,13 @@
+name = "June's Titlescreen"
+filename = "Terracotta Titlescreen.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1IxplSHe/versions/CKhu4AHz/Terracotta%20Titlescreen.zip"
+hash-format = "sha512"
+hash = "d50abcbd8e92523f466032709bab73004483bc9e76164f7c67afc414f8e58df479ed80f8c9a227601c7bf0c65599a34a30036fe8843b3d9b80c43d1ef863fb65"
+
+[update]
+[update.modrinth]
+mod-id = "1IxplSHe"
+version = "CKhu4AHz"
