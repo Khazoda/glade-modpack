@@ -163,6 +163,59 @@ function Prepare-Release {
     
     packwiz refresh
     
+    # Clean up empty sections in CHANGELOG.md
+    Write-Host "`nCleaning up changelog..."
+    $changelogLines = Get-Content "CHANGELOG.md"
+    $cleanedLines = @()
+    $skipSection = $false
+    $inCodeBlock = $false
+    $sectionLines = @()
+    
+    for ($i = 0; $i -lt $changelogLines.Count; $i++) {
+        $line = $changelogLines[$i]
+        
+        # Detect section headers
+        if ($line -match '^### (Added|Removed|Updated)$') {
+            $skipSection = $false
+            $sectionLines = @($line)
+            $inCodeBlock = $false
+            continue
+        }
+        
+        # Handle code blocks
+        if ($line -eq '```') {
+            if (-not $inCodeBlock) {
+                $inCodeBlock = $true
+                $sectionLines += $line
+            } else {
+                # Closing code block - check if empty
+                $sectionLines += $line
+                $codeContent = $sectionLines | Where-Object { $_ -ne '```' -and $_ -notmatch '^###' }
+                
+                if ($codeContent.Count -eq 0 -or ($codeContent -join '').Trim() -eq '') {
+                    # Empty section, skip it
+                    $skipSection = $true
+                } else {
+                    # Has content, keep it
+                    $cleanedLines += $sectionLines
+                }
+                
+                $sectionLines = @()
+                $inCodeBlock = $false
+            }
+            continue
+        }
+        
+        # Accumulate section lines
+        if ($sectionLines.Count -gt 0) {
+            $sectionLines += $line
+        } else {
+            $cleanedLines += $line
+        }
+    }
+    
+    $cleanedLines | Out-File "CHANGELOG.md" -Encoding utf8
+    
     $NAME = (Select-String -Path .\pack.toml -Pattern 'name\s*=\s*"([^"]+)"').Matches.Groups[1].Value -replace ' ', '-'
     $MC_VERSION = (Select-String -Path .\pack.toml -Pattern 'minecraft\s*=\s*"([^"]+)"').Matches.Groups[1].Value
     $OUTPUT_FILE = "${NAME}_${version}+${MC_VERSION}.mrpack"

@@ -1,44 +1,32 @@
 # Local Scripts
 
-##PrepareRelease.ps1
+## ManageModpack.ps1
 
-Prepares a release:
-- Updates `pack.toml` version
-- Runs `packwiz update -a -y`
-- Auto-detects and logs updated mods to CHANGELOG.md
+Interactive modpack manager with menu:
 
 ```powershell
-.\PrepareRelease.ps1 -Version "2.0.12"
+.\ManageModpack.ps1
 ```
 
-## AddMod.ps1
+Or use: `npm run manage`
 
-Adds a mod and updates CHANGELOG.md:
+Options:
+1. Add mod
+2. Remove mod
+3. Set new version
+4. Prepare release
+5. Exit
 
-```powershell
-.\AddMod.ps1
-```
+All operations auto-update CHANGELOG.md.
 
-Prompts for platform (modrinth/curseforge) and mod ID.
+## Update-Changelog.ps1
 
-## RemoveMod.ps1
-
-Removes a mod and updates CHANGELOG.md:
-
-```powershell
-.\RemoveMod.ps1
-```
-
-Prompts for mod name to remove.
+Helper function used by ManageModpack.ps1 to append mod names to CHANGELOG.md sections.
 
 ## BuildRelease.ps1
 
-Builds .mrpack with current pack.toml version:
+Quick build with current version:
 
 ```powershell
 .\BuildRelease.ps1
 ```
-
-## Update-Changelog.ps1
-
-Helper function used by other scripts to append mod names to CHANGELOG.md sections.

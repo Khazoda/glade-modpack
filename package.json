@@ -7,7 +7,6 @@
     "vscode": "^1.60.0"
   },
   "scripts": {
-    "manage": "powershell .\\.vscode\\ManageModpack.ps1",
-    "release": "powershell .\\.vscode\\PrepareRelease.ps1"
+    "manage": "powershell .\\.vscode\\ManageModpack.ps1"
   }
 }
