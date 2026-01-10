@@ -1,39 +1,22 @@
-# Changelog
+﻿# Changelog
 
-## [2.0.12] - 2026-01-10
-
-### Added
-```
--
-```
-
-### Removed
-```
--
-```
-
-### Updated
-```
--
-
-```
----
 
 ## [2.0.11] - 2026-01-10
 
 ### Added
 ```
--
 ```
 
 ### Removed
 ```
--
+- Motschen's Better Leaves
+- Better Flame Particles
+- Animated Items
 ```
 
 ### Updated
 ```
--
-
+- Basic Storage: basicstorage-2.4.0+1.21.11.jar -> basicstorage-2.4.1+1.21.11.jar
 ```
+
 ---

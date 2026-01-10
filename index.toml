@@ -181,22 +181,8 @@ hash = "1113d43c39a9866252a83ee50d16aa3ce6fcf749acd84d58b05ca09eba4d187b"
 metafile = true
 
 [[files]]
-file = "package.json"
-hash = "45d90d2f5f54d2f9c29bf6e999913b0653e25f75fbb4c87e1b4d7c3d516231ad"
-
-[[files]]
-file = "resourcepacks/animated-items.pw.toml"
-hash = "e28f55f913a8f3955e3947d050bd80f444d7cc9d6d0f52d6764230090e432ca3"
-metafile = true
-
-[[files]]
 file = "resourcepacks/banner-pattern-clarity.pw.toml"
 hash = "80bfa8aa195545fde0596332d114c26fb74510282af534b02a82d0638f846164"
-metafile = true
-
-[[files]]
-file = "resourcepacks/better-flame-particles.pw.toml"
-hash = "0e478f1b8d0fe6eb65fbdf20aa74e0e40e3f6b9100ee6f9737648a79fb05b262"
 metafile = true
 
 [[files]]
