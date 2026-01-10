@@ -9,7 +9,6 @@ Main workflow: builds modpack, creates release, publishes to Modrinth.
 ## scripts/
 
 - `extract-changelog.sh` - Extracts version section from CHANGELOG.md
-- `generate-changelog.sh` - Auto-generates changelog from git diffs
 
 ## test-workflow-locally.ps1
 

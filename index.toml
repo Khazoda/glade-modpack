@@ -36,13 +36,13 @@ hash = "2d58b7783694c38d8264f263b9ee1f8b31c1aa9dd98866deb20719b252dc4b47"
 metafile = true
 
 [[files]]
-file = "mods/basic-storage.pw.toml"
-hash = "56b61b44367b8a29d18fc196efb80a5196bf96751bc728f71feda22fb828afcf"
+file = "mods/basic-weapons.pw.toml"
+hash = "7b85d5401c2eec9fbbe0cbb1e1440449f474513077c6d2dde25526c2e3d527be"
 metafile = true
 
 [[files]]
-file = "mods/basic-weapons.pw.toml"
-hash = "7b85d5401c2eec9fbbe0cbb1e1440449f474513077c6d2dde25526c2e3d527be"
+file = "mods/basicstorage.pw.toml"
+hash = "56b61b44367b8a29d18fc196efb80a5196bf96751bc728f71feda22fb828afcf"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "package.json"
-hash = "3cffa3f338a72948d4e69041b335635b30942169f21fd26bc3f1894e3f389594"
+hash = "45d90d2f5f54d2f9c29bf6e999913b0653e25f75fbb4c87e1b4d7c3d516231ad"
 
 [[files]]
 file = "resourcepacks/animated-items.pw.toml"

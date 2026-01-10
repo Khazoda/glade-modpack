@@ -3,6 +3,11 @@
 
 /README.md
 /CHANGELOG.md
+/PUBLISH_RELEASE.md
+
+/package.json
+/package-lock.json
+
 /BuildRelease.ps1
 /BuildRelease.sh
 /pack.toml
