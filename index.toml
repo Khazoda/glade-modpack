@@ -1,26 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/README.md"
-hash = "014aab6a00e49c26120e459554b2596deec9fd3d43943c39d905966666cf94ee"
-
-[[files]]
-file = ".github/workflows/publish.yml"
-hash = "c83443a361bddc9e2d773242989a220db627dea31fadc6626b98817fa523a644"
-
-[[files]]
-file = ".vscode/BuildRelease.ps1"
-hash = "8035f8eea9ba640224ae97450bda556eef98c9c37789ef171e7e885ccbaeef5a"
-
-[[files]]
-file = ".vscode/BuildRelease.sh"
-hash = "a208b4e64f8e37b31cf46b7aa64c1c87b453624dc24ecc7651f1f494113806aa"
-
-[[files]]
-file = "CHANGELOG.md"
-hash = "146f4a71ba9da47a4f2582cd5f5010876ec0b7cd8ac295cb45e880106428a6a3"
-
-[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "44adc6e46c5c2eb346566b12564ccdb146127af1d8a279265c89810312688058"
 
