@@ -36,13 +36,13 @@ hash = "2d58b7783694c38d8264f263b9ee1f8b31c1aa9dd98866deb20719b252dc4b47"
 metafile = true
 
 [[files]]
-file = "mods/basic-storage.pw.toml"
-hash = "56b61b44367b8a29d18fc196efb80a5196bf96751bc728f71feda22fb828afcf"
+file = "mods/basic-weapons.pw.toml"
+hash = "7b85d5401c2eec9fbbe0cbb1e1440449f474513077c6d2dde25526c2e3d527be"
 metafile = true
 
 [[files]]
-file = "mods/basic-weapons.pw.toml"
-hash = "7b85d5401c2eec9fbbe0cbb1e1440449f474513077c6d2dde25526c2e3d527be"
+file = "mods/basicstorage.pw.toml"
+hash = "56b61b44367b8a29d18fc196efb80a5196bf96751bc728f71feda22fb828afcf"
 metafile = true
 
 [[files]]
@@ -181,22 +181,8 @@ hash = "1113d43c39a9866252a83ee50d16aa3ce6fcf749acd84d58b05ca09eba4d187b"
 metafile = true
 
 [[files]]
-file = "package.json"
-hash = "3cffa3f338a72948d4e69041b335635b30942169f21fd26bc3f1894e3f389594"
-
-[[files]]
-file = "resourcepacks/animated-items.pw.toml"
-hash = "e28f55f913a8f3955e3947d050bd80f444d7cc9d6d0f52d6764230090e432ca3"
-metafile = true
-
-[[files]]
 file = "resourcepacks/banner-pattern-clarity.pw.toml"
 hash = "80bfa8aa195545fde0596332d114c26fb74510282af534b02a82d0638f846164"
-metafile = true
-
-[[files]]
-file = "resourcepacks/better-flame-particles.pw.toml"
-hash = "0e478f1b8d0fe6eb65fbdf20aa74e0e40e3f6b9100ee6f9737648a79fb05b262"
 metafile = true
 
 [[files]]
