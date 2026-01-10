@@ -15,10 +15,12 @@ jobs:
 
       - name: Install packwiz
         run: |
-          PACKWIZ_VERSION="v0.21.0"
-          wget -q "https://github.com/packwiz/packwiz/releases/download/${PACKWIZ_VERSION}/packwiz-linux-amd64" -O packwiz
+          # Download latest packwiz build from GitHub Actions artifacts
+          wget -q "https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip" -O packwiz.zip
+          unzip -q packwiz.zip
           chmod +x packwiz
           sudo mv packwiz /usr/local/bin/
+          echo "Installed packwiz version:"
           packwiz --version
 
       - name: Extract pack information
