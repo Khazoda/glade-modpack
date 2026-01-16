@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "2d58b7783694c38d8264f263b9ee1f8b31c1aa9dd98866deb20719b252dc4b47"
+hash = "a4fa394020116893d1d6bbea9ef304fe3fea55348c81a7cd62de3ccba55adadd"
 metafile = true
 
 [[files]]
@@ -102,12 +102,17 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
-hash = "688f8c5082868dec2b0dd5a9d01ddb8fac46a1578d6a4afbb9a32b79cdb3c04a"
+hash = "c19e0be040b35bace6ff361b911aac1e550af47064205d5ef77ac061f889e3fb"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "b7d33095f206cb34dc8cd3d5410a00597439a2fc793f4c158c7a2ecfc7e85e82"
+metafile = true
+
+[[files]]
+file = "mods/lightweight-inventory-sorting.pw.toml"
+hash = "72d213adea8b2b945500de807db8360bfa34ae3b0e0d766287cd7084fbcacd63"
 metafile = true
 
 [[files]]
