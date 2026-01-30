@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "ed50f3b3feba91fa31915aefb40690bc322f37be83490e6b59a443e83a46a542"
+hash = "ca3ae2608987185814c118388f28057f729d866ee1abbc97f3650141d213fa35"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "39b4f43a271700276ff1ae632cf05f90b85f79670d955b50ced036e363a0efe9"
+hash = "241cece83d6a3c7c0338a9b625972ee25747d14684810778bc64d9613f7a49a1"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/heirlooms.pw.toml"
-hash = "39b9171eeb7fae3265a88755e4d9541cc712d71015fc1f0ee88a04756edf42a4"
+hash = "610e9fa0e4aab8a4f3063646128e0132ab416cad474105a20ecea95480df8d5f"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "b7d33095f206cb34dc8cd3d5410a00597439a2fc793f4c158c7a2ecfc7e85e82"
+hash = "276947b1f9933ca2220a00736aba177e4034ca9a45cad9f258abf762fdb3bb0b"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
-hash = "ee0b54d23f802ea714ecfe71c62421ca00d3b49699324bb01defab4868d529f0"
+hash = "539f79184cc2be47e205276ea5e5eb46fafa4f2ee1061fd14993fa29d0d0134a"
 metafile = true
 
 [[files]]
@@ -153,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "526836880e4bfb6f98fad732b2aa5a2b7d4ea6cbe9238be6a956f82472e9b934"
+metafile = true
+
+[[files]]
+file = "mods/picture-mode.pw.toml"
+hash = "4b283ab6e6c08483c2e9e3a79e18beaafcbc751b98bbcb12dc2c317a53044d48"
 metafile = true
 
 [[files]]
@@ -177,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "dd8c7eed10a3639d76595603142e1d18f6d26262747138c9442d70311006be5e"
+hash = "9d340481c374a20067d1748c1a4991626bce9d7812f0bdb96072cd7a15d35462"
 metafile = true
 
 [[files]]
@@ -192,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/clean-connected-glass.pw.toml"
-hash = "b8b533648154d4f46fd0455ce618506adf01c78317dbaf710608d2ddf22fb53e"
+hash = "7f9de9ed2389d69c334c92e2c369251a009ff92ab27c0550a35e7fc12e7dd2df"
 metafile = true
 
 [[files]]
@@ -246,5 +251,5 @@ hash = "517f49cdba62f6f0a5c7e496e46db88c9a86445ccc2f63531cdd492d11c3f799"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "134b3cee2ac2b5c5b9d02d8d70e8e4ba32c7c241f5bc51209521831a7c254e22"
+hash = "5caf93fa1624aeb26d11cdbadcb0c03b2a92815c798a930014774c7d525baf28"
 metafile = true
