@@ -5,7 +5,10 @@
 
 ## [2.0.13] - 2026-01-30
 
-
+### Added
+```
+- Picture Mode
+```
 
 ### Updated
 ```
@@ -25,7 +28,6 @@
 ### Added
 ```
 - Lightweight Inventory Sorting
-- Picture Mode
 ```
 
 
