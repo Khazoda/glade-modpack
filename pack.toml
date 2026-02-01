@@ -1,12 +1,12 @@
 name = "Glade"
 author = "Khazoda"
-version = "2.0.13"
+version = "2.0.14"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ad73a206b6262dcca116b6c11c0e1f181e95c028e9b293633bf52a52f4ef55df"
+hash = "8f173225c4e4dc8274c3d94f20060eb0fd4bfc74ff97eb714f01725106a1a6a5"
 
 [versions]
 fabric = "0.18.4"

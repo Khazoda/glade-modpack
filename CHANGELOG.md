@@ -3,6 +3,23 @@
 
 
 
+
+## [2.0.14] - 2026-02-01
+
+### Added
+```
+- Better Ping Display [Fabric]
+- Chat Animation [Smooth Chat]
+- Fast IP Ping
+```
+
+
+### Updated
+```
+- Locator Heads: locator-heads-1.6.3.jar -> locator-heads-1.6.4.jar
+```
+
+---
 ## [2.0.13] - 2026-01-30
 
 ### Added

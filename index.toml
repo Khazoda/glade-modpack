@@ -14,7 +14,7 @@ hash = "ff1af1feb9eedcd133d8d0f6e1964e72e7574260ec28fa60c0ceeb7ce9410fca"
 
 [[files]]
 file = "config/packed_packs/profiles/resourcepacks/Default by Khazoda__3e586d5c.profile.json"
-hash = "7e129da6ec46b1bc4ed762d10208bdd074e19fc07c7e8d706efb971588459494"
+hash = "0e0736a89260dab2b482133da07a4d06741db44e8ecb6c9d79907a71b02034ae"
 
 [[files]]
 file = "config/particlerain.json"
@@ -46,6 +46,11 @@ hash = "56b61b44367b8a29d18fc196efb80a5196bf96751bc728f71feda22fb828afcf"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "222051963124274280e95417029d355d16cd6806af884217f834a6d599af6dc9"
+metafile = true
+
+[[files]]
 file = "mods/breakerplacer.pw.toml"
 hash = "3cb7ed0b255bf296ae15b453220c1895ceb3aa74ccfb77bb68a88fbbbb1147a2"
 metafile = true
@@ -53,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/bronze.pw.toml"
 hash = "6a3fc3c987f7b52367983d50ccaefa40bc9bcb5b2754056a9e1bb0caaa3b96be"
+metafile = true
+
+[[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "9854603f767980c514aefe9c391a6d3fa89dc6be18d23ab462f2a3bbabe7652c"
 metafile = true
 
 [[files]]
@@ -91,6 +101,11 @@ hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
 metafile = true
 
 [[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "87dea750205910be6e5184ca4cdc3a3f2f439364435408b8e7a1036fdf3c28fc"
+metafile = true
+
+[[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "2648b8d20ce78979be2c7f67914872610f6c67506ba7eb909fae38b5d20db13d"
 metafile = true
@@ -117,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/locator-heads.pw.toml"
-hash = "3dae24b3d4a5d4a99b5cf5629d5df236e128fddaef9c6202a19f0136769a1bb2"
+hash = "456c5d17b5a7df47104822eeba8741265e9301d22acd79b9fee2a5870a4f60a5"
 metafile = true
 
 [[files]]
