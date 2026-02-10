@@ -4,6 +4,25 @@
 
 
 
+
+## [2.0.15] - 2026-02-10
+
+### Added
+```
+- Nether Material Pack for Basic Weapons
+- Emerald Material Pack for Basic Weapons
+```
+
+
+### Updated
+```
+- Fabric API: fabric-api-0.141.2+1.21.11.jar -> fabric-api-0.141.3+1.21.11.jar
+- Fabric Language Kotlin: fabric-language-kotlin-1.13.8+kotlin.2.3.0.jar -> fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar
+- Cool Rain: coolrain-1.3.1-1.21.11.jar -> coolrain-1.4.0-1.21.11.jar
+- Basic Weapons: basicweapons-fabric-2.3.1+1.21.11.jar -> basicweapons-fabric-2.3.2+1.21.11.jar
+```
+
+---
 ## [2.0.14] - 2026-02-01
 
 ### Added
