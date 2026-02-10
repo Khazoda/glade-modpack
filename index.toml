@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/basic-weapons.pw.toml"
-hash = "afa5aa2cd4454788ce661a85db6cbb3379d956f0a74f20fcd9c749ad83df094c"
+hash = "2e91850eb0ef110941e71a873496e49a081d8178712788161292f297519ceb1f"
 metafile = true
 
 [[files]]

@@ -5,6 +5,17 @@
 
 
 
+
+## [2.0.16] - 2026-02-10
+
+
+
+### Updated
+```
+- Basic Weapons: basicweapons-fabric-2.3.2+1.21.11.jar -> basicweapons-fabric-2.3.3+1.21.11.jar
+```
+
+---
 ## [2.0.15] - 2026-02-10
 
 ### Added
