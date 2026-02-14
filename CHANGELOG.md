@@ -6,6 +6,19 @@
 
 
 
+
+## [2.0.17] - 2026-02-14
+
+
+
+### Updated
+```
+- Basic Weapons: basicweapons-fabric-2.3.3+1.21.11.jar -> basicweapons-fabric-2.3.4+1.21.11.jar
+- June's Titlescreen: Terracotta Titlescreen.zip -> Terracotta Titlescreen.zip
+- Inventory Essentials: inventoryessentials-fabric-1.21.11-21.11.3.jar -> inventoryessentials-fabric-1.21.11-21.11.4.jar
+```
+
+---
 ## [2.0.16] - 2026-02-10
 
 

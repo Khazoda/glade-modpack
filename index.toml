@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/basic-weapons.pw.toml"
-hash = "2e91850eb0ef110941e71a873496e49a081d8178712788161292f297519ceb1f"
+hash = "3656e3e87f8617e86653cc3bf1054258fcf801127e0e9b35a141d18a0adff121"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
-hash = "c19e0be040b35bace6ff361b911aac1e550af47064205d5ef77ac061f889e3fb"
+hash = "4c9247b61eb3a248eefa9b6245e465f8dd4dbbc69fca686eeb199a145b3d7346"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/junes-titlescreen.pw.toml"
-hash = "fdb3c7ed403d7971e45aed057c05604420accb5e0561e96f13a4c052854fe153"
+hash = "d1be2738eb43b5f2080b290104e063e3e97ba7476ac6bf8390a821442f3397f9"
 metafile = true
 
 [[files]]

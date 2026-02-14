@@ -3,11 +3,11 @@ filename = "Terracotta Titlescreen.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/1IxplSHe/versions/CKhu4AHz/Terracotta%20Titlescreen.zip"
+url = "https://cdn.modrinth.com/data/1IxplSHe/versions/dUmQOE4M/Terracotta%20Titlescreen.zip"
 hash-format = "sha512"
-hash = "d50abcbd8e92523f466032709bab73004483bc9e76164f7c67afc414f8e58df479ed80f8c9a227601c7bf0c65599a34a30036fe8843b3d9b80c43d1ef863fb65"
+hash = "753a72eb3004546cb511dccf3d6f151285cb66d3788bae45f105524a7929553971c2868168fd45c1bbb5b364402331938e77b716e748ad40cba2c5c0cf12291d"
 
 [update]
 [update.modrinth]
 mod-id = "1IxplSHe"
-version = "CKhu4AHz"
+version = "dUmQOE4M"
