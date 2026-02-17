@@ -1,13 +1,13 @@
 name = "Block Breaker & Block Placer"
-filename = "breakerplacer-fabric-1.0.6+1.21.11.jar"
+filename = "breakerplacer-1.0.7+1.21.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DqAjYL65/versions/vMuR0RIP/breakerplacer-fabric-1.0.6%2B1.21.11.jar"
+url = "https://cdn.modrinth.com/data/DqAjYL65/versions/2F9FomWF/breakerplacer-1.0.7%2B1.21.11.jar"
 hash-format = "sha512"
-hash = "497903c299a8c0765aa491d18d1c034ceff25e514d553e7f3c1ab7246c3c74d31a4a5dbea97bbc50e27b7e1e26c57358cf22c63b721e140e7bfe40b1248c7cbf"
+hash = "c22ee9f5628846828b056dee871688cd9ca00d187ae05f2a96f2ce25047ef7e5aee14edeb50d0cdee2352147e826c041e81953445e541f9c599c3b2e7e0a5706"
 
 [update]
 [update.modrinth]
 mod-id = "DqAjYL65"
-version = "vMuR0RIP"
+version = "2F9FomWF"

@@ -1,13 +1,13 @@
 name = "Bronze"
-filename = "bronze-fabric-2.1.5+1.21.11.jar"
+filename = "bronze-fabric-2.1.6+1.21.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6pVlXMty/versions/Kz8ArmdZ/bronze-fabric-2.1.5%2B1.21.11.jar"
+url = "https://cdn.modrinth.com/data/6pVlXMty/versions/pYbzcsqu/bronze-fabric-2.1.6%2B1.21.11.jar"
 hash-format = "sha512"
-hash = "f39a8fb209fd37ff66b4e50bbcb332a102c1a8aa107c43739723d4391e9c5efc70baeb742eb6927e01bd6a21c37f245c21946912d0518ade2da958093b99fa65"
+hash = "4ff39799e6c48e7faea8b773afce0338aad583222ff1bcd511dac9388590f33e390c098bc56b08a701552cd639629f2a93259896d35f0d6f39f92916aa3a986c"
 
 [update]
 [update.modrinth]
 mod-id = "6pVlXMty"
-version = "Kz8ArmdZ"
+version = "pYbzcsqu"

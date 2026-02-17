@@ -7,6 +7,20 @@
 
 
 
+
+## [2.0.18] - 2026-02-17
+
+
+
+### Updated
+```
+- Bronze: bronze-fabric-2.1.5+1.21.11.jar -> bronze-fabric-2.1.6+1.21.11.jar
+- Basic Storage: basicstorage-2.4.1+1.21.11.jar -> basicstorage-2.4.2+1.21.11.jar
+- Basic Weapons: basicweapons-fabric-2.3.4+1.21.11.jar -> basicweapons-fabric-2.3.5+1.21.11.jar
+- Block Breaker & Block Placer: breakerplacer-fabric-1.0.6+1.21.11.jar -> breakerplacer-1.0.7+1.21.11.jar
+```
+
+---
 ## [2.0.17] - 2026-02-14
 
 

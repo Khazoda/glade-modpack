@@ -47,12 +47,12 @@ metafile = true
 
 [[files]]
 file = "mods/basic-weapons.pw.toml"
-hash = "3656e3e87f8617e86653cc3bf1054258fcf801127e0e9b35a141d18a0adff121"
+hash = "49939381c3f444ccddeea98e2c19f3f331c887900c0aa63e1627acaf43ac2438"
 metafile = true
 
 [[files]]
 file = "mods/basicstorage.pw.toml"
-hash = "56b61b44367b8a29d18fc196efb80a5196bf96751bc728f71feda22fb828afcf"
+hash = "4d80003a66b27ec7dc7f72e71ef97bc186c8bd2f2b325a8f51c69ae50e4beb41"
 metafile = true
 
 [[files]]
@@ -62,12 +62,12 @@ metafile = true
 
 [[files]]
 file = "mods/breakerplacer.pw.toml"
-hash = "3cb7ed0b255bf296ae15b453220c1895ceb3aa74ccfb77bb68a88fbbbb1147a2"
+hash = "cf50ddf567ce2584f08ded3038d3e9368f74aca64cf4c376740bd2d33dc82add"
 metafile = true
 
 [[files]]
 file = "mods/bronze.pw.toml"
-hash = "6a3fc3c987f7b52367983d50ccaefa40bc9bcb5b2754056a9e1bb0caaa3b96be"
+hash = "342a31d618509bb353669009dba29ca59a4fbb64680f97652da10b78e1ba4e92"
 metafile = true
 
 [[files]]
