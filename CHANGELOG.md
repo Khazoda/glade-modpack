@@ -8,6 +8,26 @@
 
 
 
+
+## [2.0.19] - 2026-02-20
+
+### Added
+```
+- user flags
+```
+
+### Removed
+```
+- No Chat Reports
+```
+
+### Updated
+```
+- Basic Weapons: basicweapons-fabric-2.3.5+1.21.11.jar -> basicweapons-fabric-2.3.6+1.21.11.jar
+- More Culling: moreculling-fabric-1.21.11-1.6.1.jar -> moreculling-fabric-1.21.11-1.6.2.jar
+```
+
+---
 ## [2.0.18] - 2026-02-17
 
 

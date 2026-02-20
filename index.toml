@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/basic-weapons.pw.toml"
-hash = "49939381c3f444ccddeea98e2c19f3f331c887900c0aa63e1627acaf43ac2438"
+hash = "ab63b144f7c03eb52e39e20ccefce5779164a2693c1ea80c604ec761ca80d1d0"
 metafile = true
 
 [[files]]
@@ -152,17 +152,12 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "0544fefc6f04f2b408b2c6b4dd3e4bf7d0a4048f1fad6ddf63357549d7446165"
+hash = "e4b9192ce7f54715dde7eb682ebab23aaaac10658b1bd08ba553a5f99b0124d1"
 metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "44f00c1a0e3d4f8717e805c30c862a597e7856472e72637800fd1a38d73fbd08"
-metafile = true
-
-[[files]]
-file = "mods/no-chat-reports.pw.toml"
-hash = "cd25851cbdaad2dd1957a8086ce54aa4bd3c45be75e1ba49168a54fafbd87898"
 metafile = true
 
 [[files]]
@@ -208,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "9d340481c374a20067d1748c1a4991626bce9d7812f0bdb96072cd7a15d35462"
+metafile = true
+
+[[files]]
+file = "mods/user-flags.pw.toml"
+hash = "1bd6a19a67b5caf0d42080571cdf77be4539a8435e84413cabc0c3022afd0adf"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "user flags"
+filename = "user_flags-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1snF16kT/versions/ZW9UbyEc/user_flags-1.0.0.jar"
+hash-format = "sha512"
+hash = "70fb1829cdcdfa468749514cfe0f6913bb45a3d81a76becb97e4c9ac4f78f118f4b3e598561bdfa4ccb34ecfcdcf9a9cf2ba85add2bdd43e0b1d8f2d89e1315e"
+
+[update]
+[update.modrinth]
+mod-id = "1snF16kT"
+version = "ZW9UbyEc"
