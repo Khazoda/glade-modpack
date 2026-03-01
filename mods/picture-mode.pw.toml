@@ -1,13 +1,13 @@
 name = "Picture Mode"
-filename = "picturemode-fabric-1.0.8+1.21.11.jar"
+filename = "picturemode-fabric-1.1.1+1.21.11.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/kFU5UCQz/versions/vAcqNNt9/picturemode-fabric-1.0.8%2B1.21.11.jar"
+url = "https://cdn.modrinth.com/data/kFU5UCQz/versions/MIKxmnYG/picturemode-fabric-1.1.1%2B1.21.11.jar"
 hash-format = "sha512"
-hash = "6ba8994c4e78fc4a480298e08247794a148549dc7b4c3c71babfc2300cc660ed8258b6416d208b51c1b6c890572b32027bc8cfc6c836d2cf8e799aabea516088"
+hash = "bf49764e3c622dec8637e23ca6f1b40f070f655843595802bcfe443bd23b781f5d521108b8118b411ee59e32535a6f4e686111992c0b3b1846bfac9b153b39fe"
 
 [update]
 [update.modrinth]
 mod-id = "kFU5UCQz"
-version = "vAcqNNt9"
+version = "MIKxmnYG"

@@ -9,6 +9,19 @@
 
 
 
+
+## [2.0.20] - 2026-03-01
+
+
+
+### Updated
+```
+- Sodium: sodium-fabric-0.8.4+mc1.21.11.jar -> sodium-fabric-0.8.6+mc1.21.11.jar
+- Iris Shaders: iris-fabric-1.10.5+mc1.21.11.jar -> iris-fabric-1.10.6+mc1.21.11.jar
+- Picture Mode: picturemode-fabric-1.0.8+1.21.11.jar -> picturemode-fabric-1.1.1+1.21.11.jar
+```
+
+---
 ## [2.0.19] - 2026-02-20
 
 ### Added

@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "276947b1f9933ca2220a00736aba177e4034ca9a45cad9f258abf762fdb3bb0b"
+hash = "38c950bdd47f54d586d1e9ae0c714574885423941ed7799f11b776d2b05ed02f"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/picture-mode.pw.toml"
-hash = "4b283ab6e6c08483c2e9e3a79e18beaafcbc751b98bbcb12dc2c317a53044d48"
+hash = "e07bf0ce31eac54ce3e9ca2d13819a0667cf034a8d6460015f290e3f2064f666"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "9d340481c374a20067d1748c1a4991626bce9d7812f0bdb96072cd7a15d35462"
+hash = "0b4c98b7b25cdfcbb7882c32155d597f0fcaa37aa301b14baf4ad8cab65fea85"
 metafile = true
 
 [[files]]
