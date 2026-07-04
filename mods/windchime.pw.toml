@@ -1,0 +1,13 @@
+name = "wind chimes"
+filename = "windchimes-fabric-1.1.0+1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/I6BSgJNV/versions/IQpmd7qx/windchimes-fabric-1.1.0%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "9022dd534b1a95b385496ba975051211c56db866ecf5640af9f6c32440e4b810bd78f996d402ad32563011d832d0b4b2a98b0845d9c8fa18c72eeb8192fa50d9"
+
+[update]
+[update.modrinth]
+mod-id = "I6BSgJNV"
+version = "IQpmd7qx"

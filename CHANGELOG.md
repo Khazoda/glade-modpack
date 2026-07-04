@@ -10,6 +10,42 @@
 
 
 
+
+## [2.1.0] - 2026-07-04
+
+### Added
+```
+- wind chimes
+```
+
+
+### Updated
+```
+- Iris Shaders: iris-fabric-1.10.6+mc1.21.11.jar -> iris-fabric-1.10.7+mc1.21.11.jar
+- Packed Packs: packed_packs-fabric-2.0.3+1.21.11-patch.1.jar -> packed_packs-fabric-2.2.1+1.21.11.jar
+- Sodium: sodium-fabric-0.8.6+mc1.21.11.jar -> sodium-fabric-0.8.13-beta.2+mc1.21.11.jar
+- Visual: Armor Trims: visual_armor_trims_4.1.zip -> visual_armor_trims_4.2.zip
+- Particle Rain: particlerain-4.0.0-beta.5+1.21.11-fabric.jar -> particlerain-4.0.0-beta.10+1.21.11-fabric.jar
+- RAY's 3D Ladders: ┬º9RAY's ┬ºf3D ┬º6Ladders┬º8┬ºo┬ºk.zip -> RAYs_3D_Ladders_v2.0.zip
+- Complementary Shaders - Unbound: ComplementaryUnbound_r5.7.1.zip -> ComplementaryUnbound_r5.8.1.zip
+- Fast IP Ping: fast-ip-ping-v1.0.8-mc1.21.11-fabric.jar -> fast-ip-ping-v1.0.11-mc1.21.11-fabric.jar
+- Sodium Extra: sodium-extra-fabric-0.8.3+mc1.21.11.jar -> sodium-extra-fabric-0.9.1+mc1.21.11.jar
+- Chat Animation [Smooth Chat]: chatanimation-fabric-1.21.11-1.1.3.jar -> chatanimation-fabric-1.2.0+mc1.21.11.jar
+- Fabric API: fabric-api-0.141.3+1.21.11.jar -> fabric-api-0.141.4+1.21.11.jar
+- Inventory Essentials: inventoryessentials-fabric-1.21.11-21.11.4.jar -> inventoryessentials-fabric-1.21.11-21.11.5.jar
+- Presence Footsteps: PresenceFootsteps-1.12.3+1.21.11.jar -> PresenceFootsteps-1.12.4+1.21.11.jar
+- Balm: balm-fabric-1.21.11-21.11.6.jar -> balm-fabric-1.21.11-21.11.9.1.jar
+- Fabric Language Kotlin: fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar -> fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar
+- Mod Menu: modmenu-17.0.0-beta.2.jar -> modmenu-17.0.0.jar
+- Picture Mode: picturemode-fabric-1.1.1+1.21.11.jar -> picturemode-fabric-1.1.6+1.21.11.jar
+- Plushables: plushables-fabric-2.0.11+1.21.11.jar -> plushables-fabric-2.1.0+1.21.11.jar
+- June's Titlescreen: Terracotta Titlescreen.zip -> Terracotta Titlescreen.zip
+- Basic Weapons: basicweapons-fabric-2.3.6+1.21.11.jar -> basicweapons-fabric-2.3.7+1.21.11.jar
+- user flags: user_flags-1.0.0.jar -> faun-2.0.1.jar
+- Clean Connected Glass: Clean Connected Glass [1.20-1.21.11].zip -> Clean Connected Glass [1.20-26.x].zip
+```
+
+---
 ## [2.0.20] - 2026-03-01
 
 
