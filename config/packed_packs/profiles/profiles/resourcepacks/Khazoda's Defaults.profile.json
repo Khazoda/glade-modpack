@@ -1,20 +1,23 @@
 {
   "locked": false,
-  "name": "Default by Khazoda",
+  "name": "Khazoda\u0027s Defaults",
   "overrides": {},
   "packIds": [
-    "file/Clean Connected Glass [1.20-1.21.11].zip",
+    "file/Overgrown Moss Carpet 3.1.zip",
+    "file/RAYs_3D_Ladders_v2.0.zip",
+    "file/visual_armor_trims_4.2.zip",
+    "file/Clean Connected Glass [1.20-26.x].zip",
+    "continuity:default",
     "file/EvenBetterEnchants_v3_1.21.5+.zip",
-    "file/visual_armor_trims_4.1.zip",
-    "file/Overgrown Moss Carpet 2.3.zip",
     "file/Simple Grass Flowers v1.9.6.zip",
     "file/Terracotta Titlescreen.zip",
     "file/Creative Music.zip",
-    "file/§9RAY\u0027s §f3D §6Ladders§8§o§k.zip",
     "file/xali\u0027s Enhanced Jungle Wood v1.2.zip",
     "file/Banner Pattern Clarity v1.6.zip",
     "file/Os\u0027 Colorful Cobblestone.zip",
     "file/Os\u0027 Shulkers.zip",
-    "vanilla"
+    "vanilla",
+    "basicweapons:bwmp_nether-materials_minecraft_26.1",
+    "basicweapons:bwmp_emerald_minecraft_26.1"
   ]
 }

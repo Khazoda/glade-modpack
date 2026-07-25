@@ -1,0 +1,13 @@
+name = "Catalogue"
+filename = "catalogue-fabric-26.1.2-1.12.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7f93d2fb87baa10e61b8065597ffe3e6fdd17fa7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7943158
+project-id = 459701

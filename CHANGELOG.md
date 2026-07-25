@@ -11,6 +11,37 @@
 
 
 
+
+## [3.0.0] - 2026-07-25
+
+### Added
+```
+- Even Better Enchants Resourcepack
+- voxy
+- longview
+- Particle Interactions
+- KhazodaCore
+- Catalogue
+- Menulogue
+```
+
+### Removed
+```
+- better ping display
+- modmenu
+```
+
+### Updated
+```
+- everything else
+```
+
+### Notes
+```
+- spawners can no longer be mined with silk touch (the mod adding that wasn't updated to 26.1.x)
+```
+
+---
 ## [2.1.0] - 2026-07-04
 
 ### Added

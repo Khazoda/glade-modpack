@@ -1,13 +1,13 @@
 name = "Nether Material Pack for Basic Weapons"
-filename = "bwmp_nether-materials_minecraft_1.21.11.zip"
+filename = "bwmp_nether-materials_minecraft_26.1.zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/oqNHk80c/versions/rfzDYYfM/bwmp_nether-materials_minecraft_1.21.11.zip"
+url = "https://cdn.modrinth.com/data/oqNHk80c/versions/RYMumUdm/bwmp_nether-materials_minecraft_26.1.zip"
 hash-format = "sha512"
-hash = "0018e9961fbf8dc8a7144c8b58eae094d27231a31aec8badab9087b961092e30b6ef00ce726e583be9c0989e0765c849970f86839d86de67cc1d8490cbb42296"
+hash = "5cb234988380b6217b06aec1cd9f7393b1e5ae38aeac98f9dfe24a6025185f1c9f68abd60ffcd7faab368f08335d40c4385b305c8d859aa4c690d074a81c3b0e"
 
 [update]
 [update.modrinth]
 mod-id = "oqNHk80c"
-version = "rfzDYYfM"
+version = "RYMumUdm"

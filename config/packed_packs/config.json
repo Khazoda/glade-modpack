@@ -6,12 +6,12 @@
   "resourcepacks": {
     "applyOnClose": true,
     "replaceOriginal": true,
-    "hideIncompatibleWarnings": false,
+    "hideIncompatibleWarnings": true,
     "additionalFolders": [],
     "rememberLastViewedProfile": true,
-    "lastViewedProfile": "Default by Khazoda__3e586d5c",
+    "lastViewedProfile": "No Profile",
     "profileOrder": [
-      "Default by Khazoda__3e586d5c"
+      "No Profile"
     ]
   },
   "datapacks": {
