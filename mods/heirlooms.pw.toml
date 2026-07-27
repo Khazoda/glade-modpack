@@ -1,13 +1,13 @@
 name = "Heirlooms"
-filename = "heirlooms-fabric-1.4.2+26.1.jar"
+filename = "heirlooms-fabric-1.4.3+26.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/E1ZTThzs/versions/wW02e4jL/heirlooms-fabric-1.4.2%2B26.1.jar"
+url = "https://cdn.modrinth.com/data/E1ZTThzs/versions/NCQHzEEM/heirlooms-fabric-1.4.3%2B26.1.jar"
 hash-format = "sha512"
-hash = "35cca2cef65d5636765cf58fae85d0493db43fd3ac1a923a1628b205cf418e7fa2add3a06af25c4f673ec87bac860ff165af3759e9cbd0d11be70882c9bb1e67"
+hash = "e9387ae45c6570882c63e97f65b6d84364a89536f56b3b7d148ae91065e3a2b5a867d85df68772ba94a21b337b7d541864b690e3ae494a941b0d9335c284e9c9"
 
 [update]
 [update.modrinth]
 mod-id = "E1ZTThzs"
-version = "wW02e4jL"
+version = "NCQHzEEM"

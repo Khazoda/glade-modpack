@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/heirlooms.pw.toml"
-hash = "9847ecb1884814da3d49ef0fc06dbfd20ff8e8f2824fd58a651f255dcae72b21"
+hash = "c8c65dd13c6063de4abf38afc4e42c742ee22cbded7bb300cad2b79a2b888dc8"
 metafile = true
 
 [[files]]
@@ -148,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/lightweight-inventory-sorting.pw.toml"
 hash = "16efa3bd07d82fb74984ce6d23401e1d5b1d9ccff89e9197b7b1cff586dd3f8a"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "cd37520fbb14b8d5e9471d8c25324736e02dcf3be4b7c5df1699757b2264049f"
 metafile = true
 
 [[files]]
